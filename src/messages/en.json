@@ -13,8 +13,8 @@
   "hero": {
     "title": "Warsaw Barbican",
     "subtitle": "Medieval Fortress, Old Town Walls & Historic Landmark in Warsaw",
-    "rating": "4.7(10,817)",
-    "reviewCount": "10,817 reviews",
+    "rating": "4.7(10,875)",
+    "reviewCount": "10,875 reviews",
     "hours": "Open 24/7",
     "openMaps": "View Location"
   },
@@ -217,7 +217,7 @@
       "City Details",
       "Historical Landmark"
     ],
-    "viewAll": "View on Google Maps",
+    "viewAll": "View more photos on Google Maps",
     "showAllPhotos": "Show All Photos"
   },
   "reviews": {
@@ -248,6 +248,30 @@
         "date": "December 2025",
         "rating": 4,
         "text": "Great historical site! The restoration work is impressive, you can really appreciate the medieval defensive architecture. Best visited in early morning."
+      },
+      {
+        "name": "Kalowes David",
+        "date": "8 months ago",
+        "rating": 4,
+        "text": "A simple fortification, very historically significant."
+      },
+      {
+        "name": "Yanjun Wang",
+        "date": "6 years ago",
+        "rating": 4,
+        "text": "A very beautiful castle, feels like it was designed for a commendable architectural aesthetic, but functionally, as a fortification, it is somewhat unsatisfactory. Fortunately, these city defenses no longer have military significance, so it's better to just enjoy them as art."
+      },
+      {
+        "name": "Xinyi Liu",
+        "date": "4 years ago",
+        "rating": 5,
+        "text": "Three of the best looking places in Warsaw: Chopin Park, Old Town Square, and here. Very suitable for taking photos, and the museum is also worth a visit."
+      },
+      {
+        "name": "Jackie Teng",
+        "date": "2 years ago",
+        "rating": 5,
+        "text": "Very beautiful building."
       }
     ]
   },
