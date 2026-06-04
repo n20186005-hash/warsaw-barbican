@@ -46,7 +46,7 @@
       {
         "id": "history",
         "title": "百年城防历史",
-        "content": "华沙巴比肯修建于16世纪，为完善华沙老城外围防御体系而建造，主要用于抵御外敌入侵、守护城门要道，是当时城市防卫系统的关键节点。建筑依托古城墙修建，以红砖为主体材料，搭配军事防御设计，长期守护老城安全。\n\n战争年代，巴比肯与周边古城墙遭受严重破坏，大量墙体损毁残缺，历史建筑濒临消失。战后华沙开展系统性老城修复工程，严格依照历史图纸与遗存原貌，精准复原巴比肯整体结构与砖石细节，完整保留中世纪建筑风貌。\n\n数百年来，这座防御堡垒从军事要塞，转变为城市历史地标。串联华沙老城众多古迹，承载中世纪军事文化、战火记忆与城市重生历程，长久以来守护老城格局，成为波兰历史文化传播的重要载体。"
+        "content": "华沙的防御工事始于14世纪初的土木结构，随后逐渐替换为石砖城墙，并由马佐夫舍公爵老亚努什一世资助完成。15世纪中叶至16世纪初，华沙修建了第二道城墙，形成了宽9至14米的护城河区域，城墙全长1200米，环绕8.5公顷（约12个足球场大小）的区域。\n\n16世纪中叶，市民将北部城门扩建为向外延伸的瓮城（Barbican），以便进行侧翼火力防御。然而在17世纪“大洪水时代”（瑞典入侵）及18世纪大北方战争期间，城墙遭到严重破坏，逐渐失去防御价值。到了19世纪，城墙被用来建造民居，直到20世纪30年代，市政当局才开始拆除部分建筑以重现古城墙。\n\n二战华沙起义期间老城化为废墟，但古城墙遗迹幸运地部分幸存。战后，瓮城及部分城墙得以修复，如今作为联合国教科文组织世界遗产的一部分，不仅见证了华沙的变迁，更成为城市的重要象征。"
       },
       {
         "id": "architecture",
@@ -84,13 +84,13 @@
     "title": "开放时间",
     "outdoor": "户外古城墙与巴比肯全域",
     "outdoorTime": "全年全天开放",
-    "lighthouse": "内部历史展厅与城墙步道",
+    "lighthouse": "内部历史展厅（《华沙瓮城与老城城墙：古迹的命运》）",
     "summer": "夏季（4月至10月）",
-    "summerTime": "09:00-18:00",
-    "winter": "冬季（11月至3月）",
-    "winterTime": "09:00-16:00",
+    "summerTime": "夏季开放（详情请见官网）",
+    "winter": "秋冬季节",
+    "winterTime": "内部展览闭馆",
     "warning": "温馨提示",
-    "warningTime": "周一常设闭馆休整。极端天气可能影响城墙步道通行。",
+    "warningTime": "周一常设闭馆休整。内部展览仅在夏季开放。户外城墙与穿行通道全年全天免费开放。",
     "tip": "建议清晨或傍晚到访，人流稀少，中世纪石墙光影复古，适合安静游览"
   },
   "tickets": {
@@ -343,16 +343,40 @@
     "attractionsTitle": "附近景点",
     "toursTitle": "推荐行程与活动",
     "attractions": [
-      {"name": "城堡广场", "url": "https://maps.app.goo.gl"},
-      {"name": "皇家城堡", "url": "https://maps.app.goo.gl"},
-      {"name": "老城广场", "url": "https://maps.app.goo.gl"},
-      {"name": "齐格蒙塔圆柱", "url": "https://maps.app.goo.gl"}
+      {
+        "name": "城堡广场",
+        "url": "https://maps.app.goo.gl"
+      },
+      {
+        "name": "皇家城堡",
+        "url": "https://maps.app.goo.gl"
+      },
+      {
+        "name": "老城广场",
+        "url": "https://maps.app.goo.gl"
+      },
+      {
+        "name": "齐格蒙塔圆柱",
+        "url": "https://maps.app.goo.gl"
+      }
     ],
     "tours": [
-      {"name": "华沙老城步行之旅", "url": "https://www.getyourguide.com"},
-      {"name": "华沙历史探索之旅", "url": "https://www.getyourguide.com"},
-      {"name": "华沙美食与文化之旅", "url": "https://www.getyourguide.com"},
-      {"name": "华沙二战历史之旅", "url": "https://www.getyourguide.com"}
+      {
+        "name": "华沙老城步行之旅",
+        "url": "https://www.getyourguide.com"
+      },
+      {
+        "name": "华沙历史探索之旅",
+        "url": "https://www.getyourguide.com"
+      },
+      {
+        "name": "华沙美食与文化之旅",
+        "url": "https://www.getyourguide.com"
+      },
+      {
+        "name": "华沙二战历史之旅",
+        "url": "https://www.getyourguide.com"
+      }
     ]
   }
 }

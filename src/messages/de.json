@@ -46,7 +46,7 @@
       {
         "id": "history",
         "title": "Centuries of Defense History",
-        "content": "The Warsaw Barbican was built in the 16th century to complete the outer defensive system of Warsaw's Old Town, mainly used to resist foreign invaders and guard the city gates. The building was constructed along the ancient city walls, with red brick as the main material, paired with military defensive design, long protecting the Old Town's safety.\n\nDuring wartime, the Barbican and surrounding ancient walls suffered serious damage, with large portions destroyed and historical buildings on the brink of disappearance. After the war, Warsaw carried out systematic Old Town restoration projects, strictly following historical drawings and remaining original features, precisely restoring the Barbican's overall structure and brick details, fully preserving the medieval architectural style.\n\nFor hundreds of years, this defensive fortress has transformed from a military fort into an urban historical landmark, connecting numerous Old Town heritage sites, carrying medieval military culture, wartime memories and the city's rebirth journey, long protecting the Old Town's pattern and serving as an important carrier of Polish historical and cultural transmission."
+        "content": "Warsaw's fortifications began in the early 14th century with wooden-earth structures, later replaced by stone and brick walls, aided by Prince Janusz I the Old. Between the mid-15th and early 16th centuries, a second ring of walls was built, creating a 9-14 meter wide inter-wall area secured by a water-filled moat. The 1200-meter wall perimeter enclosed 8.5 hectares (about 12 football fields).\n\nIn the mid-16th century, the northern city gate was expanded into the Barbican—an elongated outpost allowing for side-fire defense. However, during the mid-17th century Swedish Deluge and the early 18th century Great Northern War, the walls were severely damaged and lost their defensive value. By the 19th century, the walls were obscured by tenement houses built directly onto them, until the 1930s when city authorities began uncovering the medieval fragments.\n\nWhile the Old Town was heavily destroyed during the Warsaw Uprising in WWII, the old fortifications were largely spared. Reconstructed post-war, the Barbican and city walls now stand as a UNESCO World Heritage site and a proud testament to Warsaw's enduring history."
       },
       {
         "id": "architecture",
@@ -84,13 +84,13 @@
     "title": "Opening Hours",
     "outdoor": "Outdoor Ancient Walls & Barbican Area",
     "outdoorTime": "Open 24/7, year-round",
-    "lighthouse": "Internal Historical Exhibition & Wall Path",
+    "lighthouse": "Internal Exhibition ('Barbican and the walls of Old Warsaw')",
     "summer": "Summer (April - October)",
-    "summerTime": "09:00-18:00",
-    "winter": "Winter (November - March)",
-    "winterTime": "09:00-16:00",
+    "summerTime": "Open during the summer season",
+    "winter": "Autumn-Winter Season",
+    "winterTime": "Internal exhibition is closed",
     "warning": "Notice",
-    "warningTime": "Closed on Mondays for maintenance. Weather conditions may affect wall path access.",
+    "warningTime": "Closed on Mondays. The internal exhibition is only open during summer. Walking through the gate and on the defensive walls is free and possible all year round.",
     "tip": "Recommended to visit in early morning or evening when crowds are sparse and lighting is vintage"
   },
   "tickets": {
@@ -343,16 +343,40 @@
     "attractionsTitle": "Nearby Attractions",
     "toursTitle": "Recommended Tours & Activities",
     "attractions": [
-      {"name": "Castle Square", "url": "https://maps.app.goo.gl"},
-      {"name": "Royal Castle", "url": "https://maps.app.goo.gl"},
-      {"name": "Old Town Square", "url": "https://maps.app.goo.gl"},
-      {"name": "Sigismund's Column", "url": "https://maps.app.goo.gl"}
+      {
+        "name": "Castle Square",
+        "url": "https://maps.app.goo.gl"
+      },
+      {
+        "name": "Royal Castle",
+        "url": "https://maps.app.goo.gl"
+      },
+      {
+        "name": "Old Town Square",
+        "url": "https://maps.app.goo.gl"
+      },
+      {
+        "name": "Sigismund's Column",
+        "url": "https://maps.app.goo.gl"
+      }
     ],
     "tours": [
-      {"name": "Warsaw Old Town Walking Tour", "url": "https://www.getyourguide.com"},
-      {"name": "Warsaw History Tour", "url": "https://www.getyourguide.com"},
-      {"name": "Warsaw Food & Culture Tour", "url": "https://www.getyourguide.com"},
-      {"name": "Warsaw WWII Historical Tour", "url": "https://www.getyourguide.com"}
+      {
+        "name": "Warsaw Old Town Walking Tour",
+        "url": "https://www.getyourguide.com"
+      },
+      {
+        "name": "Warsaw History Tour",
+        "url": "https://www.getyourguide.com"
+      },
+      {
+        "name": "Warsaw Food & Culture Tour",
+        "url": "https://www.getyourguide.com"
+      },
+      {
+        "name": "Warsaw WWII Historical Tour",
+        "url": "https://www.getyourguide.com"
+      }
     ]
   }
 }
