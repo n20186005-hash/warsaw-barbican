@@ -1,3 +1,207 @@
+
+
+
+
+
+
+我们网站是
+
+warsawbarbican.com
+
+检查一遍看下是否有错误
+
+
+
+
+
+
+
+1、精彩照片
+
+在 Google Maps 查看位置
+
+改成
+
+在 Google Maps 查看更多照片
+
+
+
+2、游客评价
+
+在现有评价基础上新增到8条，不要捏造评价直接从https://maps.app.goo.gl/yJjZQ1xta9pJCnzM9 提取
+
+
+
+
+
+
+
+
+
+
+
+你正在用（Next.js开发）
+
+华沙瓮城
+
+Barbakan Warszawski
+
+4.7(10,875)
+
+古迹地标
+
+Nowomiejska 15/17, 00-257 Warszawa, 波兰
+
++48222774402
+
+7226+62 华沙 波兰
+
+https://maps.app.goo.gl/yJjZQ1xta9pJCnzM9
+
+
+
+\### 分项填写
+
+1\. \*\*国家/地区\*\*：波兰（Poland）
+
+2\. \*\*地址\\\*\*\*：Nowomiejska 15/17
+
+3\. \*\*地址2\*\*：（空白不填）
+
+4\. \*\*城市\\\*\*\*：Warszawa（华沙）
+
+5\. \*\*省/自治区/直辖市\\\*\*\*：马佐夫舍省（Mazowieckie）
+
+6\. \*\*邮政编码\\\*\*\*：00-257
+
+
+
+
+
+这个单景点买.com域名推荐
+
+
+
+首屏背景图要引用
+
+C:\\Users\\Administrator\\Documents\\GitHub\\warsaw-barbican\\public\\gallery\\images (1).jpg
+
+
+
+
+
+照片画廊
+
+精彩照片 显示照片不全目前只显示8张，需要有显示完整照片显示功能
+
+检查照片名称是否正确并修正
+
+
+
+删除 探索更多 板块
+
+
+
+首屏谷歌地图位置跳转为 https://maps.app.goo.gl/yJjZQ1xta9pJCnzM9
+
+
+
+照片画廊
+
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/yJjZQ1xta9pJCnzM9
+
+
+
+游客评价
+
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/yJjZQ1xta9pJCnzM9
+
+
+
+地图位置
+
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/yJjZQ1xta9pJCnzM9
+
+
+
+首屏右侧切换中文的时候 网站没转为/zh
+
+
+
+
+
+删除原先友情链接，新增以下友情链接
+
+波兰共和国外交与签证
+
+https://www.gov.pl/
+
+波兰国家旅游局
+
+https://www.poland.travel/en/
+
+华沙博物馆——瓮城分馆
+
+https://barbakan.muzeumwarszawy.pl/
+
+波兰国家遗产研究院
+
+https://nid.pl/
+
+马佐夫舍省省长及议会
+
+https://mazovia.pl/
+
+
+
+
+
+新增
+
+
+
+波兰语
+
+俄语
+
+德语
+
+
+
+生成一个文件忽略不需要上传的文件
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 你正在用（Next.js开发）
 为一个新景点【Warsaw Barbican】【warsawbarbican】构建静态/Next.js 单页指南网站。
 页面只需要支持中文和英文双语言
@@ -64,3 +268,4 @@
 复古庭院民宿：老城区老式建筑改造居所，中欧复古氛围浓厚，沉浸式体验本地生活
 高性价比住宿：城市交通枢纽周边，配套完善，通勤便捷，适合短途性价比出行
 【住宿补充说明】华沙老城区治安稳定，日间游览安全舒适，深夜避开偏僻小巷即可。旅游旺季与节假日住宿价格有所上浮，建议提前预订。优先选择老城核心地段住宿，步行圈覆盖巴比肯、城堡广场、老城广场等全部核心景点。
+
