@@ -1,406 +1,336 @@
 {
   "meta": {
-    "title": "Warsaw Barbican | Medieval Fortress, Old Town Walls & Historic Landmark - Best European Spots",
-    "description": "Complete guide to Warsaw Barbican (Barbakan Warszawski) in Poland. Learn about opening hours, transportation, ticket info, tour tips and stunning photos. Best-preserved medieval fortification in Central Europe."
+    "title": "Варшавский барбакан (Warszawa): Часы работы, Билеты и История (2026)",
+    "description": "Планируете посетить Варшавский барбакан (Barbakan Warszawski)? Цены на билеты, часы работы, маршрут прогулки по Старому городу и фото исторических городских стен Варшавы.",
+    "keywords": "варшавский барбакан, warsaw barbican, barbakan warszawski, старый город варшава, что посмотреть в варшаве, королевский замок варшава, рыночная площадь старого города, улица подвале"
   },
   "header": {
-    "home": "Home",
-    "gallery": "Gallery",
-    "reviews": "Reviews",
-    "map": "Map",
-    "backToHome": "Back to Home"
+    "nav": {
+      "overview": "Обзор",
+      "hours": "Часы и билеты",
+      "history": "История",
+      "transport": "Как добраться",
+      "walkingTour": "Прогулка по Старому городу",
+      "nearby": "Рядом",
+      "photos": "Фото",
+      "faq": "FAQ",
+      "map": "Карта"
+    },
+    "cta": "Как добраться"
   },
   "hero": {
-    "title": "Warsaw Barbican",
-    "subtitle": "Medieval Fortress, Old Town Walls & Historic Landmark in Warsaw",
-    "rating": "4.7(10,875)",
-    "reviewCount": "10,875 reviews",
-    "hours": "Open 24/7",
-    "openMaps": "View Location"
+    "title": "Варшавский Барбакан — Полный Гид (Часы, Билеты, История)",
+    "subtitle": "Кирпичная крепость XVI века на краю Старого города Варшавы. Часы работы, цены на билеты, история и маршрут прогулки — всё в одном гиде.",
+    "imgAlt": "Варшавский барбакан — кирпичные ворота, соединяющие стены Старого и Нового города, Варшава, Польша",
+    "ctaPrimary": "Спланировать визит",
+    "ctaSecondary": "Открыть на карте"
   },
   "intro": {
-    "title": "Discover Warsaw Barbican",
-    "description": "Walking through the streets of Warsaw's Old Town, an ancient brick wall stretches endlessly, and a massive semicircular red-brick fortress suddenly comes into view—this is the Warsaw Barbican. As the most atmospheric medieval relic in the Old Town, it stands far from the noise of the modern city, covered in traces of time-worn weathering, every brick holding stories of Warsaw's past.\n\nThe vintage arched passages crisscross, the thick city wall isolates external noise—walking through feels like traveling back to medieval city years. Outside the wall is the lively Old Town streets, inside is the quiet historical site, ancient and modern scenes blend together, creating a uniquely atmospheric environment. Tourists stroll slowly, carefully observing the ancient fortification structure, feeling the solidity and ingenuity of old military architecture.\n\nWalking slowly along the city wall path, red brick walls paired with vintage street scenes make for excellent photo opportunities. There is no complex commercial decoration, only the original appearance of the heritage site, quiet yet powerful. Located in the core loop of the Old Town, connecting multiple historical landmarks, naturally integrated into the city's daily life, becoming a hidden gem where烟火气和历史感 coexist.",
-    "visitGuide": {
-      "title": "Visit Tips",
-      "items": [
-        "Recommended to visit in early morning or evening when crowds are sparse",
-        "Medieval stone walls have vintage lighting, perfect for quiet tours and photography",
-        "Outdoor ancient walls and Barbican area open year-round, 24/7",
-        "Winter city streets can be cold and windy, dress warmly"
-      ]
-    },
-    "alsoKnownAs": {
-      "title": "Highlights",
-      "items": [
-        "Best-preserved medieval fortification in Warsaw",
-        "Rare Renaissance defensive architecture in Central Europe",
-        "Important part of UNESCO World Heritage Site - Historic Centre of Warsaw",
-        "Witness to medieval urban defense and border development history"
-      ]
-    }
-  },
-  "knowledge": {
-    "title": "The Charm of Warsaw Barbican",
-    "sections": [
-      {
-        "id": "history",
-        "title": "Centuries of Defense History",
-        "content": "Warsaw's fortifications began in the early 14th century with wooden-earth structures, later replaced by stone and brick walls, aided by Prince Janusz I the Old. Between the mid-15th and early 16th centuries, a second ring of walls was built, creating a 9-14 meter wide inter-wall area secured by a water-filled moat. The 1200-meter wall perimeter enclosed 8.5 hectares (about 12 football fields).\n\nIn the mid-16th century, the northern city gate was expanded into the Barbican—an elongated outpost allowing for side-fire defense. However, during the mid-17th century Swedish Deluge and the early 18th century Great Northern War, the walls were severely damaged and lost their defensive value. By the 19th century, the walls were obscured by tenement houses built directly onto them, until the 1930s when city authorities began uncovering the medieval fragments.\n\nWhile the Old Town was heavily destroyed during the Warsaw Uprising in WWII, the old fortifications were largely spared. Reconstructed post-war, the Barbican and city walls now stand as a UNESCO World Heritage site and a proud testament to Warsaw's enduring history."
-      },
-      {
-        "id": "architecture",
-        "title": "Architectural Features",
-        "content": "Constructed jointly with red brick and stone to form a semicircular defensive wall, paired with thick arches, wall passages and watchtower structures, connecting the continuous ancient wall remains—the overall structure is solid and heavy, preserving the original appearance of medieval military architecture, the enclosed format has a particularly vintage fortress quality.\n\nThe medieval Gothic style combined with Renaissance defensive architectural style, red brick facade vintage and heavy, structure simple and sturdy, with practical defensive function as the main focus, simultaneously possessing classical brick architecture aesthetics, it is a classic model of Eastern European medieval city defense architecture."
-      },
-      {
-        "id": "culture",
-        "title": "Cultural Significance",
-        "content": "The historical bond of Warsaw's Old Town, a representative landmark of medieval urban defense culture, hosting historical performances, vintage markets and cultural activities year-round. Having been completely restored after war damage, it symbolizes urban rebirth and historical inheritance, and is an important place for locals to reminisce and for tourists to learn about Poland's medieval history.\n\nAs a healing historical secret spot in the hearts of Warsaw residents and visitors alike, it carries the historical memory of this city's destruction and rebirth, symbolizing a city's resilience that has endured destruction and regeneration."
-      },
-      {
-        "id": "experience",
-        "title": "Core Experience",
-        "content": "As twilight falls, warm-toned afterglow shines on the red brick walls, the fortress silhouette soft and vintage, the medieval fortress takes on a more gentle atmosphere. Standing beneath the Barbican, you can both touch real historical remains and feel the vibrant market atmosphere of the Old Town, understanding a city's resilient core that has endured destruction and rebirth.\n\nWalking through the arched passages, you feel the thick defensive walls on both sides, as if returning to the medieval era of city walls and defense. Every arch, every brick tells the story of this city's past."
-      }
-    ]
+    "title": "Ворота сквозь шесть веков",
+    "paragraphs": [
+      "Варшавский барбакан (Barbakan Warszawski) — полукруглое кирпичное укрепление, построенное в 1548 году венецианским архитектором Яном Баптистой Венецианином. Он защищал северный вход в Старый город и соединял средневековые стены Старого и Нового города Варшавы.",
+      "Проход через ворота бесплатный, днём и ночью. Переход и сохранившиеся стены — одно из лучших мест для фото в столице: с улицы Подвале внизу виден ров.",
+      "Вы найдёте его по адресу Nowomiejska 15/17, на северной оконечности Старого города, включённого в список ЮНЕСКО, — в трёх минутах ходьбы от Рыночной площади и примерно в восьми минутах от Королевского замка (Zamek Królewski)."
+    ],
+    "readMore": "Читайте далее"
   },
   "basicInfo": {
-    "title": "Basic Information",
-    "officialName": "Official Name",
-    "officialNameValue": "Barbakan Warszawski",
-    "type": "Attraction Type",
-    "typeValue": "Medieval Fortification, Ancient Wall Remains, Old Town Historic Landmark",
-    "country": "Country",
-    "countryValue": "Poland",
-    "city": "City",
-    "cityValue": "Warsaw",
-    "googleRating": "Google Rating",
-    "phone": "Phone",
-    "address": "Address",
-    "addressValue": "Nowomiejska 15/17, 00-257 Warszawa, Poland"
+    "title": "Барбакан вкратце",
+    "intro": "Всё, что нужно знать перед визитом.",
+    "rows": [
+      { "label": "Адрес", "value": "Nowomiejska 15/17, 00-257 Варшава, Польша" },
+      { "label": "Телефон", "value": "+48 22 277 44 02" },
+      { "label": "Расположение", "value": "Старый город Варшавы (Stare Miasto), объект Всемирного наследия ЮНЕСКО" },
+      { "label": "Рейтинг Google", "value": "4,7/5 (11 103 отзыва)" },
+      { "label": "Вход", "value": "Проход бесплатный; выставка от 12 злотых" },
+      { "label": "Время осмотра", "value": "30–45 минут" },
+      { "label": "Совместить с", "value": "Королевским замком, Рыночной площадью, улицей Подвале" }
+    ],
+    "directions": "Проложить маршрут"
   },
   "hours": {
-    "title": "Opening Hours",
-    "outdoor": "Outdoor Ancient Walls & Barbican Area",
-    "outdoorTime": "Open 24/7, year-round",
-    "lighthouse": "Internal Exhibition ('Barbican and the walls of Old Warsaw')",
-    "summer": "Summer (April - October)",
-    "summerTime": "Open during the summer season",
-    "winter": "Autumn-Winter Season",
-    "winterTime": "Internal exhibition is closed",
-    "warning": "Notice",
-    "warningTime": "Closed on Mondays. The internal exhibition is only open during summer. Walking through the gate and on the defensive walls is free and possible all year round.",
-    "tip": "Recommended to visit in early morning or evening when crowds are sparse and lighting is vintage"
+    "title": "Часы работы и цены на билеты",
+    "passageTitle": "Проход через ворота и городские стены",
+    "passageText": "Проход через ворота и сохранившийся участок стен Старого города открыты для всех круглый год, 24 часа в сутки, и полностью бесплатны. Подъём на стены зависит от погоды: после дождя или в гололёд отдельные участки могут быть закрыты в целях безопасности.",
+    "exhibitionTitle": "Выставка «Барбакан и стены Старой Варшавы»",
+    "exhibitionText": "Небольшая выставка внутри барбакана проводится Музеем Варшавы (Muzeum Warszawy) и открывается только в летний сезон. В 2026 году она работает с 20 мая по 29 августа по средам и субботам с 13:00 до 17:00. Перед визитом обязательно проверяйте официальный сайт — даты меняются год от года.",
+    "ticketTitle": "Цены на билеты",
+    "ticketRows": [
+      { "type": "Обычный билет", "price": "12 злотых" },
+      { "type": "Льготный билет", "price": "8 злотых" }
+    ],
+    "ticketNote": "Билеты на выставку продаются только в главной кассе Музея Варшавы по адресу Рыночная площадь Старого города, 28 (Rynek Starego Miasta 28).",
+    "officialLink": "Официальная информация о посещении",
+    "note": "Сам проход всегда бесплатен — билет нужен только на выставку внутри укрепления."
   },
-  "tickets": {
-    "title": "Ticket Prices",
-    "outdoor": "Barbican Outer Square & Ancient Wall Path",
-    "outdoorPrice": "Free admission",
-    "lighthouse": "Internal Museum Area & Wall Climb Access",
-    "adults": "Adults",
-    "adultsPrice": "Discounted pricing",
-    "students": "Students & Youth",
-    "studentsPrice": "Reduced pricing",
-    "children": "Children",
-    "childrenPrice": "Free or discounted",
-    "card": "Warsaw City Card",
-    "cardPrice": "Can offset ticket prices; recommended for multi-attraction visitors"
+  "history": {
+    "title": "История и архитектура барбакана",
+    "subtitle": "Как ренессансные оборонительные ворота пережили снос, войну и тщательную послевоенную реконструкцию.",
+    "paragraphs": [
+      "Барбакан возвели в 1548 году по распоряжению городского совета Старого города, после того как пожар 1543 года и угроза молдавского нашествия обнажили слабость средневековых стен Варшавы. Проект приписывают Яну Баптисте Венецианину (Giovanni Battista di Venezia), венецианскому мастеру военной архитектуры.",
+      "Сооружение представляет собой три четверти круга из красного кирпича с полукруглым внутренним двором; первоначально оно имело четверо ворот и было окружено рвом. Барбакан стоял точно в месте стыка стен Старого и Нового города, служа и обороной, и церемониальными воротами между двумя городскими центрами.",
+      "К XVIII веку укрепление потеряло военное значение: оно использовалось как склад и даже тюрьма. В XIX веке, в период разделов Польши, кирпичная конструкция была в основном разобрана, а материал использован вторично; на её месте построили дома.",
+      "Разрушенный вновь во время Второй мировой войны, барбакан был восстановлен в 1952–1954 годах архитекторами Яном Захватовичем и Вацлавом Подлевским. Реконструкция опиралась на планы и гравюры XVII века; в строительстве использовали кирпич, извлечённый из зданий XVI века в польских городах Ныса и Лович, — осознанная попытка вернуть оригинальный материал.",
+      "Сегодня барбакан является частью исторического центра Варшавы, включённого в список Всемирного наследия ЮНЕСКО в 1980 году, и размещает выставку Музея Варшавы, посвящённую городским укреплениям.",
+      "С архитектурной точки зрения барбакан принадлежит итальянской ренессансной традиции артиллерийских укреплений, перенесённой к северу от Альп. Его полукруглый план, крытая галерея и четверо ворот соответствовали трактатам, которые в середине XVI века распространяли по Центральной Европе венецианские военные инженеры. В регионе сохранилось лишь несколько сопоставимых сооружений, поэтому варшавские реставраторы относятся к этой кирпичной кладке с особым вниманием."
+    ],
+    "timelineTitle": "Хронология",
+    "timeline": [
+      { "year": "1543–1545", "title": "Пожар и решение о строительстве", "text": "Большой пожар 1543 года повреждает северные укрепления; в 1545 году городской совет утверждает проект барбакана в ответ на угрозу пожаров и молдавского нашествия." },
+      { "year": "1548", "title": "Строительство", "text": "Венецианский архитектор Ян Баптиста Венецианин возводит кирпичный барбакан с четырьмя воротами, соединяющий стены Старого и Нового города." },
+      { "year": "XVIII в.", "title": "Склад и тюрьма", "text": "Укрепление теряет оборонительную роль и используется как склад и тюрьма." },
+      { "year": "XIX в.", "title": "Снос", "text": "В период российского раздела стены в основном разбирают, кирпич используют заново." },
+      { "year": "1939–1944", "title": "Вторая мировая война", "text": "Район уничтожен во время обороны Варшавы и Варшавского восстания 1944 года." },
+      { "year": "1944", "title": "Варшавское восстание", "text": "Во время Варшавского восстания 1944 года Старый город систематически уничтожается; барбакан уцелел лишь в виде повреждённых фрагментов стен." },
+      { "year": "1952–1954", "title": "Реконструкция", "text": "Захватович и Подлевский восстанавливают барбакан с использованием кирпича XVI века из Нысы и Ловича." },
+      { "year": "1980", "title": "Список ЮНЕСКО", "text": "Исторический центр Варшавы, включая барбакан, включён в список Всемирного наследия ЮНЕСКО." }
+    ]
   },
   "transport": {
-    "title": "How to Get Here",
-    "airport": "From Warsaw Chopin Airport",
-    "airportDesc": "Take airport buses or intercity shuttles to the city center, transfer to Old Town trams, short walk to the Barbican area—all smooth and convenient. Rideshare from the airport can reach the Old Town entrance directly, ideal for travelers with luggage.",
-    "selfDrive": "Self-Drive",
-    "selfDriveDesc": "Drive to Old Town area, public parking available nearby. Driving time from the airport approximately 30 minutes.",
-    "bus": "Public Transport",
-    "busDesc": "Take city trams or short-distance buses to the Old Town area, 5-minute walk to the medieval fortification. Public transport runs frequently.",
-    "intercity": "From Warsaw Central Station",
-    "intercityDesc": "Take city trams or short-distance buses to the Old Town area, 5-minute walk directly to the medieval fortification. Public transport is frequent.",
-    "cycling": "Cycling",
-    "cyclingDesc": "The area supports short-distance cycling. Bike parking is available at the outer Old Town perimeter, convenient for short trips.",
-    "tips": "Travel Tips",
-    "tipsDesc": "Purchase a local public transport day pass for unlimited tram, bus and metro rides to efficiently visit multiple Warsaw attractions. Old Town is walkable, best explored on foot."
-  },
-  "route": {
-    "title": "Recommended Route",
-    "supplementsTitle": "Visit Guidelines",
-    "overview": "Recommended to visit with the Old Town loop, enter from the Old Town Square direction, first visit the Barbican's outer fortress full view, walk through the arched passages, then climb the wall path to overlook Old Town street views, stroll along the connected ancient wall remains, finally walk to Castle Square to continue exploring. The entire route is relaxing, standard visit takes about 1 hour, slow stroll can extend to half a day.",
-    "steps": [
-      "Arrive at Warsaw Old Town public transport stop, walk into Old Town streets",
-      "Walk directly to Barbican main square, view the semicircular fortress facade and red brick architecture",
-      "Walk through the central arched passage, experience the medieval defensive architecture structure up close",
-      "Climb the ancient wall path, overlook Warsaw Old Town red-roofed buildings and street views from above",
-      "Stroll along the outer ancient wall remains, photograph the continuous brick heritage scenery",
-      "Pause at the square area, watch vintage street performances and local culture",
-      "Connect to Old Town walking paths, link nearby churches, ancient streets and other niche attractions",
-      "Slowly leave the Barbican area, continue to Castle Square and Royal Castle"
+    "title": "Как добраться (Расположение и транспорт)",
+    "subtitle": "Барбакан стоит на северной оконечности Старого города, на пересечении улиц Nowomiejska и Подвале.",
+    "items": [
+      { "mode": "Трамвай", "title": "Трамвай до остановки Stare Miasto", "text": "Линии 13, 23 и 26 останавливаются на остановке «Stare Miasto» — в двух минутах ходьбы от барбакана. Расписания и временные изменения публикует оператор на wtp.waw.pl." },
+      { "mode": "Метро", "title": "Метро + короткая прогулка", "text": "Линия 1 до станции «Ratusz Arsenał» (около 10 минут пешком через площадь Красинских) или линия 2 до «Dworzec Gdański» (около 15 минут)." },
+      { "mode": "Пешком", "title": "Из Старого города", "text": "От Рыночной площади (Rynek Starego Miasta) — 3 минуты на север по улицам Świętojańska и Freta. От Королевского замка — 8 минут." },
+      { "mode": "На машине", "title": "Парковка", "text": "Сам Старый город — пешеходная зона. Ближайшие парковки — на площади Красинских и вдоль Краковского предместья; мест мало, действуют платные зоны." }
     ],
-    "supplements": [
-      "Multiple brick surfaces and old steps, recommend comfortable flat shoes for walking",
-      "Winter Old Town streets are cold and windy, dress warmly",
-      "Do not climb walls or carve ancient bricks; protect historical heritage",
-      "Old Town surrounding area has dense restaurants and specialty shops, experience local cuisine before or after visiting",
-      "Be mindful of personal belongings in crowded areas"
+    "note": "Транспортная информация проверена по данным официального оператора Варшавы (WTP)."
+  },
+  "walkingTour": {
+    "title": "Прогулка по Старому городу: Барбакан → Королевский замок",
+    "subtitle": "Самостоятельный маршрут по самым фотографируемым уголкам Старого города. Длина: около 2,5 км пешком, 2–2,5 часа с остановками.",
+    "steps": [
+      { "title": "Начните у барбакана", "text": "Начните у барбакана (Nowomiejska 15/17). Сначала обойдите его со стороны рва — вид с улицы Подвале это классическая открыточная перспектива, лучше всего в утреннем свете." },
+      { "title": "Вдоль стен по улице Подвале", "text": "Идите на юг по улице Подвале, где у стен сохранился единственный фрагмент средневекового рва. Хорошо сохранившиеся доходные дома в районе Подвале, 83 — любимое место местных фотографов." },
+      { "title": "Рыночная площадь (Rynek Starego Miasta)", "text": "Сверните на Рыночную площадь — сердце восстановленного Старого города, окружённое домами в стиле XVII века, кафе и памятником Варшавской сирене." },
+      { "title": "Архикафедральный собор св. Иоанна и Королевский замок", "text": "Продолжите по улице Świętojańska мимо Архикафедрального собора св. Иоанна до Замковой площади. Королевский замок (Zamek Królewski) и Колонна Сигизмунда отмечают южный конец маршрута." },
+      { "title": "Петля обратно к барбакану", "text": "Вернитесь на север по улице Piwna или Długa, минуя памятник Варшавскому восстанию на площади Красинских, и снова окажетесь у барбакана." }
+    ],
+    "tip": "Совет",
+    "tipText": "Путешествуете с детьми? Весь маршрут плоский и удобен для колясок на улицах; сами стены требуют подъёма по лестницам."
+  },
+  "nearby": {
+    "title": "Достопримечательности рядом в Старом городе",
+    "subtitle": "Всё, что стоит увидеть в радиусе десяти минут ходьбы от барбакана.",
+    "spots": [
+      { "name": "Рыночная площадь (Rynek Starego Miasta)", "note": "Восстановленная площадь XVII века с памятником Сирене", "distance": "3 мин пешком" },
+      { "name": "Королевский замок (Zamek Królewski)", "note": "Восстановленная королевская резиденция и музей на Замковой площади", "distance": "8 мин пешком" },
+      { "name": "Архикафедральный собор св. Иоанна", "note": "Старейшая церковь Варшавы, место коронаций и погребений монархов", "distance": "6 мин пешком" },
+      { "name": "Памятник Варшавскому восстанию", "note": "Бронзовый монумент на площади Красинских в честь повстанцев 1944 года", "distance": "3 мин пешком" },
+      { "name": "Музей Варшавы (Muzeum Warszawy)", "note": "Главное здание на Рыночной площади, 28; здесь же продают билеты на выставку в барбакане", "distance": "4 мин пешком" },
+      { "name": "Замковая площадь и Колонна Сигизмунда", "note": "Исторические ворота на Королевский тракт и в Старый город", "distance": "8 мин пешком" }
     ]
   },
   "photoSpots": {
-    "title": "Photo Spots",
+    "title": "Лучшие места для фото",
+    "subtitle": "Где стены и ров дают лучшие кадры.",
     "spots": [
-      {
-        "name": "Barbican Main Square",
-        "desc": "Full front view of the semicircular fortress red brick building, symmetric composition is vintage and grand"
-      },
-      {
-        "name": "Wall Path High Point",
-        "desc": "Climb high to overlook Old Town streets, heritage and city buildings in one frame with great layers"
-      },
-      {
-        "name": "Inside Arched Passages",
-        "desc": "Use arch frames for composition, create depth with vintage atmosphere"
-      },
-      {
-        "name": "Ancient Wall Extension",
-        "desc": "Continuous brick walls as linear foreground, minimalist nostalgic scenery position"
-      },
-      {
-        "name": "Dusk Wall Corner",
-        "desc": "Sunset reflecting on red brick walls, warm-toned lighting atmosphere is the top photo spot"
-      }
-    ],
-    "tips": "Photography Tips",
-    "tipsContent": "Old Town buildings are dense, daytime lighting has significant light and shadow contrast, adjust shooting angles accordingly. The entire heritage protection area restricts drone flying; follow local cultural relic management regulations. Holidays bring heavy crowds, choose early morning for empty shots without people. Red brick building colors are rich, paired with vintage outfits for excellent portrait photography."
-  },
-  "hotels": {
-    "title": "Accommodation",
-    "hotels": [
-      {
-        "name": "Old Town Quiet Retreat",
-        "desc": "Accommodation within walking distance of the Barbican, hidden in vintage streets, quiet environment, short walk to all Old Town heritage sites",
-        "price": "Price varies by season"
-      },
-      {
-        "name": "Old Town Design Residence",
-        "desc": "Near Old Town main road, modern minimalist style, convenient transportation, easy travel for sightseeing",
-        "price": "Price varies by season"
-      },
-      {
-        "name": "Vintage Courtyard B&B",
-        "desc": "Old building renovated accommodation in Old Town, strong Central European vintage atmosphere, immersive local life experience",
-        "price": "Price varies by season"
-      },
-      {
-        "name": "Value Accommodation",
-        "desc": "Near city transportation hub, complete facilities, convenient commuting, suitable for budget short trips",
-        "price": "Price varies by season"
-      }
-    ],
-    "supplements": "Accommodation Tips",
-    "supplementsContent": "Warsaw Old Town has stable security, daytime sightseeing is safe and comfortable, avoid偏僻 alleys at night. Travel peak and holiday accommodation prices rise, book in advance. Prioritize Old Town core area accommodation, walking distance covers all core attractions including Barbican, Castle Square, and Old Town Square."
-  },
-  "gallery": {
-    "title": "Photo Gallery",
-    "subtitle": "Warsaw Barbican Medieval Fortress & Old Town Walls",
-    "captions": [
-      "Warsaw Barbican Panoramic View",
-      "Semicircular Fortress Facade",
-      "Red Brick Architecture",
-      "Medieval Arched Passages",
-      "Ancient Wall Path",
-      "Old Town Street Views",
-      "Dusk Atmosphere",
-      "Heritage Detail",
-      "Warsaw Barbican",
-      "Old Town Walls",
-      "Fortress Architecture",
-      "Heritage Scenery",
-      "City Details",
-      "Historical Landmark"
-    ],
-    "viewAll": "View more photos on Google Maps",
-    "showAllPhotos": "Show All Photos"
-  },
-  "reviews": {
-    "title": "Visitor Reviews",
-    "declaration": "Visitor feedback can be viewed via Google Maps (external link).",
-    "moreReviews": "View more reviews on Google Maps",
-    "items": [
-      {
-        "name": "Ming Z.",
-        "date": "March 2026",
-        "rating": 5,
-        "text": "Amazing medieval atmosphere! The semicircular red brick fortress is incredibly photogenic. Walking through the arched passages, you can truly feel the weight of history."
-      },
-      {
-        "name": "Hua L.",
-        "date": "February 2026",
-        "rating": 5,
-        "text": "A hidden gem in Warsaw's Old Town! Few tourists compared to the main square, perfect for quiet exploration. The sunset views from the wall path are breathtaking."
-      },
-      {
-        "name": "Fang W.",
-        "date": "January 2026",
-        "rating": 5,
-        "text": "Perfect blend of history and atmosphere. The medieval walls and red brick architecture create a vintage feel like stepping back centuries. Must-visit in Warsaw!"
-      },
-      {
-        "name": "Wei C.",
-        "date": "December 2025",
-        "rating": 4,
-        "text": "Great historical site! The restoration work is impressive, you can really appreciate the medieval defensive architecture. Best visited in early morning."
-      },
-      {
-        "name": "Kalowes David",
-        "date": "8 months ago",
-        "rating": 4,
-        "text": "A simple fortification, very historically significant."
-      },
-      {
-        "name": "Yanjun Wang",
-        "date": "6 years ago",
-        "rating": 4,
-        "text": "A very beautiful castle, feels like it was designed for a commendable architectural aesthetic, but functionally, as a fortification, it is somewhat unsatisfactory. Fortunately, these city defenses no longer have military significance, so it's better to just enjoy them as art."
-      },
-      {
-        "name": "Xinyi Liu",
-        "date": "4 years ago",
-        "rating": 5,
-        "text": "Three of the best looking places in Warsaw: Chopin Park, Old Town Square, and here. Very suitable for taking photos, and the museum is also worth a visit."
-      },
-      {
-        "name": "Jackie Teng",
-        "date": "2 years ago",
-        "rating": 5,
-        "text": "Very beautiful building."
-      }
+      { "title": "Улица Подвале, сторона рва", "text": "Классический открыточный кадр всего сооружения со рвом на переднем плане. Лучший утренний свет." },
+      { "title": "Северная сторона с Nowomiejska", "text": "Съёмка кирпичных башен на фоне застройки улицы Freta в золотой час." },
+      { "title": "Сверху на стенах", "text": "При хорошей погоде поднимитесь на стены — вид на площадь Красинских и Новый город сверху." },
+      { "title": "Ночная съёмка", "text": "Барбакан подсвечивается после заката — длинные выдержки с перекрёстка Подвале выходят отлично." }
     ]
   },
+  "facilities": {
+    "title": "Инфраструктура рядом",
+    "subtitle": "Практические услуги в самом центре Старого города (только типы, без коммерческих рекомендаций).",
+    "items": [
+      { "type": "Общественные туалеты", "hint": "У Рыночной площади и площади Красинских" },
+      { "type": "Кафе и рестораны", "hint": "Рыночная площадь, Świętojańska, Подвале" },
+      { "type": "Отели и жильё", "hint": "Районы Старого и Нового города" },
+      { "type": "Сувенирные магазины", "hint": "Рыночная площадь и улица Freta" },
+      { "type": "Парковки", "hint": "Площадь Красинских и Краковское предместье" },
+      { "type": "Банкоматы", "hint": "Район Старого города, рядом несколько банков" },
+      { "type": "Продуктовые магазины и минимаркеты", "hint": "Небольшие магазины на Подвале, Freta и Długiej; крупные супермаркеты в центре" },
+      { "type": "Заправки и зарядки для электромобилей", "hint": "Ближайшие станции у Вислы и в районе Marszałkowska, за пределами пешеходной зоны" },
+      { "type": "Аптеки", "hint": "Старый город и Nowy Świat; при необходимости проверьте дежурную аптеку" },
+      { "type": "Прокат велосипедов и самокатов", "hint": "Доступны безстанционные системы; езда по Старому городу ограничена" }
+    ],
+    "note": "Перечисленные категории описывают доступные поблизости услуги. Часы работы зависят от сезона и оператора."
+  },
+  "stories": {
+    "title": "Истории и легенды",
+    "subtitle": "Факты и предания о единственных сохранившихся средневековых воротах Варшавы.",
+    "items": [
+      { "kind": "Факт", "title": "Построен в спешке", "text": "После пожара 1543 года и угрозы молдавского набега городской совет утвердил строительство барбакана в 1545 году; венецианский строитель завершил его за три года — быстро даже по ренессансным меркам." },
+      { "kind": "Факт", "title": "Венецианский архитектор", "text": "Ян Баптиста Венецианин приехал в Польшу как специалист по артиллерийским укреплениям. Его варшавский барбакан остаётся одним из немногих таких сооружений, сохранившихся к северу от Альп." },
+      { "kind": "Факт", "title": "Разобран кирпич за кирпичом", "text": "В XIX веке барбакан продали и разобрали, кирпич использовали в городе повторно — эту утрату местные историки оплакивают до сих пор." },
+      { "kind": "Факт", "title": "Восстановлен старым кирпичом", "text": "Реконструкция 1952–1954 годов работы Захватовича и Подлевского использовала подлинный кирпич XVI века из Нысы и Ловича, чтобы новые стены выглядели по-настоящему старыми." },
+      { "kind": "Предание", "title": "Ворота между двумя городами", "text": "Старая и Новая Варшава веками были отдельными муниципалитетами. Местные рассказывают, что именно у барбакана кончались фонари одного города и начинались другого — маленькая, но настоящая граница повседневной жизни." },
+      { "kind": "Факт", "title": "Всемирное наследие", "text": "В 1980 году восстановленный исторический центр Варшавы — вместе с барбаканом — включили в список Всемирного наследия ЮНЕСКО как уникальный пример почти полной послевоенной реконструкции." },
+      { "kind": "Предание", "title": "Откуда взялось название «барбакан»", "text": "Слово «барбакан» происходит от средневекового латинского barbacana — отдельного внешнего укрепления перед воротами. Лингвисты возводят его ещё дальше, к арабскому языку; оно распространилось по Европе вместе с военными инженерами, которые строили такие сооружения. Поэтому похожие ворота в Кракове, Гданьске и даже в Лондоне носят то же название." },
+      { "kind": "Факт", "title": "Вернувшийся ров", "text": "Изначальный ров засыпали в XIX веке. При реконструкции барбакана в 1952–1954 годах сухой ров перед ним восстановили по гравюрам XVII века — поэтому вид со стороны рва до сих пор напоминает город до разделов." },
+      { "kind": "Факт", "title": "Пережил восстание как руины", "text": "Во время Варшавского восстания 1944 года Старый город был систематически разрушен. Барбакан уцелел лишь в виде повреждённых фрагментов и был восстановлен только в 1952–1954 годах — поэтому сегодня он служит символом реконструкции самого города." }
+    ]
+  },
+  "gallery": {
+    "title": "Фотогалерея",
+    "subtitle": "Варшавский барбакан и стены Старого города в фотографиях.",
+    "items": [
+      { "src": "/gallery/warsaw-barbican-1.jpg", "caption": "Ворота барбакана со стороны рва на улице Подвале" },
+      { "src": "/gallery/warsaw-barbican-2.jpg", "caption": "Кирпичные башни северного укрепления" },
+      { "src": "/gallery/warsaw-barbican-3.jpg", "caption": "Проход через бесплатные ворота" },
+      { "src": "/gallery/warsaw-barbican-4.jpg", "caption": "Стены и сохранившийся средневековый ров" },
+      { "src": "/gallery/warsaw-barbican-5.jpg", "caption": "Стены Старого города с площади Красинских" },
+      { "src": "/gallery/warsaw-barbican-6.jpg", "caption": "Деталь кирпичной кладки XVI века" },
+      { "src": "/gallery/warsaw-barbican-7.jpg", "caption": "Барбакан с улицы Nowomiejska в золотой час" },
+      { "src": "/gallery/warsaw-barbican-8.jpg", "caption": "Вид со стен в сторону Нового города" },
+      { "src": "/gallery/warsaw-barbican-9.jpg", "caption": "Вечерний свет на западных стенах" },
+      { "src": "/gallery/warsaw-barbican-10.jpg", "caption": "Ворота, соединяющие Старый и Новый город" },
+      { "src": "/gallery/warsaw-barbican-11.jpg", "caption": "Дома улицы Подвале у стен" },
+      { "src": "/gallery/warsaw-barbican-12.jpg", "caption": "Зимний вид барбакана и рва" },
+      { "src": "/gallery/warsaw-barbican-13.jpg", "caption": "Укрепление в сумерках с площади Красинских" },
+      { "src": "/gallery/warsaw-barbican-14.jpg", "caption": "Панорама стен Старого города с юга" }
+    ]
+  },
+  "reviews": {
+    "title": "Что говорят посетители",
+    "statLine": "Одна из самых популярных достопримечательностей Варшавы — 1 118+ отзывов на TripAdvisor, №42 из 692 в городе.",
+    "quotes": [
+      { "text": "Бесплатный проход и одно из самых фотогеничных мест Старого города — вид на ров с улицы Подвале незабываем.", "source": "Отзыв на TripAdvisor" },
+      { "text": "Отличная атмосфера, словно время повернулось вспять. Поднимитесь на валы и насладитесь видом на площадь.", "source": "Отзыв на TripAdvisor" },
+      { "text": "Небольшой, но красивый — сочетайте его с Рыночной площадью и Королевским замком для идеальной полуторачасовой прогулки.", "source": "Отзыв на TripAdvisor" }
+    ],
+    "link": "Читать все отзывы на TripAdvisor"
+  },
+  "faq": {
+    "title": "Частые вопросы",
+    "subtitle": "Практические ответы перед визитом.",
+    "items": [
+      { "q": "Проход через Варшавский барбакан бесплатный?", "a": "Да. Проход через ворота и сохранившиеся стены Старого города бесплатен и открыт круглосуточно весь год. Билет нужен только на небольшую выставку внутри укрепления, которую проводит Музей Варшавы (обычный 12 злотых, льготный 8 злотых); выставка открыта только в летний сезон." },
+      { "q": "Какие часы работы?", "a": "Сам проход открыт всегда. Выставка Музея Варшавы работает по сезону — в 2026 году с 20 мая по 29 августа, по средам и субботам с 13:00 до 17:00. Доступ на стены зависит от погоды; после дождя или в гололёд участки могут быть закрыты." },
+      { "q": "Сколько времени нужно на осмотр?", "a": "Заложите 30–45 минут на проход, стены и видовые точки у рва. Если добавить Рыночную площадь, Королевский замок и описанный маршрут прогулки — выделите 2–2,5 часа." },
+      { "q": "Можно ли подняться на стены?", "a": "Да, где они открыты — вход бесплатный, но зависит от погоды. На стены ведут лестницы, а улицы внизу вымощены брусчаткой." },
+      { "q": "Как добраться на общественном транспорте?", "a": "На трамваях 13, 23 или 26 до остановки «Stare Miasto» — в двух минутах ходьбы. На метро — до «Ratusz Arsenał» (линия 1) или «Dworzec Gdański» (линия 2), далее 10–15 минут пешком." },
+      { "q": "Что посмотреть рядом?", "a": "В радиусе десяти минут ходьбы: Рыночная площадь, Архикафедральный собор св. Иоанна, Королевский замок, Замковая площадь с Колонной Сигизмунда, памятник Варшавскому восстанию и главное здание Музея Варшавы." },
+      { "q": "Где лучшие места для фото?", "a": "Классический ракурс — улица Подвале со стороны рва, лучше всего утром. Также стоит попробовать: северную сторону на Nowomiejska в золотой час, верх стен и ночные снимки подсвеченного укрепления." }
+    ]
+  },
+  "sources": {
+    "title": "Источники и дополнительное чтение",
+    "subtitle": "Информация на этой странице проверена по следующим официальным источникам.",
+    "items": [
+      { "name": "Барбакан — Музей Варшавы (официальный сайт филиала)", "url": "https://barbakan.muzeumwarszawy.pl/", "note": "Часы работы, билеты и информация о выставке" },
+      { "name": "Барбакан — информация о посещении (Wizyta)", "url": "https://barbakan.muzeumwarszawy.pl/wizyta/", "note": "Практические детали и примечание о погоде" },
+      { "name": "Варшавский туристический портал (Warsaw Tourist Information)", "url": "https://warsawtour.pl/", "note": "Официальный туристический портал города" },
+      { "name": "ЮНЕСКО — Исторический центр Варшавы", "url": "https://whc.unesco.org/en/list/30/", "note": "Запись во Всемирном наследии (1980)" },
+      { "name": "Общественный транспорт Варшавы (WTP)", "url": "https://www.wtp.waw.pl/", "note": "Маршруты и расписания трамваев и метро" },
+      { "name": "Трамваи Варшавы (Википедия, PL)", "url": "https://pl.wikipedia.org/wiki/Tramwaje_w_Warszawie", "note": "Справочник трамвайной сети Варшавы" }
+    ],
+    "photoCredit": "Фотографии взяты из пула свободных лицензий в иллюстративных целях и могут не отражать объект в момент съёмки. Имена файлов — в папке галереи."
+  },
   "mapSection": {
-    "title": "How to Get Here",
-    "subtitle": "Nowomiejska 15/17, 00-257 Warszawa, Poland",
-    "openMaps": "View on Google Maps"
+    "title": "Расположение и карта",
+    "subtitle": "Барбакан находится по адресу Nowomiejska 15/17, на северной оконечности Старого города.",
+    "transportTitle": "Как добраться",
+    "tramLine": "Трамвай: линии 13, 23, 26 → остановка «Stare Miasto» (2 мин пешком)",
+    "metroLine": "Метро: линия 1 «Ratusz Arsenał» (10 мин) или линия 2 «Dworzec Gdański» (15 мин)",
+    "walking": "Пешком: 3 мин от Рыночной площади, 8 мин от Королевского замка",
+    "authorityText": "Официальная информация о посещении",
+    "authorityLink": "barbakan.muzeumwarszawy.pl",
+    "openInMaps": "Открыть в Google Картах"
+  },
+  "weather": {
+    "title": "Погода у барбакана",
+    "subtitle": "Текущие условия и прогноз на 5 дней для Старого города",
+    "currentLabel": "Сейчас",
+    "feelsLike": "Ощущается как",
+    "wind": "Ветер",
+    "humidity": "Влажность",
+    "precipitation": "Вероятность осадков",
+    "maxLabel": "Макс.",
+    "minLabel": "Мин.",
+    "unitC": "°C",
+    "updatedNote": "Данные обновляются каждые 30 минут — источник: Open-Meteo",
+    "fallbackTitle": "Прогноз временно недоступен",
+    "fallbackText": "Сейчас не удалось загрузить погоду. Проверьте прогноз перед выходом.",
+    "codes": {
+      "0": "Ясно",
+      "1": "Преимущественно ясно",
+      "2": "Переменная облачность",
+      "3": "Пасмурно",
+      "45": "Туман",
+      "48": "Туман с изморозью",
+      "51": "Слабый дождь (морось)",
+      "53": "Морось",
+      "55": "Сильная морось",
+      "56": "Переохлаждённая морось",
+      "57": "Переохлаждённая морось",
+      "61": "Небольшой дождь",
+      "63": "Дождь",
+      "65": "Сильный дождь",
+      "66": "Ледяной дождь",
+      "67": "Ледяной дождь",
+      "71": "Небольшой снег",
+      "73": "Снег",
+      "75": "Сильный снег",
+      "77": "Снежные зёрна",
+      "80": "Небольшие ливни",
+      "81": "Ливни",
+      "82": "Сильные ливни",
+      "85": "Снежные заряды",
+      "86": "Снежные заряды",
+      "95": "Гроза",
+      "96": "Гроза с градом",
+      "99": "Гроза с градом"
+    }
   },
   "footer": {
-    "rights": "© 2026 Warsaw Barbican Independent Travel Research Association · All rights reserved.",
-    "privacy": "Privacy Policy",
-    "terms": "Terms of Service",
-    "cookies": "Cookie Settings",
-    "officialResourcesTitle": "Related Resources & Information",
-    "officialLinks": {
-      "gov": "Ministry of Foreign Affairs and Visas",
-      "tourism": "Polish Tourism Organisation",
-      "museum": "Museum of Warsaw - Barbican Branch",
-      "heritage": "National Institute of Cultural Heritage",
-      "mazovia": "Mazowieckie Voivodeship"
-    },
-    "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions."
+    "tagline": "Независимый некоммерческий гид по Варшавскому барбакану (Barbakan Warszawski).",
+    "quickLinks": "Быстрые ссылки",
+    "about": "Об этом гиде",
+    "aboutText": "Этот сайт — независимый гид, написанный для посетителей. Он не связан с Музеем Варшавы и не является государственным учреждением.",
+    "contact": "Контакты",
+    "phone": "Музей Варшавы (билеты): +48 22 277 44 02",
+    "legal": "Правовая информация",
+    "privacy": "Политика конфиденциальности",
+    "terms": "Условия использования",
+    "cookies": "Настройки cookie",
+    "mapLink": "Открыть в Google Картах",
+    "photoCredit": "Все фотографии, представленные на этом сайте, остаются собственностью их авторов; все права на изображения и авторские права принадлежат первоначальным создателям.",
+    "lastUpdated": "Контент обновлён",
+    "editNote": "Эта страница регулярно пересматривается и обновляется. Если вы заметили ошибку, свяжитесь с нами.",
+    "rights": "Все права защищены."
   },
   "privacy": {
-    "title": "Privacy Policy",
-    "lastUpdated": "Last updated: April 2026",
+    "title": "Политика конфиденциальности",
+    "lastUpdated": "Обновлено: 2 сентября 2026",
     "sections": [
-      {
-        "heading": "1. Information Collection",
-        "content": "We generally do not actively collect personally identifiable information from users. Any information provided by you through contact forms or emails will be kept strictly confidential."
-      },
-      {
-        "heading": "2. Use of Information",
-        "content": "The information we collect is used solely to provide, maintain, and improve our services, and to communicate with you. We do not sell or share your personal information with third parties for marketing purposes."
-      },
-      {
-        "heading": "3. Cookies and Tracking",
-        "content": "We use cookies and similar tracking technologies to track the activity on our website and hold certain information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent."
-      },
-      {
-        "heading": "4. Data Security",
-        "content": "The security of your data is important to us. We use commercially acceptable means to protect your Personal Data, though no method of transmission over the Internet is 100% secure."
-      }
+      { "heading": "Кто мы", "text": "Этот сайт — независимый некоммерческий гид по Варшавскому барбакану. Мы не продаём товары и не размещаем платную рекламу." },
+      { "heading": "Какие данные мы собираем", "text": "Мы напрямую не собираем персональные данные. Анонимная агрегированная статистика может обрабатываться с учётом приватности после получения вашего согласия." },
+      { "heading": "Файлы cookie", "text": "Сайт использует баннер согласия. Необязательные аналитические cookie устанавливаются только после вашего одобрения. Вы можете изменить выбор в любой момент на странице настроек cookie." },
+      { "heading": "Сторонние сервисы", "text": "Встроенная карта предоставлена Google Maps и подчиняется политике конфиденциальности Google. Её открытие может устанавливать cookie, контролируемые Google." },
+      { "heading": "Ваши права", "text": "Вы можете в любой момент удалить или заблокировать cookie в настройках браузера. Для использования сайта не требуется аккаунт." },
+      { "heading": "Контакты", "text": "По вопросам конфиденциальности используйте контакты, опубликованные на главной странице сайта." }
     ]
   },
   "terms": {
-    "title": "Terms of Service",
-    "lastUpdated": "Last updated: April 2026",
+    "title": "Условия использования",
+    "lastUpdated": "Обновлено: 2 сентября 2026",
     "sections": [
-      {
-        "heading": "1. Acceptance of Terms",
-        "content": "By accessing and using this website, you agree to be bound by these terms of service. If you disagree with any part of the terms, you may not access the service."
-      },
-      {
-        "heading": "2. Use of Service",
-        "content": "This website is an independent third-party tourist information project. The information provided is for general informational purposes only. You agree to use the site responsibly and lawfully."
-      },
-      {
-        "heading": "3. Intellectual Property",
-        "content": "All content on this website, including texts, images, and logos, is the property of the website owner unless otherwise stated. Unauthorized use, reproduction, or distribution is strictly prohibited."
-      },
-      {
-        "heading": "4. Limitation of Liability",
-        "content": "We shall not be held liable for any direct, indirect, incidental, or consequential damages resulting from the use or inability to use this website or the information contained herein."
-      }
+      { "heading": "Назначение", "text": "Сайт предоставляет общую информацию о посещении Варшавского барбакана для туристов и самостоятельных путешественников." },
+      { "heading": "Точность", "text": "Мы стремимся поддерживать информацию в актуальном состоянии, но часы работы, цены на билеты и маршруты могут меняться. Всегда проверяйте срочные данные по официальным источникам, указанным на этой странице." },
+      { "heading": "Отсутствие рекомендаций", "text": "Упоминания объектов и услуг поблизости описывают только типы мест и не являются рекомендациями или коммерческими одобрениями." },
+      { "heading": "Интеллектуальная собственность", "text": "Оригинальные тексты сайта можно использовать в личных некоммерческих целях с указанием источника. Фотографии используются по их свободным лицензиям." },
+      { "heading": "Ответственность", "text": "Мы не несём ответственности за решения, принятые на основе этой информации. Посещайте достопримечательности на свой страх и риск и соблюдайте местные правила." },
+      { "heading": "Изменения", "text": "Условия могут обновляться время от времени; указанная выше дата отражает последнюю редакцию." }
     ]
   },
   "cookieSettings": {
-    "title": "Cookie Settings",
-    "description": "Manage your cookie preferences.",
-    "essential": {
-      "title": "Essential Cookies",
-      "description": "Required for basic website functionality.",
-      "badge": "Always active"
-    },
-    "analytics": {
-      "title": "Analytics Cookies",
-      "description": "Help us understand how visitors interact with the site."
-    },
-    "marketing": {
-      "title": "Marketing Cookies",
-      "description": "Used to track visitors across websites."
-    },
-    "save": "Save Preferences",
-    "saved": "Preferences saved!"
+    "title": "Настройки cookie",
+    "description": "Этот сайт уважает вашу конфиденциальность. Выберите, какие необязательные cookie вы разрешаете.",
+    "essential": "Обязательные cookie",
+    "essentialText": "Необходимы для работы сайта. Всегда активны.",
+    "analytics": "Аналитические cookie",
+    "analyticsText": "Анонимная статистика помогает нам понимать, какие страницы полезны посетителям.",
+    "save": "Сохранить настройки",
+    "saved": "Настройки сохранены. Спасибо!",
+    "back": "Вернуться на главную"
   },
-  "officialManagement": {
-    "title": "About Warsaw Barbican",
-    "text": "The Warsaw Barbican (Barbakan Warszawski) is managed and maintained by the Warsaw Heritage Conservation Office, and is one of the most important medieval defensive fortifications in Central Europe.\n\nAs a key component of the UNESCO World Heritage Site - Historic Centre of Warsaw, the Barbican has witnessed centuries of the city's history, from medieval defense to wartime destruction and postwar restoration. Today, the outer area of the Barbican is open to the public free of charge, offering an excellent destination for exploring Warsaw's medieval history and an important window for visitors worldwide to experience Poland's historical charm."
-  },
-  "recommendations": {
-    "title": "Discover More",
-    "attractionsTitle": "Nearby Attractions",
-    "toursTitle": "Recommended Tours & Activities",
-    "attractions": [
-      {
-        "name": "Castle Square",
-        "url": "https://maps.app.goo.gl"
-      },
-      {
-        "name": "Royal Castle",
-        "url": "https://maps.app.goo.gl"
-      },
-      {
-        "name": "Old Town Square",
-        "url": "https://maps.app.goo.gl"
-      },
-      {
-        "name": "Sigismund's Column",
-        "url": "https://maps.app.goo.gl"
-      }
-    ],
-    "tours": [
-      {
-        "name": "Warsaw Old Town Walking Tour",
-        "url": "https://www.getyourguide.com"
-      },
-      {
-        "name": "Warsaw History Tour",
-        "url": "https://www.getyourguide.com"
-      },
-      {
-        "name": "Warsaw Food & Culture Tour",
-        "url": "https://www.getyourguide.com"
-      },
-      {
-        "name": "Warsaw WWII Historical Tour",
-        "url": "https://www.getyourguide.com"
-      }
-    ]
+  "cookieBanner": {
+    "text": "Этот сайт использует обязательные cookie для работы и уважает вашу конфиденциальность. Аналитические cookie устанавливаются только после вашего согласия.",
+    "acceptAll": "Принять все",
+    "essentialOnly": "Только обязательные"
   }
 }

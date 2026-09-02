@@ -1,0 +1,23 @@
+export const siteConfig = {
+  domain: "warsawbarbican.com",
+  baseUrl: "https://warsawbarbican.com",
+  fullName: "Warsaw Barbican",
+  localName: "Barbakan Warszawski",
+  city: "Warsaw",
+  cityLocal: "Warszawa",
+  country: "Poland",
+  region: "Mazovia Province",
+  streetAddress: "Nowomiejska 15/17",
+  postalCode: "00-257",
+  telephone: "+48 22 277 44 02",
+  geo: { latitude: 52.2506035, longitude: 21.01008 },
+  plusCode: "7226+62",
+  mapsUrl: "https://maps.app.goo.gl/yJjZQ1xta9pJCnzM9",
+  mapsEmbedSrc:
+    "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4344.524743185378!2d21.010079999999995!3d52.2506035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471ecc6fa03dfdd7%3A0xd8d8b95a9ab7b544!2z5Y2O5rKZ55Ou5Z-O!5e1!3m2!1szh-CN!2s!4v1788314032418!5m2!1szh-CN!2s",
+  heroImage: "/gallery/warsaw-barbican-1.jpg",
+  galleryCount: 14,
+  lastUpdated: "2026-09-02",
+  ga4Id: "G-HXM22WWPKP",
+  contentVersion: "2026",
+} as const;

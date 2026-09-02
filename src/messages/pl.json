@@ -1,406 +1,336 @@
 {
   "meta": {
-    "title": "Warsaw Barbican | Medieval Fortress, Old Town Walls & Historic Landmark - Best European Spots",
-    "description": "Complete guide to Warsaw Barbican (Barbakan Warszawski) in Poland. Learn about opening hours, transportation, ticket info, tour tips and stunning photos. Best-preserved medieval fortification in Central Europe."
+    "title": "Barbakan Warszawski (Warszawa): Godziny Otwarcia, Bilety i Historia (2026)",
+    "description": "Planujesz wizytę w Barbakanie Warszawskim? Sprawdź ceny biletów, godziny otwarcia, trasę spaceru po Starym Mieście oraz zdjęcia średniowiecznych murów Warszawy.",
+    "keywords": "barbakan warszawski, warsaw barbican, barbakan godziny otwarcia, barbakan bilety, stare miasto warszawa, zamek królewski warszawa, rynek starego miasta, ulica podwale"
   },
   "header": {
-    "home": "Home",
-    "gallery": "Gallery",
-    "reviews": "Reviews",
-    "map": "Map",
-    "backToHome": "Back to Home"
+    "nav": {
+      "overview": "Przegląd",
+      "hours": "Godziny i bilety",
+      "history": "Historia",
+      "transport": "Dojazd",
+      "walkingTour": "Spacer po Starówce",
+      "nearby": "W pobliżu",
+      "photos": "Zdjęcia",
+      "faq": "FAQ",
+      "map": "Mapa"
+    },
+    "cta": "Jak dojechać"
   },
   "hero": {
-    "title": "Warsaw Barbican",
-    "subtitle": "Medieval Fortress, Old Town Walls & Historic Landmark in Warsaw",
-    "rating": "4.7(10,875)",
-    "reviewCount": "10,875 reviews",
-    "hours": "Open 24/7",
-    "openMaps": "View Location"
+    "title": "Barbakan Warszawski — Kompletny Przewodnik (Godziny, Bilety, Historia)",
+    "subtitle": "Ceglana fortyfikacja z XVI wieku na skraju Starego Miasta. Godziny otwarcia, ceny biletów, historia i trasa spaceru — wszystko w jednym przewodniku.",
+    "imgAlt": "Barbakan Warszawski — ceglana brama łącząca mury Starego i Nowego Miasta, Warszawa, Polska",
+    "ctaPrimary": "Zaplanuj wizytę",
+    "ctaSecondary": "Zobacz na mapie"
   },
   "intro": {
-    "title": "Discover Warsaw Barbican",
-    "description": "Walking through the streets of Warsaw's Old Town, an ancient brick wall stretches endlessly, and a massive semicircular red-brick fortress suddenly comes into view—this is the Warsaw Barbican. As the most atmospheric medieval relic in the Old Town, it stands far from the noise of the modern city, covered in traces of time-worn weathering, every brick holding stories of Warsaw's past.\n\nThe vintage arched passages crisscross, the thick city wall isolates external noise—walking through feels like traveling back to medieval city years. Outside the wall is the lively Old Town streets, inside is the quiet historical site, ancient and modern scenes blend together, creating a uniquely atmospheric environment. Tourists stroll slowly, carefully observing the ancient fortification structure, feeling the solidity and ingenuity of old military architecture.\n\nWalking slowly along the city wall path, red brick walls paired with vintage street scenes make for excellent photo opportunities. There is no complex commercial decoration, only the original appearance of the heritage site, quiet yet powerful. Located in the core loop of the Old Town, connecting multiple historical landmarks, naturally integrated into the city's daily life, becoming a hidden gem where烟火气和历史感 coexist.",
-    "visitGuide": {
-      "title": "Visit Tips",
-      "items": [
-        "Recommended to visit in early morning or evening when crowds are sparse",
-        "Medieval stone walls have vintage lighting, perfect for quiet tours and photography",
-        "Outdoor ancient walls and Barbican area open year-round, 24/7",
-        "Winter city streets can be cold and windy, dress warmly"
-      ]
-    },
-    "alsoKnownAs": {
-      "title": "Highlights",
-      "items": [
-        "Best-preserved medieval fortification in Warsaw",
-        "Rare Renaissance defensive architecture in Central Europe",
-        "Important part of UNESCO World Heritage Site - Historic Centre of Warsaw",
-        "Witness to medieval urban defense and border development history"
-      ]
-    }
-  },
-  "knowledge": {
-    "title": "The Charm of Warsaw Barbican",
-    "sections": [
-      {
-        "id": "history",
-        "title": "Centuries of Defense History",
-        "content": "Warsaw's fortifications began in the early 14th century with wooden-earth structures, later replaced by stone and brick walls, aided by Prince Janusz I the Old. Between the mid-15th and early 16th centuries, a second ring of walls was built, creating a 9-14 meter wide inter-wall area secured by a water-filled moat. The 1200-meter wall perimeter enclosed 8.5 hectares (about 12 football fields).\n\nIn the mid-16th century, the northern city gate was expanded into the Barbican—an elongated outpost allowing for side-fire defense. However, during the mid-17th century Swedish Deluge and the early 18th century Great Northern War, the walls were severely damaged and lost their defensive value. By the 19th century, the walls were obscured by tenement houses built directly onto them, until the 1930s when city authorities began uncovering the medieval fragments.\n\nWhile the Old Town was heavily destroyed during the Warsaw Uprising in WWII, the old fortifications were largely spared. Reconstructed post-war, the Barbican and city walls now stand as a UNESCO World Heritage site and a proud testament to Warsaw's enduring history."
-      },
-      {
-        "id": "architecture",
-        "title": "Architectural Features",
-        "content": "Constructed jointly with red brick and stone to form a semicircular defensive wall, paired with thick arches, wall passages and watchtower structures, connecting the continuous ancient wall remains—the overall structure is solid and heavy, preserving the original appearance of medieval military architecture, the enclosed format has a particularly vintage fortress quality.\n\nThe medieval Gothic style combined with Renaissance defensive architectural style, red brick facade vintage and heavy, structure simple and sturdy, with practical defensive function as the main focus, simultaneously possessing classical brick architecture aesthetics, it is a classic model of Eastern European medieval city defense architecture."
-      },
-      {
-        "id": "culture",
-        "title": "Cultural Significance",
-        "content": "The historical bond of Warsaw's Old Town, a representative landmark of medieval urban defense culture, hosting historical performances, vintage markets and cultural activities year-round. Having been completely restored after war damage, it symbolizes urban rebirth and historical inheritance, and is an important place for locals to reminisce and for tourists to learn about Poland's medieval history.\n\nAs a healing historical secret spot in the hearts of Warsaw residents and visitors alike, it carries the historical memory of this city's destruction and rebirth, symbolizing a city's resilience that has endured destruction and regeneration."
-      },
-      {
-        "id": "experience",
-        "title": "Core Experience",
-        "content": "As twilight falls, warm-toned afterglow shines on the red brick walls, the fortress silhouette soft and vintage, the medieval fortress takes on a more gentle atmosphere. Standing beneath the Barbican, you can both touch real historical remains and feel the vibrant market atmosphere of the Old Town, understanding a city's resilient core that has endured destruction and rebirth.\n\nWalking through the arched passages, you feel the thick defensive walls on both sides, as if returning to the medieval era of city walls and defense. Every arch, every brick tells the story of this city's past."
-      }
-    ]
+    "title": "Brama przez Sześć Wieków",
+    "paragraphs": [
+      "Barbakan Warszawski to półkolista ceglana fortyfikacja wzniesiona w 1548 roku przez weneckiego architekta Jana Baptystę Wenecjanina. Chronił północne wejście do Starego Miasta i łączył średniowieczne mury obronne Starego i Nowego Miasta Warszawy.",
+      "Przejście przez bramę jest bezpłatne, dzień i noc. Przejście oraz zachowane mury należą do najlepszych miejsc do zdjęć w stolicy — z ulicy Podwale poniżej widać dawną fosę.",
+      "Znajdziesz go pod adresem Nowomiejska 15/17, na północnym skraju Starego Miasta wpisanego na listę UNESCO — trzy minuty pieszo od Rynku Starego Miasta i około ośmiu minut od Zamku Królewskiego."
+    ],
+    "readMore": "Czytaj dalej poniżej"
   },
   "basicInfo": {
-    "title": "Basic Information",
-    "officialName": "Official Name",
-    "officialNameValue": "Barbakan Warszawski",
-    "type": "Attraction Type",
-    "typeValue": "Medieval Fortification, Ancient Wall Remains, Old Town Historic Landmark",
-    "country": "Country",
-    "countryValue": "Poland",
-    "city": "City",
-    "cityValue": "Warsaw",
-    "googleRating": "Google Rating",
-    "phone": "Phone",
-    "address": "Address",
-    "addressValue": "Nowomiejska 15/17, 00-257 Warszawa, Poland"
+    "title": "Barbakan w Skrócie",
+    "intro": "Wszystko, co warto wiedzieć przed wizytą.",
+    "rows": [
+      { "label": "Adres", "value": "Nowomiejska 15/17, 00-257 Warszawa" },
+      { "label": "Telefon", "value": "+48 22 277 44 02" },
+      { "label": "Lokalizacja", "value": "Stare Miasto, Warszawskie Stare Miasto — lista UNESCO" },
+      { "label": "Ocena Google", "value": "4,7/5 (11 103 recenzje)" },
+      { "label": "Wstęp", "value": "Przejście bezpłatne; wystawa od 12 zł" },
+      { "label": "Czas zwiedzania", "value": "30–45 minut" },
+      { "label": "Połącz z", "value": "Zamkiem Królewskim, Rynkiem Starego Miasta, ulicą Podwale" }
+    ],
+    "directions": "Wyznacz trasę"
   },
   "hours": {
-    "title": "Opening Hours",
-    "outdoor": "Outdoor Ancient Walls & Barbican Area",
-    "outdoorTime": "Open 24/7, year-round",
-    "lighthouse": "Internal Exhibition ('Barbican and the walls of Old Warsaw')",
-    "summer": "Summer (April - October)",
-    "summerTime": "Open during the summer season",
-    "winter": "Autumn-Winter Season",
-    "winterTime": "Internal exhibition is closed",
-    "warning": "Notice",
-    "warningTime": "Closed on Mondays. The internal exhibition is only open during summer. Walking through the gate and on the defensive walls is free and possible all year round.",
-    "tip": "Recommended to visit in early morning or evening when crowds are sparse and lighting is vintage"
+    "title": "Godziny Otwarcia i Ceny Biletów",
+    "passageTitle": "Przejście przez bramę i mury miejskie",
+    "passageText": "Przejście bramą oraz zachowany odcinek murów Starego Miasta są otwarte dla wszystkich przez cały rok, 24 godziny na dobę, i całkowicie bezpłatne. Wejście na mury zależy od warunków atmosferycznych — po deszczu lub przy oblodzeniu fragmenty mogą być zamknięte dla bezpieczeństwa.",
+    "exhibitionTitle": "Wystawa \u201cBarbakan i Mury Starej Warszawy\u201d",
+    "exhibitionText": "Niewielka wystawa wewnątrz Barbakanu prowadzona jest przez Muzeum Warszawy i otwiera się tylko w sezonie letnim. W 2026 roku trwa od 20 maja do 29 sierpnia, w środy i soboty w godzinach 13:00–17:00. Przed wizytą zawsze sprawdź oficjalną stronę — terminy zmieniają się z roku na rok.",
+    "ticketTitle": "Ceny biletów",
+    "ticketRows": [
+      { "type": "Bilet normalny", "price": "12 zł" },
+      { "type": "Bilet ulgowy", "price": "8 zł" }
+    ],
+    "ticketNote": "Bilety na wystawę sprzedawane są wyłącznie w kasie głównej Muzeum Warszawy przy Rynku Starego Miasta 28.",
+    "officialLink": "Oficjalne informacje o zwiedzaniu",
+    "note": "Samo przejście jest zawsze bezpłatne — bilet potrzebny jest tylko na wystawę wewnątrz fortyfikacji."
   },
-  "tickets": {
-    "title": "Ticket Prices",
-    "outdoor": "Barbican Outer Square & Ancient Wall Path",
-    "outdoorPrice": "Free admission",
-    "lighthouse": "Internal Museum Area & Wall Climb Access",
-    "adults": "Adults",
-    "adultsPrice": "Discounted pricing",
-    "students": "Students & Youth",
-    "studentsPrice": "Reduced pricing",
-    "children": "Children",
-    "childrenPrice": "Free or discounted",
-    "card": "Warsaw City Card",
-    "cardPrice": "Can offset ticket prices; recommended for multi-attraction visitors"
+  "history": {
+    "title": "Historia i Architektura Barbakanu",
+    "subtitle": "Jak renesansowa brama obronna przetrwała rozbiórkę, wojnę i staranną powojenną odbudowę.",
+    "paragraphs": [
+      "Barbakan wzniesiono w 1548 roku z polecenia staromiejskiej rady, po tym jak zagrożenie najazdem mołdawskim oraz wielki pożar 1543 roku obnażyły słabość średniowiecznych murów Warszawy. Projekt przypisuje się Janowi Baptyście Wenecjaninowi (Giovanni Battista di Venezia), weneckiemu mistrzowi architektury wojskowej.",
+      "Struktura ma formę trzech czwartych okręgu z czerwonej cegły z półkolistym dziedzińcem, pierwotnie wyposażona była w cztery bramy i otoczona fosą. Stała dokładnie w miejscu styku murów Starego i Nowego Miasta, pełniąc rolę zarówno obronną, jak i ceremonialnej bramy między dwoma ośrodkami miejskimi.",
+      "W XVIII wieku fortyfikacja straciła rolę wojskową: służyła jako magazyn, a nawet więzienie. W okresie zaborów w XIX wieku ceglana konstrukcja została w dużej mierze rozebrana, a materiał wykorzystano ponownie; na jej miejscu powstały kamienice.",
+      "Zniszczony ponownie podczas II wojny światowej, Barbakan został odbudowany w latach 1952–1954 przez architektów Jana Zachwatowicza i Wacława Podlewskiego. Odbudowę oparto na XVII-wiecznych planach i rycinach, a do budowy użyto cegły pochodzącej z XVI-wiecznych budynków z Nysy i Łowicza — świadoma próba odzyskania oryginalnego materiału.",
+      "Dziś Barbakan stanowi część historycznego centrum Warszawy wpisanego w 1980 roku na Listę Światowego Dziedzictwa UNESCO i mieści wystawę Muzeum Warszawy poświęconą fortyfikacjom miasta.",
+      "Pod względem architektonicznym Barbakan należy do włosko-renesansowej tradycji fortyfikacji artyleryjskich przeniesionej na północ od Alp. Jego półkolisty plan, kryty kruzganek i cztery bramy odpowiadają traktatom, które w połowie XVI wieku rozpowszechniali w Europie Środkowej weneccy inżynierowie wojskowi. W regionie zachowało się zaledwie kilka porównywalnych obiektów, dlatego warszawscy konserwatorzy traktują tę cegłę ze szczególną starannością."
+    ],
+    "timelineTitle": "Oś czasu",
+    "timeline": [
+      { "year": "1543–1545", "title": "Pożar i decyzja o budowie", "text": "Wielki pożar 1543 roku niszczy północne obwarowania; w 1545 roku rada miasta zatwierdza budowę barbakanu w odpowiedzi na ryzyko pożarów i zagrożenie najazdem mołdawskim." },
+      { "year": "1548", "title": "Budowa", "text": "Wenecki architekt Jan Baptysta Wenecjanin wznosi ceglany barbakan z czterema bramami, łączący mury Starego i Nowego Miasta." },
+      { "year": "XVIII w.", "title": "Magazyn i więzienie", "text": "Fortyfikacja traci rolę obronną i służy jako budynek magazynowy oraz więzienie." },
+      { "year": "XIX w.", "title": "Rozbiórka", "text": "W okresie zaborów mury zostają w dużej mierze rozebrane, a cegły ponownie wykorzystane." },
+      { "year": "1939–1944", "title": "II wojna światowa", "text": "Obszar zostaje zniszczony podczas obrony Warszawy i Powstania Warszawskiego 1944." },
+      { "year": "1944", "title": "Powstanie Warszawskie", "text": "Podczas Powstania Warszawskiego 1944 roku Stare Miasto zostaje metodycznie zniszczone; Barbakan przetrwał jedynie w postaci zniszczonych fragmentów murów." },
+      { "year": "1952–1954", "title": "Odbudowa", "text": "Jan Zachwatowicz i Wacław Podlewski odbudowują Barbakan z użyciem XVI-wiecznej cegły z Nysy i Łowicza." },
+      { "year": "1980", "title": "Lista UNESCO", "text": "Historyczne centrum Warszawy, w tym Barbakan, zostaje wpisane na Listę Światowego Dziedzictwa UNESCO." }
+    ]
   },
   "transport": {
-    "title": "How to Get Here",
-    "airport": "From Warsaw Chopin Airport",
-    "airportDesc": "Take airport buses or intercity shuttles to the city center, transfer to Old Town trams, short walk to the Barbican area—all smooth and convenient. Rideshare from the airport can reach the Old Town entrance directly, ideal for travelers with luggage.",
-    "selfDrive": "Self-Drive",
-    "selfDriveDesc": "Drive to Old Town area, public parking available nearby. Driving time from the airport approximately 30 minutes.",
-    "bus": "Public Transport",
-    "busDesc": "Take city trams or short-distance buses to the Old Town area, 5-minute walk to the medieval fortification. Public transport runs frequently.",
-    "intercity": "From Warsaw Central Station",
-    "intercityDesc": "Take city trams or short-distance buses to the Old Town area, 5-minute walk directly to the medieval fortification. Public transport is frequent.",
-    "cycling": "Cycling",
-    "cyclingDesc": "The area supports short-distance cycling. Bike parking is available at the outer Old Town perimeter, convenient for short trips.",
-    "tips": "Travel Tips",
-    "tipsDesc": "Purchase a local public transport day pass for unlimited tram, bus and metro rides to efficiently visit multiple Warsaw attractions. Old Town is walkable, best explored on foot."
-  },
-  "route": {
-    "title": "Recommended Route",
-    "supplementsTitle": "Visit Guidelines",
-    "overview": "Recommended to visit with the Old Town loop, enter from the Old Town Square direction, first visit the Barbican's outer fortress full view, walk through the arched passages, then climb the wall path to overlook Old Town street views, stroll along the connected ancient wall remains, finally walk to Castle Square to continue exploring. The entire route is relaxing, standard visit takes about 1 hour, slow stroll can extend to half a day.",
-    "steps": [
-      "Arrive at Warsaw Old Town public transport stop, walk into Old Town streets",
-      "Walk directly to Barbican main square, view the semicircular fortress facade and red brick architecture",
-      "Walk through the central arched passage, experience the medieval defensive architecture structure up close",
-      "Climb the ancient wall path, overlook Warsaw Old Town red-roofed buildings and street views from above",
-      "Stroll along the outer ancient wall remains, photograph the continuous brick heritage scenery",
-      "Pause at the square area, watch vintage street performances and local culture",
-      "Connect to Old Town walking paths, link nearby churches, ancient streets and other niche attractions",
-      "Slowly leave the Barbican area, continue to Castle Square and Royal Castle"
+    "title": "Jak Tam Dojechać (Lokalizacja i Transport)",
+    "subtitle": "Barbakan stoi na północnym krańcu Starego Miasta, przy zbiegu ulic Nowomiejskiej i Podwale.",
+    "items": [
+      { "mode": "Tramwaj", "title": "Tramwaj do przystanku Stare Miasto", "text": "Linie 13, 23 i 26 zatrzymują się na przystanku \u201cStare Miasto\u201d, dwie minuty pieszo od Barbakanu. Rozkłady i ewentualne zmiany tras publikuje przewoźnik na wtp.waw.pl." },
+      { "mode": "Metro", "title": "Metro + krótki spacer", "text": "Jedź metrem linii 1 do stacji \u201cRatusz Arsenał\u201d (ok. 10 minut pieszo przez Plac Krasińskich) lub linii 2 do \u201cDworca Gdańskiego\u201d (ok. 15 minut)." },
+      { "mode": "Pieszo", "title": "Ze Starego Miasta", "text": "Z Rynku Starego Miasta to 3 minuty spaceru na północ ulicami Świętojańską i Freta. Z Zamku Królewskiego zarezerwuj 8 minut." },
+      { "mode": "Samochód", "title": "Parking", "text": "Samo Stare Miasto jest strefą pieszą. Najbliższe parkingi znajdują się przy Placu Krasińskich i wzdłuż Krakowskiego Przedmieścia; miejsca są ograniczone, obowiązują strefy płatne." }
     ],
-    "supplements": [
-      "Multiple brick surfaces and old steps, recommend comfortable flat shoes for walking",
-      "Winter Old Town streets are cold and windy, dress warmly",
-      "Do not climb walls or carve ancient bricks; protect historical heritage",
-      "Old Town surrounding area has dense restaurants and specialty shops, experience local cuisine before or after visiting",
-      "Be mindful of personal belongings in crowded areas"
+    "note": "Informacje o transporcie zweryfikowano na podstawie danych oficjalnego operatora warszawskiej komunikacji (WTP)."
+  },
+  "walkingTour": {
+    "title": "Spacer po Starym Mieście: Barbakan → Zamek Królewski",
+    "subtitle": "Trasa samodzielna łącząca najczęściej fotografowane zakątki starówki. Długość: ok. 2,5 km pieszo, 2–2,5 godziny z przystankami.",
+    "steps": [
+      { "title": "Start przy Barbakanie", "text": "Zacznij przy Barbakanie (Nowomiejska 15/17). Najpierw obejdź go od strony fosy — widok z ulicy Podwale to klasyczny widokówkowy kąt, najlepszy w porannym świetle." },
+      { "title": "Wzdłuż murów ulicą Podwale", "text": "Idź na południe ulicą Podwale, gdzie przy murach zachował się jedyny fragment średniowiecznej fosy. Dobrze zachowane kamienice w rejonie Podwale 83 to ulubione miejsce lokalnych fotografów." },
+      { "title": "Rynek Starego Miasta", "text": "Wejdź na Rynek — serce odbudowanej starówki, otoczone kamienicami w stylu XVII-wiecznym, kawiarniami i pomnikiem Syrenki." },
+      { "title": "Archikatedra św. Jana i Zamek Królewski", "text": "Kontynuuj ulicą Świętojańską, mijając Archikatedrę św. Jana, aż do Placu Zamkowego. Zamek Królewski i Kolumna Zygmunta wyznaczają południowy kraniec trasy." },
+      { "title": "Powrót pętlą do Barbakanu", "text": "Wróć na północ ulicą Piwną lub Długą, mijając Pomnik Powstania Warszawskiego na Placu Krasińskich, i wróć do Barbakanu." }
+    ],
+    "tip": "Wskazówka",
+    "tipText": "Jedziesz z dziećmi? Cała pętla jest płaska i przyjazna wózkom na ulicach; same mury wymagają pokonania schodów."
+  },
+  "nearby": {
+    "title": "Atrakcje w Pobliżu na Starym Mieście",
+    "subtitle": "Wszystko, co warto zobaczyć w promieniu dziesięciu minut spaceru od Barbakanu.",
+    "spots": [
+      { "name": "Rynek Starego Miasta", "note": "Odbudowany XVII-wieczny rynek z pomnikiem Syrenki", "distance": "3 min pieszo" },
+      { "name": "Zamek Królewski", "note": "Odbudowana rezydencja królewska i muzeum na Placu Zamkowym", "distance": "8 min pieszo" },
+      { "name": "Archikatedra św. Jana", "note": "Najstarszy kościół Warszawy, miejsce koronacji i pochówków władców", "distance": "6 min pieszo" },
+      { "name": "Pomnik Powstania Warszawskiego", "note": "Brązowy monument na Placu Krasińskich upamiętniający powstańców 1944", "distance": "3 min pieszo" },
+      { "name": "Muzeum Warszawy", "note": "Główny budynek przy Rynku Starego Miasta 28; tu także kupisz bilety na wystawę w Barbakanie", "distance": "4 min pieszo" },
+      { "name": "Plac Zamkowy i Kolumna Zygmunta", "note": "Historyczna brama wylotu Traktu Królewskiego i starówki", "distance": "8 min pieszo" }
     ]
   },
   "photoSpots": {
-    "title": "Photo Spots",
+    "title": "Najlepsze Miejsca do Zdjęć",
+    "subtitle": "Gdzie mury i fosa dają najlepsze kadry.",
     "spots": [
-      {
-        "name": "Barbican Main Square",
-        "desc": "Full front view of the semicircular fortress red brick building, symmetric composition is vintage and grand"
-      },
-      {
-        "name": "Wall Path High Point",
-        "desc": "Climb high to overlook Old Town streets, heritage and city buildings in one frame with great layers"
-      },
-      {
-        "name": "Inside Arched Passages",
-        "desc": "Use arch frames for composition, create depth with vintage atmosphere"
-      },
-      {
-        "name": "Ancient Wall Extension",
-        "desc": "Continuous brick walls as linear foreground, minimalist nostalgic scenery position"
-      },
-      {
-        "name": "Dusk Wall Corner",
-        "desc": "Sunset reflecting on red brick walls, warm-toned lighting atmosphere is the top photo spot"
-      }
-    ],
-    "tips": "Photography Tips",
-    "tipsContent": "Old Town buildings are dense, daytime lighting has significant light and shadow contrast, adjust shooting angles accordingly. The entire heritage protection area restricts drone flying; follow local cultural relic management regulations. Holidays bring heavy crowds, choose early morning for empty shots without people. Red brick building colors are rich, paired with vintage outfits for excellent portrait photography."
-  },
-  "hotels": {
-    "title": "Accommodation",
-    "hotels": [
-      {
-        "name": "Old Town Quiet Retreat",
-        "desc": "Accommodation within walking distance of the Barbican, hidden in vintage streets, quiet environment, short walk to all Old Town heritage sites",
-        "price": "Price varies by season"
-      },
-      {
-        "name": "Old Town Design Residence",
-        "desc": "Near Old Town main road, modern minimalist style, convenient transportation, easy travel for sightseeing",
-        "price": "Price varies by season"
-      },
-      {
-        "name": "Vintage Courtyard B&B",
-        "desc": "Old building renovated accommodation in Old Town, strong Central European vintage atmosphere, immersive local life experience",
-        "price": "Price varies by season"
-      },
-      {
-        "name": "Value Accommodation",
-        "desc": "Near city transportation hub, complete facilities, convenient commuting, suitable for budget short trips",
-        "price": "Price varies by season"
-      }
-    ],
-    "supplements": "Accommodation Tips",
-    "supplementsContent": "Warsaw Old Town has stable security, daytime sightseeing is safe and comfortable, avoid偏僻 alleys at night. Travel peak and holiday accommodation prices rise, book in advance. Prioritize Old Town core area accommodation, walking distance covers all core attractions including Barbican, Castle Square, and Old Town Square."
-  },
-  "gallery": {
-    "title": "Photo Gallery",
-    "subtitle": "Warsaw Barbican Medieval Fortress & Old Town Walls",
-    "captions": [
-      "Warsaw Barbican Panoramic View",
-      "Semicircular Fortress Facade",
-      "Red Brick Architecture",
-      "Medieval Arched Passages",
-      "Ancient Wall Path",
-      "Old Town Street Views",
-      "Dusk Atmosphere",
-      "Heritage Detail",
-      "Warsaw Barbican",
-      "Old Town Walls",
-      "Fortress Architecture",
-      "Heritage Scenery",
-      "City Details",
-      "Historical Landmark"
-    ],
-    "viewAll": "View more photos on Google Maps",
-    "showAllPhotos": "Show All Photos"
-  },
-  "reviews": {
-    "title": "Visitor Reviews",
-    "declaration": "Visitor feedback can be viewed via Google Maps (external link).",
-    "moreReviews": "View more reviews on Google Maps",
-    "items": [
-      {
-        "name": "Ming Z.",
-        "date": "March 2026",
-        "rating": 5,
-        "text": "Amazing medieval atmosphere! The semicircular red brick fortress is incredibly photogenic. Walking through the arched passages, you can truly feel the weight of history."
-      },
-      {
-        "name": "Hua L.",
-        "date": "February 2026",
-        "rating": 5,
-        "text": "A hidden gem in Warsaw's Old Town! Few tourists compared to the main square, perfect for quiet exploration. The sunset views from the wall path are breathtaking."
-      },
-      {
-        "name": "Fang W.",
-        "date": "January 2026",
-        "rating": 5,
-        "text": "Perfect blend of history and atmosphere. The medieval walls and red brick architecture create a vintage feel like stepping back centuries. Must-visit in Warsaw!"
-      },
-      {
-        "name": "Wei C.",
-        "date": "December 2025",
-        "rating": 4,
-        "text": "Great historical site! The restoration work is impressive, you can really appreciate the medieval defensive architecture. Best visited in early morning."
-      },
-      {
-        "name": "Kalowes David",
-        "date": "8 months ago",
-        "rating": 4,
-        "text": "A simple fortification, very historically significant."
-      },
-      {
-        "name": "Yanjun Wang",
-        "date": "6 years ago",
-        "rating": 4,
-        "text": "A very beautiful castle, feels like it was designed for a commendable architectural aesthetic, but functionally, as a fortification, it is somewhat unsatisfactory. Fortunately, these city defenses no longer have military significance, so it's better to just enjoy them as art."
-      },
-      {
-        "name": "Xinyi Liu",
-        "date": "4 years ago",
-        "rating": 5,
-        "text": "Three of the best looking places in Warsaw: Chopin Park, Old Town Square, and here. Very suitable for taking photos, and the museum is also worth a visit."
-      },
-      {
-        "name": "Jackie Teng",
-        "date": "2 years ago",
-        "rating": 5,
-        "text": "Very beautiful building."
-      }
+      { "title": "Ulica Podwale, strona fosy", "text": "Klasyczny widokówkowy kadr całej budowli z fosą na pierwszym planie. Najlepsze poranne światło." },
+      { "title": "Strona północna od Nowomiejskiej", "text": "Złota godzina na ceglane wieże na tle zabudowy Freta." },
+      { "title": "Z góry murów", "text": "Przy dobrej pogodzie wejdź na mury, aby zobaczyć Plac Krasińskich i Nowe Miasto z góry." },
+      { "title": "Fotografia nocna", "text": "Barbakan jest podświetlany po zmroku — długie czasy naświetlania ze skrzyżowania Podwale wychodzą pięknie." }
     ]
   },
+  "facilities": {
+    "title": "Udogodnienia w Pobliżu",
+    "subtitle": "Praktyczne usługi w bezpośredniej okolicy starówki (tylko kategorie — bez rekomendacji handlowych).",
+    "items": [
+      { "type": "Toalety publiczne", "hint": "Przy Rynku Starego Miasta i Placu Krasińskich" },
+      { "type": "Kawiarnie i restauracje", "hint": "Rynek Starego Miasta, Świętojańska, Podwale" },
+      { "type": "Hotele i noclegi", "hint": "Dzielnice Stare i Nowe Miasto" },
+      { "type": "Sklepy z pamiątkami", "hint": "Rynek Starego Miasta i ulica Freta" },
+      { "type": "Parkingi", "hint": "Plac Krasińskich i Krakowskie Przedmieście" },
+      { "type": "Bankomaty", "hint": "Okolice starówki, kilka banków w pobliżu" },
+      { "type": "Sklepy spożywcze i convenience", "hint": "Mniejsze sklepy przy Podwale, Freta i Długiej; większe supermarkety w centrum" },
+      { "type": "Stacje paliw i ładowarki EV", "hint": "Najbliższe stacje przy Wiśle i w rejonie Marszałkowskiej, poza strefą pieszą" },
+      { "type": "Apteki", "hint": "Stare Miasto i Nowy Świat; w razie potrzeby sprawdź dyżur nocny" },
+      { "type": "Wypożyczalnie rowerów i hulajnóg", "hint": "Dostępne systemy bezstacyjne; jazda po Starym Mieście jest ograniczona" }
+    ],
+    "note": "Wymienione kategorie opisują dostępne usługi w okolicy. Godziny otwarcia zależą od sezonu i operatora."
+  },
+  "stories": {
+    "title": "Historie i Legendy",
+    "subtitle": "Fakty i opowieści o jedynej zachowanej średniowiecznej bramie Warszawy.",
+    "items": [
+      { "kind": "Fakt", "title": "Zbudowany w pośpiechu", "text": "Po pożarze 1543 roku i zagrożeniu najazdem mołdawskim rada miejska zatwierdziła budowę barbakanu w 1545 roku; wenecki budowniczy ukończył go w trzy lata — szybko nawet jak na standardy renesansu." },
+      { "kind": "Fakt", "title": "Wenecki architekt", "text": "Jan Baptysta Wenecjanin przybył do Polski jako znawca fortyfikacji artyleryjskich. Jego warszawski barbakan pozostaje jednym z nielicznych takich obiektów zachowanych na północ od Alp." },
+      { "kind": "Fakt", "title": "Rozebrany cegła po cegle", "text": "W XIX wieku barbakan sprzedano i rozebrano, a cegłę wykorzystano w mieście — stratę tę lokalni historycy opłakują do dziś." },
+      { "kind": "Fakt", "title": "Odbudowany starą cegłą", "text": "Odbudowa z lat 1952–1954 autorstwa Jana Zachwatowicza i Wacława Podlewskiego wykorzystała prawdziwą XVI-wieczną cegłę z Nysy i Łowicza, aby nowe mury wyglądały autentycznie." },
+      { "kind": "Historia", "title": "Brama między dwoma miastami", "text": "Stara i Nowa Warszawa przez wieki były osobnymi gminami. Mieszkańcy opowiadają, że to przy barbakanie kończyły się latarnie jednego miasta, a zaczynały drugiego — mała, ale prawdziwa granica codziennego życia." },
+      { "kind": "Fakt", "title": "Dziedzictwo światowe", "text": "W 1980 roku odbudowane historyczne centrum Warszawy — z Barbakanem — wpisano na Listę Światowego Dziedzictwa UNESCO jako unikalny przykład niemal całkowitej powojennej rekonstrukcji." },
+      { "kind": "Historia", "title": "Skąd pochodzi nazwa „Barbakan”", "text": "Nazwa „barbakan” wywodzi się ze średniowiecznej łaciny (barbacana) — odosobnionej budowli obronnej przed bramą. Językoznawcy wiodą słowo jeszcze dalej, ku arabskiemu; podróżowało ono po Europie razem z inżynierami wojskowymi, którzy takie budowle wznosili. Dlatego podobne bramy w Krakowie, Gdańsku, a nawet w Londynie noszą tę samą nazwę." },
+      { "kind": "Fakt", "title": "Fosa, która wróciła", "text": "Pierwotną fosę zasypano w XIX wieku. Gdy w latach 1952–1954 odbudowywano Barbakan, suchą fosę przed nim odtworzono na podstawie XVII-wiecznych rycin — dlatego widok od strony fosy wciąż przypomina miasto sprzed zaborów." },
+      { "kind": "Fakt", "title": "Przetrwał Powstanie jako ruina", "text": "Podczas Powstania Warszawskiego 1944 roku Stare Miasto uległo metodycznemu zniszczeniu. Barbakan przetrwał jedynie w formie uszkodzonych fragmentów i został odbudowany dopiero w latach 1952–1954 — dlatego dziś jest symbolem odbudowy samego miasta." }
+    ]
+  },
+  "gallery": {
+    "title": "Galeria Zdjęć",
+    "subtitle": "Barbakan Warszawski i mury Starego Miasta na zdjęciach.",
+    "items": [
+      { "src": "/gallery/warsaw-barbican-1.jpg", "caption": "Brama Barbakanu od strony fosy na ulicy Podwale" },
+      { "src": "/gallery/warsaw-barbican-2.jpg", "caption": "Ceglane wieże północnej fortyfikacji" },
+      { "src": "/gallery/warsaw-barbican-3.jpg", "caption": "Przejście przez bezpłatną bramę" },
+      { "src": "/gallery/warsaw-barbican-4.jpg", "caption": "Mury i zachowana średniowieczna fosa" },
+      { "src": "/gallery/warsaw-barbican-5.jpg", "caption": "Mury Starego Miasta widziane z Placu Krasińskich" },
+      { "src": "/gallery/warsaw-barbican-6.jpg", "caption": "Detal XVI-wiecznego muru ceglanego" },
+      { "src": "/gallery/warsaw-barbican-7.jpg", "caption": "Barbakan od strony Nowomiejskiej o złotej godzinie" },
+      { "src": "/gallery/warsaw-barbican-8.jpg", "caption": "Widok z murów w stronę Nowego Miasta" },
+      { "src": "/gallery/warsaw-barbican-9.jpg", "caption": "Wieczorne światło na zachodnich murach" },
+      { "src": "/gallery/warsaw-barbican-10.jpg", "caption": "Przejście bramą łączące Stare i Nowe Miasto" },
+      { "src": "/gallery/warsaw-barbican-11.jpg", "caption": "Kamienice ulicy Podwale przy murach" },
+      { "src": "/gallery/warsaw-barbican-12.jpg", "caption": "Zimowy widok Barbakanu i fosy" },
+      { "src": "/gallery/warsaw-barbican-13.jpg", "caption": "Fortyfikacja o zmierzchu z Placu Krasińskich" },
+      { "src": "/gallery/warsaw-barbican-14.jpg", "caption": "Panorama murów starówki od południa" }
+    ]
+  },
+  "reviews": {
+    "title": "Co Mówią Odwiedzający",
+    "statLine": "Jedna z najwyżej ocenianych atrakcji Warszawy — ponad 1 118 recenzji na TripAdvisor, #42 z 692 atrakcji miasta.",
+    "quotes": [
+      { "text": "Bezpłatne przejście i jedno z najbardziej fotogenicznych miejsc na starówce — widok fosy z Podwale jest niezapomniany.", "source": "Recenzja na TripAdvisor" },
+      { "text": "Świetna atmosfera, czujesz się jakby czas się cofnął. Wejdź na mury i podziwiaj widok na rynek.", "source": "Recenzja na TripAdvisor" },
+      { "text": "Mały, ale piękny — połącz go z Rynkiem i Zamkiem Królewskim na idealny półdniowy spacer.", "source": "Recenzja na TripAdvisor" }
+    ],
+    "link": "Przeczytaj wszystkie recenzje na TripAdvisor"
+  },
+  "faq": {
+    "title": "Najczęściej Zadawane Pytania",
+    "subtitle": "Praktyczne odpowiedzi przed wizytą.",
+    "items": [
+      { "q": "Czy przejście przez Barbakan jest bezpłatne?", "a": "Tak. Przejście bramą oraz zachowane mury Starego Miasta są bezpłatne i otwarte całą dobę przez cały rok. Bilet wymagany jest wyłącznie na niewielką wystawę wewnątrz fortyfikacji prowadzoną przez Muzeum Warszawy (normalny 12 zł, ulgowy 8 zł), otwartą tylko w sezonie letnim." },
+      { "q": "Jakie są godziny otwarcia?", "a": "Samo przejście jest otwarte zawsze. Wystawa Muzeum Warszawy ma charakter sezonowy — w 2026 roku od 20 maja do 29 sierpnia, w środy i soboty 13:00–17:00. Wejście na mury zależy od pogody; po deszczu lub oblodzeniu fragmenty mogą być zamknięte." },
+      { "q": "Ile czasu potrzebuję na wizytę?", "a": "Zarezerwuj 30–45 minut na przejście, mury i punkty widokowe przy fosie. Dodając Rynek Starego Miasta, Zamek Królewski i opisaną trasę spaceru, przeznacz 2–2,5 godziny." },
+      { "q": "Czy można wejść na mury?", "a": "Tak, tam gdzie są otwarte — wejście jest bezpłatne, ale zależy od warunków atmosferycznych. Przejście na mur prowadzi po schodach, a ulice poniżej są brukowane." },
+      { "q": "Jak dojechać do Barbakanu komunikacją miejską?", "a": "Jedź tramwajami linii 13, 23 lub 26 do przystanku \u201cStare Miasto\u201d, dwie minuty pieszo. Metrem wysiądź na \u201cRatuszu Arsenał\u201d (linia 1) lub \u201cDworcu Gdańskim\u201d (linia 2) i idź 10–15 minut." },
+      { "q": "Co warto zobaczyć w pobliżu?", "a": "W promieniu dziesięciu minut spaceru: Rynek Starego Miasta, Archikatedrę św. Jana, Zamek Królewski, Plac Zamkowy z Kolumną Zygmunta, Pomnik Powstania Warszawskiego oraz główny budynek Muzeum Warszawy." },
+      { "q": "Gdzie są najlepsze miejsca do zdjęć?", "a": "Klasyczny kadr to ulica Podwale od strony fosy, najlepiej rano. Warto też: strona północna na Nowomiejskiej o złotej godzinie, szczyt murów oraz nocne ujęcia podświetlonej fortyfikacji." }
+    ]
+  },
+  "sources": {
+    "title": "Źródła i Materiały",
+    "subtitle": "Informacje na tej stronie zweryfikowano na podstawie następujących oficjalnych źródeł.",
+    "items": [
+      { "name": "Barbakan — Muzeum Warszawy (oficjalna strona oddziału)", "url": "https://barbakan.muzeumwarszawy.pl/", "note": "Godziny otwarcia, bilety i informacje o wystawie" },
+      { "name": "Barbakan — informacje o zwiedzaniu (Wizyta)", "url": "https://barbakan.muzeumwarszawy.pl/wizyta/", "note": "Praktyczne szczegóły zwiedzania i uwaga o pogodzie" },
+      { "name": "Warszawska Organizacja Turystyczna (Warsaw Tourist Information)", "url": "https://warsawtour.pl/", "note": "Oficjalny portal turystyczny miasta" },
+      { "name": "UNESCO — Historyczne Centrum Warszawy", "url": "https://whc.unesco.org/en/list/30/", "note": "Wpis na listę światowego dziedzictwa (1980)" },
+      { "name": "Warszawski Transport Publiczny (WTP)", "url": "https://www.wtp.waw.pl/", "note": "Trasy i rozkłady tramwajów i metra" },
+      { "name": "Tramwaje w Warszawie (Wikipedia PL)", "url": "https://pl.wikipedia.org/wiki/Tramwaje_w_Warszawie", "note": "Sieć tramwajowa Warszawy — dane referencyjne" }
+    ],
+    "photoCredit": "Zdjęcia pochodzą z puli obrazów na wolnych licencjach i służą celom ilustracyjnym; mogą nie przedstawiać obiektu w momencie wykonania. Pełne nazwy plików znajdują się w folderze galerii."
+  },
   "mapSection": {
-    "title": "How to Get Here",
-    "subtitle": "Nowomiejska 15/17, 00-257 Warszawa, Poland",
-    "openMaps": "View on Google Maps"
+    "title": "Lokalizacja i Mapa",
+    "subtitle": "Barbakan znajdziesz pod adresem Nowomiejska 15/17, na północnym krańcu Starego Miasta.",
+    "transportTitle": "Jak dojechać",
+    "tramLine": "Tramwaj: linie 13, 23, 26 → przystanek \u201cStare Miasto\u201d (2 min pieszo)",
+    "metroLine": "Metro: linia 1 \u201cRatusz Arsenał\u201d (10 min) lub linia 2 \u201cDworzec Gdański\u201d (15 min)",
+    "walking": "Pieszo: 3 min od Rynku Starego Miasta, 8 min od Zamku Królewskiego",
+    "authorityText": "Oficjalne informacje o zwiedzaniu",
+    "authorityLink": "barbakan.muzeumwarszawy.pl",
+    "openInMaps": "Otwórz w Google Maps"
+  },
+  "weather": {
+    "title": "Pogoda przy Barbakanie",
+    "subtitle": "Aktualne warunki i 5-dniowa prognoza dla Starego Miasta",
+    "currentLabel": "W tej chwili",
+    "feelsLike": "Odczuwalna",
+    "wind": "Wiatr",
+    "humidity": "Wilgotność",
+    "precipitation": "Prawdopodobieństwo opadów",
+    "maxLabel": "Maks.",
+    "minLabel": "Min.",
+    "unitC": "°C",
+    "updatedNote": "Dane odświeżane co 30 minut — źródło: Open-Meteo",
+    "fallbackTitle": "Prognoza chwilowo niedostępna",
+    "fallbackText": "Pogoda na żywo nie mogła zostać załadowana. Sprawdź prognozę przed wyjściem.",
+    "codes": {
+      "0": "Bezchmurnie",
+      "1": "Przeważnie bezchmurnie",
+      "2": "Częściowe zachmurzenie",
+      "3": "Zachmurzenie całkowite",
+      "45": "Mgła",
+      "48": "Mgła osadzająca szadź",
+      "51": "Słaba mżawka",
+      "53": "Mżawka",
+      "55": "Gęsta mżawka",
+      "56": "Marznąca mżawka",
+      "57": "Marznąca mżawka",
+      "61": "Słaby deszcz",
+      "63": "Deszcz",
+      "65": "Silny deszcz",
+      "66": "Marznący deszcz",
+      "67": "Marznący deszcz",
+      "71": "Słabe opady śniegu",
+      "73": "Opady śniegu",
+      "75": "Intensywne opady śniegu",
+      "77": "Ziarna śniegu",
+      "80": "Słabe przelotne opady",
+      "81": "Przelotne opady",
+      "82": "Gwałtowne przelotne opady",
+      "85": "Przelotne opady śniegu",
+      "86": "Przelotne opady śniegu",
+      "95": "Burza",
+      "96": "Burza z gradem",
+      "99": "Burza z gradem"
+    }
   },
   "footer": {
-    "rights": "© 2026 Warsaw Barbican Independent Travel Research Association · All rights reserved.",
-    "privacy": "Privacy Policy",
-    "terms": "Terms of Service",
-    "cookies": "Cookie Settings",
-    "officialResourcesTitle": "Related Resources & Information",
-    "officialLinks": {
-      "gov": "Ministry of Foreign Affairs and Visas",
-      "tourism": "Polish Tourism Organisation",
-      "museum": "Museum of Warsaw - Barbican Branch",
-      "heritage": "National Institute of Cultural Heritage",
-      "mazovia": "Mazowieckie Voivodeship"
-    },
-    "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions."
+    "tagline": "Niezależny, niekomercyjny przewodnik po Barbakanie Warszawskim.",
+    "quickLinks": "Szybkie linki",
+    "about": "O tym przewodniku",
+    "aboutText": "Ta strona to niezależny przewodnik pisany dla odwiedzających. Nie jest powiązana z Muzeum Warszawy ani żadną instytucją publiczną.",
+    "contact": "Kontakt",
+    "phone": "Muzeum Warszawy (bilety): +48 22 277 44 02",
+    "legal": "Informacje prawne",
+    "privacy": "Polityka prywatności",
+    "terms": "Regulamin",
+    "cookies": "Ustawienia cookie",
+    "mapLink": "Zobacz w Google Maps",
+    "photoCredit": "Wszystkie zdjęcia prezentowane na tej stronie pozostają własnością ich autorów; wszelkie prawa do zdjęć i prawa autorskie należą do oryginalnych twórców.",
+    "lastUpdated": "Ostatnia aktualizacja treści",
+    "editNote": "Ta strona jest regularnie przeglądana i aktualizowana. Jeśli zauważysz błąd, skontaktuj się z nami.",
+    "rights": "Wszelkie prawa zastrzeżone."
   },
   "privacy": {
-    "title": "Privacy Policy",
-    "lastUpdated": "Last updated: April 2026",
+    "title": "Polityka Prywatności",
+    "lastUpdated": "Ostatnia aktualizacja: 2 września 2026",
     "sections": [
-      {
-        "heading": "1. Information Collection",
-        "content": "We generally do not actively collect personally identifiable information from users. Any information provided by you through contact forms or emails will be kept strictly confidential."
-      },
-      {
-        "heading": "2. Use of Information",
-        "content": "The information we collect is used solely to provide, maintain, and improve our services, and to communicate with you. We do not sell or share your personal information with third parties for marketing purposes."
-      },
-      {
-        "heading": "3. Cookies and Tracking",
-        "content": "We use cookies and similar tracking technologies to track the activity on our website and hold certain information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent."
-      },
-      {
-        "heading": "4. Data Security",
-        "content": "The security of your data is important to us. We use commercially acceptable means to protect your Personal Data, though no method of transmission over the Internet is 100% secure."
-      }
+      { "heading": "Kim jesteśmy", "text": "Ta strona to niezależny, niekomercyjny przewodnik po Barbakanie Warszawskim. Nie sprzedajemy produktów ani nie prowadzimy płatnych reklam." },
+      { "heading": "Jakie dane zbieramy", "text": "Nie zbieramy bezpośrednio żadnych danych osobowych. Anonimowe, zagregowane statystyki mogą być przetwarzane w trybie przyjaznym prywatności po wyrażeniu zgody." },
+      { "heading": "Cookies", "text": "Ta strona używa banera zgody. Tylko po Twojej akceptacji mogą być ustawiane opcjonalne cookies analityczne. Wybór możesz zmienić w każdej chwili na stronie Ustawień cookie." },
+      { "heading": "Usługi zewnętrzne", "text": "Osadzona mapa pochodzi od Google Maps i podlega polityce prywatności Google. Jej otwarcie może ustawiać cookies kontrolowane przez Google." },
+      { "heading": "Twoje prawa", "text": "Możesz w każdej chwili usunąć lub zablokować cookies w ustawieniach przeglądarki. Korzystanie z tej strony nie wymaga zakładania konta." },
+      { "heading": "Kontakt", "text": "W sprawach prywatności skorzystaj z danych kontaktowych opublikowanych na stronie głównej." }
     ]
   },
   "terms": {
-    "title": "Terms of Service",
-    "lastUpdated": "Last updated: April 2026",
+    "title": "Regulamin",
+    "lastUpdated": "Ostatnia aktualizacja: 2 września 2026",
     "sections": [
-      {
-        "heading": "1. Acceptance of Terms",
-        "content": "By accessing and using this website, you agree to be bound by these terms of service. If you disagree with any part of the terms, you may not access the service."
-      },
-      {
-        "heading": "2. Use of Service",
-        "content": "This website is an independent third-party tourist information project. The information provided is for general informational purposes only. You agree to use the site responsibly and lawfully."
-      },
-      {
-        "heading": "3. Intellectual Property",
-        "content": "All content on this website, including texts, images, and logos, is the property of the website owner unless otherwise stated. Unauthorized use, reproduction, or distribution is strictly prohibited."
-      },
-      {
-        "heading": "4. Limitation of Liability",
-        "content": "We shall not be held liable for any direct, indirect, incidental, or consequential damages resulting from the use or inability to use this website or the information contained herein."
-      }
+      { "heading": "Cel", "text": "Ta strona dostarcza ogólne informacje o zwiedzaniu Barbakanu Warszawskiego dla turystów i podróżujących samodzielnie." },
+      { "heading": "Dokładność", "text": "Staramy się utrzymywać wszystkie informacje w aktualności, ale godziny otwarcia, ceny biletów i trasy transportu mogą się zmieniać. Zawsze weryfikuj dane wrażliwe na czas z oficjalnymi źródłami linkowanymi na tej stronie." },
+      { "heading": "Brak rekomendacji", "text": "Wzmianki o udogodnieniach i usługach w pobliżu opisują wyłącznie typy miejsc i nie stanowią rekomendacji ani rekomendacji handlowych." },
+      { "heading": "Własność intelektualna", "text": "Oryginalny tekst tej strony może być wykorzystywany do celów osobistych, niekomercyjnych, z podaniem źródła. Zdjęcia używane są na podstawie ich wolnych licencji." },
+      { "heading": "Odpowiedzialność", "text": "Nie ponosimy odpowiedzialności za decyzje podjęte na podstawie tych informacji. Zwiedzaj atrakcje na własną odpowiedzialność i szanuj lokalne zasady." },
+      { "heading": "Zmiany", "text": "Regulamin może być od czasu do czasu aktualizowany; powyższa data odzwierciedla najnowszą wersję." }
     ]
   },
   "cookieSettings": {
-    "title": "Cookie Settings",
-    "description": "Manage your cookie preferences.",
-    "essential": {
-      "title": "Essential Cookies",
-      "description": "Required for basic website functionality.",
-      "badge": "Always active"
-    },
-    "analytics": {
-      "title": "Analytics Cookies",
-      "description": "Help us understand how visitors interact with the site."
-    },
-    "marketing": {
-      "title": "Marketing Cookies",
-      "description": "Used to track visitors across websites."
-    },
-    "save": "Save Preferences",
-    "saved": "Preferences saved!"
+    "title": "Ustawienia Cookie",
+    "description": "Ta strona szanuje Twoją prywatność. Wybierz, które opcjonalne cookies chcesz dopuścić.",
+    "essential": "Cookies niezbędne",
+    "essentialText": "Wymagane do działania strony. Są zawsze aktywne.",
+    "analytics": "Cookies analityczne",
+    "analyticsText": "Anonimowe statystyki pomagają nam zrozumieć, które strony są przydatne odwiedzającym.",
+    "save": "Zapisz preferencje",
+    "saved": "Preferencje zapisane. Dziękujemy!",
+    "back": "Wróć do strony głównej"
   },
-  "officialManagement": {
-    "title": "About Warsaw Barbican",
-    "text": "The Warsaw Barbican (Barbakan Warszawski) is managed and maintained by the Warsaw Heritage Conservation Office, and is one of the most important medieval defensive fortifications in Central Europe.\n\nAs a key component of the UNESCO World Heritage Site - Historic Centre of Warsaw, the Barbican has witnessed centuries of the city's history, from medieval defense to wartime destruction and postwar restoration. Today, the outer area of the Barbican is open to the public free of charge, offering an excellent destination for exploring Warsaw's medieval history and an important window for visitors worldwide to experience Poland's historical charm."
-  },
-  "recommendations": {
-    "title": "Discover More",
-    "attractionsTitle": "Nearby Attractions",
-    "toursTitle": "Recommended Tours & Activities",
-    "attractions": [
-      {
-        "name": "Castle Square",
-        "url": "https://maps.app.goo.gl"
-      },
-      {
-        "name": "Royal Castle",
-        "url": "https://maps.app.goo.gl"
-      },
-      {
-        "name": "Old Town Square",
-        "url": "https://maps.app.goo.gl"
-      },
-      {
-        "name": "Sigismund's Column",
-        "url": "https://maps.app.goo.gl"
-      }
-    ],
-    "tours": [
-      {
-        "name": "Warsaw Old Town Walking Tour",
-        "url": "https://www.getyourguide.com"
-      },
-      {
-        "name": "Warsaw History Tour",
-        "url": "https://www.getyourguide.com"
-      },
-      {
-        "name": "Warsaw Food & Culture Tour",
-        "url": "https://www.getyourguide.com"
-      },
-      {
-        "name": "Warsaw WWII Historical Tour",
-        "url": "https://www.getyourguide.com"
-      }
-    ]
+  "cookieBanner": {
+    "text": "Ta strona korzysta z niezbędnych plików cookie, aby działać, i szanuje Twoją prywatność. Cookies analityczne są ustawiane tylko po Twojej zgodzie.",
+    "acceptAll": "Akceptuję wszystkie",
+    "essentialOnly": "Tylko niezbędne"
   }
 }

@@ -1,406 +1,336 @@
 {
   "meta": {
-    "title": "Warsaw Barbican | Medieval Fortress, Old Town Walls & Historic Landmark - Best European Spots",
-    "description": "Complete guide to Warsaw Barbican (Barbakan Warszawski) in Poland. Learn about opening hours, transportation, ticket info, tour tips and stunning photos. Best-preserved medieval fortification in Central Europe."
+    "title": "Warsaw Barbican (Warsaw): Hours, Tickets & History (2026)",
+    "description": "Planning to visit the Warsaw Barbican (Barbakan Warszawski)? Find ticket prices, opening hours, self-guided tour routes, and photos of Warsaw's historic city walls.",
+    "keywords": "warsaw barbican, barbakan warszawski, warsaw old town, things to do in warsaw, royal castle warsaw, warsaw old town market square, podwale street warsaw"
   },
   "header": {
-    "home": "Home",
-    "gallery": "Gallery",
-    "reviews": "Reviews",
-    "map": "Map",
-    "backToHome": "Back to Home"
+    "nav": {
+      "overview": "Overview",
+      "hours": "Hours & Tickets",
+      "history": "History",
+      "transport": "Getting There",
+      "walkingTour": "Old Town Walk",
+      "nearby": "Nearby",
+      "photos": "Photos",
+      "faq": "FAQ",
+      "map": "Map"
+    },
+    "cta": "Get Directions"
   },
   "hero": {
-    "title": "Warsaw Barbican",
-    "subtitle": "Medieval Fortress, Old Town Walls & Historic Landmark in Warsaw",
-    "rating": "4.7(10,875)",
-    "reviewCount": "10,875 reviews",
-    "hours": "Open 24/7",
-    "openMaps": "View Location"
+    "title": "Warsaw Barbican (Warszawa) — Complete Visitor Guide",
+    "subtitle": "A 16th-century red-brick fortification at the edge of Warsaw's Old Town. Opening hours, ticket prices, history and a self-guided walking route — all in one guide.",
+    "imgAlt": "The red-brick Warsaw Barbican gate connecting the Old Town and New Town walls, Warsaw, Poland",
+    "ctaPrimary": "Plan Your Visit",
+    "ctaSecondary": "View on Map"
   },
   "intro": {
-    "title": "Discover Warsaw Barbican",
-    "description": "Walking through the streets of Warsaw's Old Town, an ancient brick wall stretches endlessly, and a massive semicircular red-brick fortress suddenly comes into view—this is the Warsaw Barbican. As the most atmospheric medieval relic in the Old Town, it stands far from the noise of the modern city, covered in traces of time-worn weathering, every brick holding stories of Warsaw's past.\n\nThe vintage arched passages crisscross, the thick city wall isolates external noise—walking through feels like traveling back to medieval city years. Outside the wall is the lively Old Town streets, inside is the quiet historical site, ancient and modern scenes blend together, creating a uniquely atmospheric environment. Tourists stroll slowly, carefully observing the ancient fortification structure, feeling the solidity and ingenuity of old military architecture.\n\nWalking slowly along the city wall path, red brick walls paired with vintage street scenes make for excellent photo opportunities. There is no complex commercial decoration, only the original appearance of the heritage site, quiet yet powerful. Located in the core loop of the Old Town, connecting multiple historical landmarks, naturally integrated into the city's daily life, becoming a hidden gem where烟火气和历史感 coexist.",
-    "visitGuide": {
-      "title": "Visit Tips",
-      "items": [
-        "Recommended to visit in early morning or evening when crowds are sparse",
-        "Medieval stone walls have vintage lighting, perfect for quiet tours and photography",
-        "Outdoor ancient walls and Barbican area open year-round, 24/7",
-        "Winter city streets can be cold and windy, dress warmly"
-      ]
-    },
-    "alsoKnownAs": {
-      "title": "Highlights",
-      "items": [
-        "Best-preserved medieval fortification in Warsaw",
-        "Rare Renaissance defensive architecture in Central Europe",
-        "Important part of UNESCO World Heritage Site - Historic Centre of Warsaw",
-        "Witness to medieval urban defense and border development history"
-      ]
-    }
-  },
-  "knowledge": {
-    "title": "The Charm of Warsaw Barbican",
-    "sections": [
-      {
-        "id": "history",
-        "title": "Centuries of Defense History",
-        "content": "Warsaw's fortifications began in the early 14th century with wooden-earth structures, later replaced by stone and brick walls, aided by Prince Janusz I the Old. Between the mid-15th and early 16th centuries, a second ring of walls was built, creating a 9-14 meter wide inter-wall area secured by a water-filled moat. The 1200-meter wall perimeter enclosed 8.5 hectares (about 12 football fields).\n\nIn the mid-16th century, the northern city gate was expanded into the Barbican—an elongated outpost allowing for side-fire defense. However, during the mid-17th century Swedish Deluge and the early 18th century Great Northern War, the walls were severely damaged and lost their defensive value. By the 19th century, the walls were obscured by tenement houses built directly onto them, until the 1930s when city authorities began uncovering the medieval fragments.\n\nWhile the Old Town was heavily destroyed during the Warsaw Uprising in WWII, the old fortifications were largely spared. Reconstructed post-war, the Barbican and city walls now stand as a UNESCO World Heritage site and a proud testament to Warsaw's enduring history."
-      },
-      {
-        "id": "architecture",
-        "title": "Architectural Features",
-        "content": "Constructed jointly with red brick and stone to form a semicircular defensive wall, paired with thick arches, wall passages and watchtower structures, connecting the continuous ancient wall remains—the overall structure is solid and heavy, preserving the original appearance of medieval military architecture, the enclosed format has a particularly vintage fortress quality.\n\nThe medieval Gothic style combined with Renaissance defensive architectural style, red brick facade vintage and heavy, structure simple and sturdy, with practical defensive function as the main focus, simultaneously possessing classical brick architecture aesthetics, it is a classic model of Eastern European medieval city defense architecture."
-      },
-      {
-        "id": "culture",
-        "title": "Cultural Significance",
-        "content": "The historical bond of Warsaw's Old Town, a representative landmark of medieval urban defense culture, hosting historical performances, vintage markets and cultural activities year-round. Having been completely restored after war damage, it symbolizes urban rebirth and historical inheritance, and is an important place for locals to reminisce and for tourists to learn about Poland's medieval history.\n\nAs a healing historical secret spot in the hearts of Warsaw residents and visitors alike, it carries the historical memory of this city's destruction and rebirth, symbolizing a city's resilience that has endured destruction and regeneration."
-      },
-      {
-        "id": "experience",
-        "title": "Core Experience",
-        "content": "As twilight falls, warm-toned afterglow shines on the red brick walls, the fortress silhouette soft and vintage, the medieval fortress takes on a more gentle atmosphere. Standing beneath the Barbican, you can both touch real historical remains and feel the vibrant market atmosphere of the Old Town, understanding a city's resilient core that has endured destruction and rebirth.\n\nWalking through the arched passages, you feel the thick defensive walls on both sides, as if returning to the medieval era of city walls and defense. Every arch, every brick tells the story of this city's past."
-      }
-    ]
+    "title": "A Gateway Through Six Centuries",
+    "paragraphs": [
+      "The Warsaw Barbican (Barbakan Warszawski) is a semicircular red-brick fortification built in 1548 by the Venetian architect Jan Baptysta Wenecjanin. It guarded the northern entrance to the Old Town and connected the medieval city walls of Warsaw's Old and New Town.",
+      "Walking through its gate is free, day and night. The passage and the surviving walls form one of the best photo spots in the capital, with the old moat visible from Podwale Street below.",
+      "You will find it at Nowomiejska 15/17, at the northern tip of the UNESCO-listed Old Town, a three-minute stroll from the Old Town Market Square and about eight minutes on foot from the Royal Castle (Zamek Królewski)."
+    ],
+    "readMore": "Read more below"
   },
   "basicInfo": {
-    "title": "Basic Information",
-    "officialName": "Official Name",
-    "officialNameValue": "Barbakan Warszawski",
-    "type": "Attraction Type",
-    "typeValue": "Medieval Fortification, Ancient Wall Remains, Old Town Historic Landmark",
-    "country": "Country",
-    "countryValue": "Poland",
-    "city": "City",
-    "cityValue": "Warsaw",
-    "googleRating": "Google Rating",
-    "phone": "Phone",
-    "address": "Address",
-    "addressValue": "Nowomiejska 15/17, 00-257 Warszawa, Poland"
+    "title": "Warsaw Barbican at a Glance",
+    "intro": "Everything you need to know before you go.",
+    "rows": [
+      { "label": "Address", "value": "Nowomiejska 15/17, 00-257 Warszawa, Poland" },
+      { "label": "Phone", "value": "+48 22 277 44 02" },
+      { "label": "Location", "value": "Warsaw Old Town (Stare Miasto), UNESCO World Heritage Site" },
+      { "label": "Google rating", "value": "4.7/5 (11,103 reviews)" },
+      { "label": "Admission", "value": "Free to walk through; exhibition from 12 zł" },
+      { "label": "Visit duration", "value": "30–45 minutes" },
+      { "label": "Combine with", "value": "Royal Castle, Old Town Market Square, Podwale Street" }
+    ],
+    "directions": "Get Directions"
   },
   "hours": {
-    "title": "Opening Hours",
-    "outdoor": "Outdoor Ancient Walls & Barbican Area",
-    "outdoorTime": "Open 24/7, year-round",
-    "lighthouse": "Internal Exhibition ('Barbican and the walls of Old Warsaw')",
-    "summer": "Summer (April - October)",
-    "summerTime": "Open during the summer season",
-    "winter": "Autumn-Winter Season",
-    "winterTime": "Internal exhibition is closed",
-    "warning": "Notice",
-    "warningTime": "Closed on Mondays. The internal exhibition is only open during summer. Walking through the gate and on the defensive walls is free and possible all year round.",
-    "tip": "Recommended to visit in early morning or evening when crowds are sparse and lighting is vintage"
+    "title": "Opening Hours & Ticket Prices",
+    "passageTitle": "Gate passage & city walls",
+    "passageText": "The gate passage and the surviving stretch of the Old Town walls are open to everyone all year round, 24 hours a day, and are completely free. Climbing onto the walls depends on current weather conditions — after rain or in winter ice, sections may be closed for safety.",
+    "exhibitionTitle": "Exhibition \u201cThe Barbican and the Walls of Old Warsaw\u201d",
+    "exhibitionText": "The small exhibition inside the Barbican is run by the Museum of Warsaw (Muzeum Warszawy) and opens only in the summer season. In 2026 it runs from 20 May to 29 August, open on Wednesdays and Saturdays, 13:00–17:00. Always double-check the official website before your visit, as dates can change from year to year.",
+    "ticketTitle": "Ticket prices",
+    "ticketRows": [
+      { "type": "Normal ticket", "price": "12 zł" },
+      { "type": "Reduced ticket", "price": "8 zł" }
+    ],
+    "ticketNote": "Tickets for the exhibition are sold only at the main ticket office of the Museum of Warsaw at Rynek Starego Miasta 28.",
+    "officialLink": "Official visiting info",
+    "note": "The passage itself is always free — a ticket is only needed for the exhibition inside the fortification."
   },
-  "tickets": {
-    "title": "Ticket Prices",
-    "outdoor": "Barbican Outer Square & Ancient Wall Path",
-    "outdoorPrice": "Free admission",
-    "lighthouse": "Internal Museum Area & Wall Climb Access",
-    "adults": "Adults",
-    "adultsPrice": "Discounted pricing",
-    "students": "Students & Youth",
-    "studentsPrice": "Reduced pricing",
-    "children": "Children",
-    "childrenPrice": "Free or discounted",
-    "card": "Warsaw City Card",
-    "cardPrice": "Can offset ticket prices; recommended for multi-attraction visitors"
+  "history": {
+    "title": "History & Architecture of the Barbican",
+    "subtitle": "How a Renaissance defensive gate survived demolition, war and a meticulous post-war rebuild.",
+    "paragraphs": [
+      "The Barbican was raised in 1548, on the orders of the old town council, after the threat of a Moldavian invasion and the great fire of 1543 exposed how weak Warsaw's medieval walls had become. The design is credited to Jan Baptysta Wenecjanin (Giovanni Battista di Venezia), a Venetian master of military architecture.",
+      "The structure is a three-quarter circle of red brick with a semicircular inner courtyard, originally equipped with four gates and flanked by a moat. It sat exactly where the walls of the Old Town and the New Town met, making it both a defence and a ceremonial gateway between the two urban centres.",
+      "By the 18th century the fortification had lost its military role: it served as a warehouse and even a prison. During the 19th-century partitions the brick structure was largely demolished and its material reused, with townhouses built over the site.",
+      "Destroyed once more during the Second World War, the Barbican was reconstructed in 1952–1954 by the architects Jan Zachwatowicz and Wacław Podlewski. The rebuild followed 17th-century plans and engravings, and used brick salvaged from 16th-century buildings in the Polish towns of Nysa and Łowicz — a deliberate attempt to recover the original material.",
+      "Today the Barbican is part of the Historic Centre of Warsaw, inscribed on the UNESCO World Heritage List in 1980, and houses the Museum of Warsaw's exhibition on the city's fortifications.",
+      "Architecturally, the Barbican belongs to the Italian Renaissance tradition of artillery fortifications transplanted north of the Alps. Its semicircular plan, covered gallery and four gates followed the treatises that Venetian military engineers were spreading across Central Europe in the mid-16th century. Only a handful of comparable structures survive in the region, which is why Warsaw's conservators treat this masonry with particular care."
+    ],
+    "timelineTitle": "Timeline",
+    "timeline": [
+      { "year": "1543–1545", "title": "Fire and approval", "text": "The great fire of 1543 damages the northern defences; in 1545 the town council approves the barbican project to counter the fire risk and the threat of a Moldavian invasion." },
+      { "year": "1548", "title": "Construction", "text": "Venetian architect Jan Baptysta Wenecjanin builds the brick barbican with four gates, joining the Old and New Town walls." },
+      { "year": "18th c.", "title": "Warehouse and prison", "text": "The fortification loses its defensive role and is used as a storage building and jail." },
+      { "year": "19th c.", "title": "Demolition", "text": "During the Russian partition the walls are largely pulled down; the bricks are reused in new construction." },
+      { "year": "1939–1944", "title": "Second World War", "text": "The area is devastated during the Siege of Warsaw and the 1944 Warsaw Uprising." },
+      { "year": "1944", "title": "Warsaw Uprising", "text": "During the 1944 Warsaw Uprising the Old Town is methodically destroyed; the Barbican survives only as damaged wall stubs." },
+      { "year": "1952–1954", "title": "Reconstruction", "text": "Jan Zachwatowicz and Wacław Podlewski rebuild the Barbican using 16th-century brick from Nysa and Łowicz." },
+      { "year": "1980", "title": "UNESCO inscription", "text": "The Historic Centre of Warsaw, including the Barbican, is added to the UNESCO World Heritage List." }
+    ]
   },
   "transport": {
-    "title": "How to Get Here",
-    "airport": "From Warsaw Chopin Airport",
-    "airportDesc": "Take airport buses or intercity shuttles to the city center, transfer to Old Town trams, short walk to the Barbican area—all smooth and convenient. Rideshare from the airport can reach the Old Town entrance directly, ideal for travelers with luggage.",
-    "selfDrive": "Self-Drive",
-    "selfDriveDesc": "Drive to Old Town area, public parking available nearby. Driving time from the airport approximately 30 minutes.",
-    "bus": "Public Transport",
-    "busDesc": "Take city trams or short-distance buses to the Old Town area, 5-minute walk to the medieval fortification. Public transport runs frequently.",
-    "intercity": "From Warsaw Central Station",
-    "intercityDesc": "Take city trams or short-distance buses to the Old Town area, 5-minute walk directly to the medieval fortification. Public transport is frequent.",
-    "cycling": "Cycling",
-    "cyclingDesc": "The area supports short-distance cycling. Bike parking is available at the outer Old Town perimeter, convenient for short trips.",
-    "tips": "Travel Tips",
-    "tipsDesc": "Purchase a local public transport day pass for unlimited tram, bus and metro rides to efficiently visit multiple Warsaw attractions. Old Town is walkable, best explored on foot."
-  },
-  "route": {
-    "title": "Recommended Route",
-    "supplementsTitle": "Visit Guidelines",
-    "overview": "Recommended to visit with the Old Town loop, enter from the Old Town Square direction, first visit the Barbican's outer fortress full view, walk through the arched passages, then climb the wall path to overlook Old Town street views, stroll along the connected ancient wall remains, finally walk to Castle Square to continue exploring. The entire route is relaxing, standard visit takes about 1 hour, slow stroll can extend to half a day.",
-    "steps": [
-      "Arrive at Warsaw Old Town public transport stop, walk into Old Town streets",
-      "Walk directly to Barbican main square, view the semicircular fortress facade and red brick architecture",
-      "Walk through the central arched passage, experience the medieval defensive architecture structure up close",
-      "Climb the ancient wall path, overlook Warsaw Old Town red-roofed buildings and street views from above",
-      "Stroll along the outer ancient wall remains, photograph the continuous brick heritage scenery",
-      "Pause at the square area, watch vintage street performances and local culture",
-      "Connect to Old Town walking paths, link nearby churches, ancient streets and other niche attractions",
-      "Slowly leave the Barbican area, continue to Castle Square and Royal Castle"
+    "title": "How to Get There (Location & Transport)",
+    "subtitle": "The Barbican stands at the northern end of the Old Town, where Nowomiejska and Podwale streets meet.",
+    "items": [
+      { "mode": "Tram", "title": "Tram to Stare Miasto stop", "text": "Lines 13, 23 and 26 stop at \u201cStare Miasto\u201d, a two-minute walk from the Barbican. Timetables and any temporary reroutes are published by the operator on wtp.waw.pl." },
+      { "mode": "Metro", "title": "Metro + short walk", "text": "Take Metro Line 1 to \u201cRatusz Arsenał\u201d (about 10 minutes on foot through Plac Krasińskich) or Line 2 to \u201cDworzec Gdański\u201d (about 15 minutes). Both routes pass the Royal Route on the way in." },
+      { "mode": "On foot", "title": "From the Old Town", "text": "From the Old Town Market Square (Rynek Starego Miasta) it is a 3-minute walk north along Świętojańska and Freta streets. From the Royal Castle, allow 8 minutes." },
+      { "mode": "By car", "title": "Parking", "text": "The Old Town itself is car-free. The nearest parking areas are at Plac Krasińskich and along Krakowskie Przedmieście; expect limited spaces and paid zones." }
     ],
-    "supplements": [
-      "Multiple brick surfaces and old steps, recommend comfortable flat shoes for walking",
-      "Winter Old Town streets are cold and windy, dress warmly",
-      "Do not climb walls or carve ancient bricks; protect historical heritage",
-      "Old Town surrounding area has dense restaurants and specialty shops, experience local cuisine before or after visiting",
-      "Be mindful of personal belongings in crowded areas"
+    "note": "Public transport details verified against Warsaw's official operator (WTP) data."
+  },
+  "walkingTour": {
+    "title": "Old Town Walking Tour: Barbican to Royal Castle",
+    "subtitle": "A self-guided loop that strings together the most photographed corners of Warsaw's Old Town. Distance: about 2.5 km on foot, 2–2.5 hours with stops.",
+    "steps": [
+      { "title": "Start at the Barbican", "text": "Begin at the Barbican (Nowomiejska 15/17). Cross the moat side first — the view back from Podwale Street is the classic postcard angle, best in the morning light." },
+      { "title": "Follow the walls along Podwale", "text": "Walk south along Podwale Street, where the only surviving fragment of the medieval moat sits beside the walls. The well-preserved tenements around Podwale 83 are a favourite of local photographers." },
+      { "title": "Old Town Market Square (Rynek Starego Miasta)", "text": "Turn into the Market Square, heart of the reconstructed Old Town, ringed by 17th-century-style townhouses, cafés and the statue of the Warsaw Mermaid (Syrenka)." },
+      { "title": "St. John's Archcathedral & Royal Castle", "text": "Continue through Świętojańska Street past St. John's Archcathedral to Castle Square. The Royal Castle (Zamek Królewski) and Sigismund's Column mark the southern end of the route." },
+      { "title": "Loop back to the Barbican", "text": "Return north via Ulica Piwna or Długa Street, passing the Warsaw Uprising Monument at Plac Krasińskich before arriving back at the Barbican." }
+    ],
+    "tip": "Route tip",
+    "tipText": "Travelling with kids? The whole loop is flat and stroller-friendly on the streets; the walls themselves involve stairs."
+  },
+  "nearby": {
+    "title": "Nearby Attractions in Old Town Warsaw",
+    "subtitle": "Everything worth seeing within a ten-minute walk of the Barbican.",
+    "spots": [
+      { "name": "Old Town Market Square (Rynek Starego Miasta)", "note": "Reconstructed 17th-century square with the Warsaw Mermaid statue", "distance": "3 min walk" },
+      { "name": "Royal Castle (Zamek Królewski)", "note": "Rebuilt royal residence and museum at Castle Square", "distance": "8 min walk" },
+      { "name": "St. John's Archcathedral", "note": "Warsaw's oldest church, coronation and burial site of Polish monarchs", "distance": "6 min walk" },
+      { "name": "Warsaw Uprising Monument", "note": "Bronze monument on Plac Krasińskich honouring the 1944 fighters", "distance": "3 min walk" },
+      { "name": "Museum of Warsaw (Muzeum Warszawy)", "note": "Main building at Rynek Starego Miasta 28; also sells Barbican exhibition tickets", "distance": "4 min walk" },
+      { "name": "Castle Square & Sigismund's Column", "note": "Historic gateway to the Royal Route and the Old Town", "distance": "8 min walk" }
     ]
   },
   "photoSpots": {
-    "title": "Photo Spots",
+    "title": "Best Photo Spots",
+    "subtitle": "Where the walls and the moat frame the best shots.",
     "spots": [
-      {
-        "name": "Barbican Main Square",
-        "desc": "Full front view of the semicircular fortress red brick building, symmetric composition is vintage and grand"
-      },
-      {
-        "name": "Wall Path High Point",
-        "desc": "Climb high to overlook Old Town streets, heritage and city buildings in one frame with great layers"
-      },
-      {
-        "name": "Inside Arched Passages",
-        "desc": "Use arch frames for composition, create depth with vintage atmosphere"
-      },
-      {
-        "name": "Ancient Wall Extension",
-        "desc": "Continuous brick walls as linear foreground, minimalist nostalgic scenery position"
-      },
-      {
-        "name": "Dusk Wall Corner",
-        "desc": "Sunset reflecting on red brick walls, warm-toned lighting atmosphere is the top photo spot"
-      }
-    ],
-    "tips": "Photography Tips",
-    "tipsContent": "Old Town buildings are dense, daytime lighting has significant light and shadow contrast, adjust shooting angles accordingly. The entire heritage protection area restricts drone flying; follow local cultural relic management regulations. Holidays bring heavy crowds, choose early morning for empty shots without people. Red brick building colors are rich, paired with vintage outfits for excellent portrait photography."
+      { "title": "Podwale Street, moat side", "text": "The classic postcard angle of the whole structure with the moat in front. Morning light is best." },
+      { "title": "Northern side on Nowomiejska", "text": "Golden-hour shots of the brick towers against the Freta Street skyline." },
+      { "title": "On top of the walls", "text": "Weather permitting, walk the walls for a raised view over Plac Krasińskich and the New Town." },
+      { "title": "Night photography", "text": "The Barbican is floodlit after dark — long exposures from the Podwale junction work beautifully." }
+    ]
   },
-  "hotels": {
-    "title": "Accommodation",
-    "hotels": [
-      {
-        "name": "Old Town Quiet Retreat",
-        "desc": "Accommodation within walking distance of the Barbican, hidden in vintage streets, quiet environment, short walk to all Old Town heritage sites",
-        "price": "Price varies by season"
-      },
-      {
-        "name": "Old Town Design Residence",
-        "desc": "Near Old Town main road, modern minimalist style, convenient transportation, easy travel for sightseeing",
-        "price": "Price varies by season"
-      },
-      {
-        "name": "Vintage Courtyard B&B",
-        "desc": "Old building renovated accommodation in Old Town, strong Central European vintage atmosphere, immersive local life experience",
-        "price": "Price varies by season"
-      },
-      {
-        "name": "Value Accommodation",
-        "desc": "Near city transportation hub, complete facilities, convenient commuting, suitable for budget short trips",
-        "price": "Price varies by season"
-      }
+  "facilities": {
+    "title": "Facilities Nearby",
+    "subtitle": "Practical services in the immediate Old Town area (types only — no commercial endorsements).",
+    "items": [
+      { "type": "Public toilets", "hint": "Near the Old Town Market Square and Plac Krasińskich" },
+      { "type": "Cafés & restaurants", "hint": "Old Town Market Square, Świętojańska, Podwale" },
+      { "type": "Hotels & accommodation", "hint": "Old Town and New Town districts" },
+      { "type": "Souvenir shops", "hint": "Old Town Market Square and Freta Street" },
+      { "type": "Parking", "hint": "Plac Krasińskich and Krakowskie Przedmieście" },
+      { "type": "ATMs", "hint": "Old Town area, several banks nearby" },
+      { "type": "Grocery & convenience stores", "hint": "Small shops on Podwale, Freta and Długa; larger supermarkets in the city centre" },
+      { "type": "Fuel stations & EV charging", "hint": "Nearest stations along the Vistula riverside and around Marszałkowska, outside the car-free zone" },
+      { "type": "Pharmacies", "hint": "Old Town and Nowy Świat; check the night-duty roster if needed" },
+      { "type": "Bike & e-scooter rental", "hint": "Dockless rentals are available; cycling is restricted inside the Old Town" }
     ],
-    "supplements": "Accommodation Tips",
-    "supplementsContent": "Warsaw Old Town has stable security, daytime sightseeing is safe and comfortable, avoid偏僻 alleys at night. Travel peak and holiday accommodation prices rise, book in advance. Prioritize Old Town core area accommodation, walking distance covers all core attractions including Barbican, Castle Square, and Old Town Square."
+    "note": "The listed categories describe what is available nearby. Opening times vary by season and operator."
+  },
+  "stories": {
+    "title": "Stories & Legends",
+    "subtitle": "Facts and tales behind Warsaw's only surviving medieval gate.",
+    "items": [
+      { "kind": "Fact", "title": "Built in haste", "text": "After the 1543 fire and the threat of a Moldavian raid, the town council approved the barbican in 1545; the Venetian master builder completed it within three years — fast even by Renaissance standards." },
+      { "kind": "Fact", "title": "The Venetian architect", "text": "Jan Baptysta Wenecjanin came to Poland as an expert in artillery fortifications. His Warsaw barbican remains one of only a handful of such structures preserved north of the Alps." },
+      { "kind": "Fact", "title": "Dismantled stone by stone", "text": "In the 19th century the barbican was sold off and demolished, its brick reused across the city — a loss mourned by local historians ever since." },
+      { "kind": "Fact", "title": "Rebuilt with old bricks", "text": "The 1952–1954 reconstruction by Jan Zachwatowicz and Wacław Podlewski reused genuine 16th-century brick from Nysa and Łowicz so the new walls would look authentically old." },
+      { "kind": "Story", "title": "A gate between two towns", "text": "Old and New Warsaw were separate municipalities for centuries. Locals say the barbican was where one town's street lamps ended and the other's began — a small but real border in daily life." },
+      { "kind": "Fact", "title": "World heritage", "text": "In 1980 the reconstructed Historic Centre of Warsaw — Barbican included — was inscribed on the UNESCO World Heritage List as a unique example of near-total post-war reconstruction." },
+      { "kind": "Story", "title": "Where the name “Barbican” comes from", "text": "“Barbican” derives from the medieval Latin barbacana — a detached outwork in front of a gate. Linguists trace the word further back to Arabic, and it travelled across Europe with the military engineers who built these structures. That is why similar gates in Kraków, Gdańsk and even London share the name." },
+      { "kind": "Fact", "title": "The moat that returned", "text": "The original moat was filled in during the 19th century. When the Barbican was rebuilt in 1952–1954, the dry ditch in front of it was recreated from 17th-century engravings — which is why the moat-side view still looks like the pre-partition city." },
+      { "kind": "Fact", "title": "Survived the Uprising as rubble", "text": "During the 1944 Warsaw Uprising the Old Town was methodically destroyed. The Barbican was left as damaged stubs and was only rebuilt in 1952–1954 — which is why today it stands as a symbol of the city's own reconstruction." }
+    ]
   },
   "gallery": {
     "title": "Photo Gallery",
-    "subtitle": "Warsaw Barbican Medieval Fortress & Old Town Walls",
-    "captions": [
-      "Warsaw Barbican Panoramic View",
-      "Semicircular Fortress Facade",
-      "Red Brick Architecture",
-      "Medieval Arched Passages",
-      "Ancient Wall Path",
-      "Old Town Street Views",
-      "Dusk Atmosphere",
-      "Heritage Detail",
-      "Warsaw Barbican",
-      "Old Town Walls",
-      "Fortress Architecture",
-      "Heritage Scenery",
-      "City Details",
-      "Historical Landmark"
-    ],
-    "viewAll": "View more photos on Google Maps",
-    "showAllPhotos": "Show All Photos"
-  },
-  "reviews": {
-    "title": "Visitor Reviews",
-    "declaration": "Visitor feedback can be viewed via Google Maps (external link).",
-    "moreReviews": "View more reviews on Google Maps",
+    "subtitle": "The Warsaw Barbican and the Old Town walls in pictures.",
     "items": [
-      {
-        "name": "Ming Z.",
-        "date": "March 2026",
-        "rating": 5,
-        "text": "Amazing medieval atmosphere! The semicircular red brick fortress is incredibly photogenic. Walking through the arched passages, you can truly feel the weight of history."
-      },
-      {
-        "name": "Hua L.",
-        "date": "February 2026",
-        "rating": 5,
-        "text": "A hidden gem in Warsaw's Old Town! Few tourists compared to the main square, perfect for quiet exploration. The sunset views from the wall path are breathtaking."
-      },
-      {
-        "name": "Fang W.",
-        "date": "January 2026",
-        "rating": 5,
-        "text": "Perfect blend of history and atmosphere. The medieval walls and red brick architecture create a vintage feel like stepping back centuries. Must-visit in Warsaw!"
-      },
-      {
-        "name": "Wei C.",
-        "date": "December 2025",
-        "rating": 4,
-        "text": "Great historical site! The restoration work is impressive, you can really appreciate the medieval defensive architecture. Best visited in early morning."
-      },
-      {
-        "name": "Kalowes David",
-        "date": "8 months ago",
-        "rating": 4,
-        "text": "A simple fortification, very historically significant."
-      },
-      {
-        "name": "Yanjun Wang",
-        "date": "6 years ago",
-        "rating": 4,
-        "text": "A very beautiful castle, feels like it was designed for a commendable architectural aesthetic, but functionally, as a fortification, it is somewhat unsatisfactory. Fortunately, these city defenses no longer have military significance, so it's better to just enjoy them as art."
-      },
-      {
-        "name": "Xinyi Liu",
-        "date": "4 years ago",
-        "rating": 5,
-        "text": "Three of the best looking places in Warsaw: Chopin Park, Old Town Square, and here. Very suitable for taking photos, and the museum is also worth a visit."
-      },
-      {
-        "name": "Jackie Teng",
-        "date": "2 years ago",
-        "rating": 5,
-        "text": "Very beautiful building."
-      }
+      { "src": "/gallery/warsaw-barbican-1.jpg", "caption": "The Barbican gate from the moat side on Podwale Street" },
+      { "src": "/gallery/warsaw-barbican-2.jpg", "caption": "Red-brick towers of the northern fortification" },
+      { "src": "/gallery/warsaw-barbican-3.jpg", "caption": "Walking through the free gate passage" },
+      { "src": "/gallery/warsaw-barbican-4.jpg", "caption": "The walls and the surviving medieval moat" },
+      { "src": "/gallery/warsaw-barbican-5.jpg", "caption": "Old Town walls seen from Plac Krasińskich" },
+      { "src": "/gallery/warsaw-barbican-6.jpg", "caption": "Detail of the 16th-century brickwork" },
+      { "src": "/gallery/warsaw-barbican-7.jpg", "caption": "The Barbican from Nowomiejska Street at golden hour" },
+      { "src": "/gallery/warsaw-barbican-8.jpg", "caption": "View from the walls towards the New Town" },
+      { "src": "/gallery/warsaw-barbican-9.jpg", "caption": "Evening light on the western walls" },
+      { "src": "/gallery/warsaw-barbican-10.jpg", "caption": "The gate passage connecting Old and New Town" },
+      { "src": "/gallery/warsaw-barbican-11.jpg", "caption": "Podwale Street tenements beside the walls" },
+      { "src": "/gallery/warsaw-barbican-12.jpg", "caption": "Winter view of the Barbican and the moat" },
+      { "src": "/gallery/warsaw-barbican-13.jpg", "caption": "The fortification at dusk from Plac Krasińskich" },
+      { "src": "/gallery/warsaw-barbican-14.jpg", "caption": "Panorama of the Old Town walls from the south" }
     ]
   },
+  "reviews": {
+    "title": "What Visitors Say",
+    "statLine": "Rated among the top attractions of Warsaw — 1,118+ reviews on TripAdvisor, #42 of 692 things to do in the city.",
+    "quotes": [
+      { "text": "Free to walk through and one of the most photogenic spots in the Old Town — the moat view from Podwale is unforgettable.", "source": "TripAdvisor review" },
+      { "text": "Great atmosphere, you almost feel thrown back in time. Walk the ramparts and enjoy the view of the square.", "source": "TripAdvisor review" },
+      { "text": "Small but beautiful — combine it with the Market Square and the Royal Castle for a perfect half-day walk.", "source": "TripAdvisor review" }
+    ],
+    "link": "Read all reviews on TripAdvisor"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Practical answers before you visit.",
+    "items": [
+      { "q": "Is the Warsaw Barbican free to walk through?", "a": "Yes. The gate passage and the surviving Old Town walls are free and open 24/7 all year round. A ticket is only required for the small exhibition inside the fortification, run by the Museum of Warsaw (normal 12 zł, reduced 8 zł), which opens in the summer season only." },
+      { "q": "What are the opening hours?", "a": "The passage itself is open at all times. The Museum of Warsaw exhibition is seasonal — in 2026 from 20 May to 29 August, Wednesdays and Saturdays 13:00–17:00. Access to the walls depends on the weather; after rain or ice, sections can be closed." },
+      { "q": "How long do I need for a visit?", "a": "Plan 30–45 minutes to walk the passage, the walls and the moat viewpoints. If you add the Old Town Market Square, the Royal Castle and the walking route described above, set aside 2–2.5 hours." },
+      { "q": "Can you climb onto the walls?", "a": "Yes, where open — access is free but depends on weather conditions. The walkway is reached by stairs, and the streets below are cobbled." },
+      { "q": "How do I get to the Barbican by public transport?", "a": "Take tram lines 13, 23 or 26 to the \u201cStare Miasto\u201d stop, a two-minute walk away. By metro, get off at \u201cRatusz Arsenał\u201d (Line 1) or \u201cDworzec Gdański\u201d (Line 2) and walk 10–15 minutes." },
+      { "q": "What is there to see nearby?", "a": "Within a ten-minute walk: the Old Town Market Square, St. John's Archcathedral, the Royal Castle, Castle Square with Sigismund's Column, the Warsaw Uprising Monument and the main building of the Museum of Warsaw." },
+      { "q": "Where are the best photo spots?", "a": "The classic angle is from Podwale Street on the moat side, best in the morning. Also rewarding: the northern side on Nowomiejska at golden hour, the top of the walls, and night shots of the floodlit fortification." }
+    ]
+  },
+  "sources": {
+    "title": "Sources & Further Reading",
+    "subtitle": "Information on this page was verified against the following official sources.",
+    "items": [
+      { "name": "Barbakan — Muzeum Warszawy (official branch site)", "url": "https://barbakan.muzeumwarszawy.pl/", "note": "Opening hours, tickets and exhibition info" },
+      { "name": "Barbakan — visiting info (Wizyta)", "url": "https://barbakan.muzeumwarszawy.pl/wizyta/", "note": "Practical visiting details and weather note" },
+      { "name": "Warsaw Tourism Office (Warsaw Tourist Information)", "url": "https://warsawtour.pl/", "note": "Official city tourism portal" },
+      { "name": "UNESCO — Historic Centre of Warsaw", "url": "https://whc.unesco.org/en/list/30/", "note": "World Heritage inscription (1980)" },
+      { "name": "Warsaw Public Transport (WTP)", "url": "https://www.wtp.waw.pl/", "note": "Tram and metro routes & timetables" },
+      { "name": "Tramwaje w Warszawie (Wikipedia PL)", "url": "https://pl.wikipedia.org/wiki/Tramwaje_w_Warszawie", "note": "Warsaw tram network reference" }
+    ],
+    "photoCredit": "Photos are used for illustrative purposes from free-licence image pools and may not depict the exact monument at the moment of capture. See the gallery folder for file names."
+  },
   "mapSection": {
-    "title": "How to Get Here",
-    "subtitle": "Nowomiejska 15/17, 00-257 Warszawa, Poland",
-    "openMaps": "View on Google Maps"
+    "title": "Location & Map",
+    "subtitle": "Find the Barbican at Nowomiejska 15/17, at the northern tip of the Old Town.",
+    "transportTitle": "Getting here",
+    "tramLine": "Tram: lines 13, 23, 26 → \u201cStare Miasto\u201d stop (2 min walk)",
+    "metroLine": "Metro: Line 1 \u201cRatusz Arsenał\u201d (10 min) or Line 2 \u201cDworzec Gdański\u201d (15 min)",
+    "walking": "On foot: 3 min from the Old Town Market Square, 8 min from the Royal Castle",
+    "authorityText": "Official visiting information",
+    "authorityLink": "barbakan.muzeumwarszawy.pl",
+    "openInMaps": "Open in Google Maps"
+  },
+  "weather": {
+    "title": "Weather at the Barbican",
+    "subtitle": "Live conditions and a 5-day forecast for the Old Town",
+    "currentLabel": "Right now",
+    "feelsLike": "Feels like",
+    "wind": "Wind",
+    "humidity": "Humidity",
+    "precipitation": "Rain probability",
+    "maxLabel": "Max",
+    "minLabel": "Min",
+    "unitC": "°C",
+    "updatedNote": "Data refreshes automatically every 30 minutes — source: Open-Meteo",
+    "fallbackTitle": "Forecast temporarily unavailable",
+    "fallbackText": "Live weather could not be loaded right now. Please check the forecast before you set out.",
+    "codes": {
+      "0": "Clear sky",
+      "1": "Mainly clear",
+      "2": "Partly cloudy",
+      "3": "Overcast",
+      "45": "Fog",
+      "48": "Depositing rime fog",
+      "51": "Light drizzle",
+      "53": "Drizzle",
+      "55": "Dense drizzle",
+      "56": "Freezing drizzle",
+      "57": "Freezing drizzle",
+      "61": "Light rain",
+      "63": "Rain",
+      "65": "Heavy rain",
+      "66": "Freezing rain",
+      "67": "Freezing rain",
+      "71": "Light snow",
+      "73": "Snow",
+      "75": "Heavy snow",
+      "77": "Snow grains",
+      "80": "Light rain showers",
+      "81": "Rain showers",
+      "82": "Violent rain showers",
+      "85": "Snow showers",
+      "86": "Snow showers",
+      "95": "Thunderstorm",
+      "96": "Thunderstorm with hail",
+      "99": "Thunderstorm with hail"
+    }
   },
   "footer": {
-    "rights": "© 2026 Warsaw Barbican Independent Travel Research Association · All rights reserved.",
+    "tagline": "An independent, non-commercial visitor guide to the Warsaw Barbican (Barbakan Warszawski).",
+    "quickLinks": "Quick links",
+    "about": "About this guide",
+    "aboutText": "This site is an independent guide written for visitors. It is not affiliated with the Museum of Warsaw or any public institution.",
+    "contact": "Contact",
+    "phone": "Muzeum Warszawy (tickets): +48 22 277 44 02",
+    "legal": "Legal",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "cookies": "Cookie Settings",
-    "officialResourcesTitle": "Related Resources & Information",
-    "officialLinks": {
-      "gov": "Ministry of Foreign Affairs and Visas",
-      "tourism": "Polish Tourism Organisation",
-      "museum": "Museum of Warsaw - Barbican Branch",
-      "heritage": "National Institute of Cultural Heritage",
-      "mazovia": "Mazowieckie Voivodeship"
-    },
-    "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions."
+    "mapLink": "View on Google Maps",
+    "photoCredit": "All photos displayed on this website remain the property of their original photographers; all image rights and copyrights are reserved to the original creators.",
+    "lastUpdated": "Content last updated",
+    "editNote": "This page is regularly reviewed and updated. If you spot an error, please contact us.",
+    "rights": "All rights reserved."
   },
   "privacy": {
     "title": "Privacy Policy",
-    "lastUpdated": "Last updated: April 2026",
+    "lastUpdated": "Last updated: September 2, 2026",
     "sections": [
-      {
-        "heading": "1. Information Collection",
-        "content": "We generally do not actively collect personally identifiable information from users. Any information provided by you through contact forms or emails will be kept strictly confidential."
-      },
-      {
-        "heading": "2. Use of Information",
-        "content": "The information we collect is used solely to provide, maintain, and improve our services, and to communicate with you. We do not sell or share your personal information with third parties for marketing purposes."
-      },
-      {
-        "heading": "3. Cookies and Tracking",
-        "content": "We use cookies and similar tracking technologies to track the activity on our website and hold certain information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent."
-      },
-      {
-        "heading": "4. Data Security",
-        "content": "The security of your data is important to us. We use commercially acceptable means to protect your Personal Data, though no method of transmission over the Internet is 100% secure."
-      }
+      { "heading": "Who we are", "text": "This website is an independent, non-commercial visitor guide to the Warsaw Barbican. We do not sell products and we do not run paid advertising." },
+      { "heading": "Data we collect", "text": "We collect no personal data directly. Anonymous, aggregated statistics may be processed through privacy-friendly analytics when you have given consent." },
+      { "heading": "Cookies", "text": "This site uses a consent banner. Only after you approve may optional analytics cookies be set. You can change your choice at any time in the Cookie Settings page." },
+      { "heading": "Third-party services", "text": "The embedded map is provided by Google Maps and is subject to Google's own privacy policy. Opening it may set cookies controlled by Google." },
+      { "heading": "Your rights", "text": "You may delete or block cookies in your browser settings at any time. No account is required to use this website." },
+      { "heading": "Contact", "text": "For privacy questions, please use the contact details published on the main page of this site." }
     ]
   },
   "terms": {
     "title": "Terms of Service",
-    "lastUpdated": "Last updated: April 2026",
+    "lastUpdated": "Last updated: September 2, 2026",
     "sections": [
-      {
-        "heading": "1. Acceptance of Terms",
-        "content": "By accessing and using this website, you agree to be bound by these terms of service. If you disagree with any part of the terms, you may not access the service."
-      },
-      {
-        "heading": "2. Use of Service",
-        "content": "This website is an independent third-party tourist information project. The information provided is for general informational purposes only. You agree to use the site responsibly and lawfully."
-      },
-      {
-        "heading": "3. Intellectual Property",
-        "content": "All content on this website, including texts, images, and logos, is the property of the website owner unless otherwise stated. Unauthorized use, reproduction, or distribution is strictly prohibited."
-      },
-      {
-        "heading": "4. Limitation of Liability",
-        "content": "We shall not be held liable for any direct, indirect, incidental, or consequential damages resulting from the use or inability to use this website or the information contained herein."
-      }
+      { "heading": "Purpose", "text": "This site provides general information about visiting the Warsaw Barbican for tourists and independent travellers." },
+      { "heading": "Accuracy", "text": "We aim to keep all information accurate, but opening hours, ticket prices and transport routes may change. Always verify time-sensitive details with the official sources linked on this page." },
+      { "heading": "No endorsement", "text": "Mentions of facilities and nearby services describe types of amenities only and do not constitute recommendations or commercial endorsements." },
+      { "heading": "Intellectual property", "text": "Original text on this site may be used for personal, non-commercial purposes with attribution. Photographs are used under their respective free licences." },
+      { "heading": "Liability", "text": "We are not liable for decisions made based on this information. Visit attractions at your own discretion and respect local rules." },
+      { "heading": "Changes", "text": "We may update these terms from time to time; the date above reflects the latest revision." }
     ]
   },
   "cookieSettings": {
     "title": "Cookie Settings",
-    "description": "Manage your cookie preferences.",
-    "essential": {
-      "title": "Essential Cookies",
-      "description": "Required for basic website functionality.",
-      "badge": "Always active"
-    },
-    "analytics": {
-      "title": "Analytics Cookies",
-      "description": "Help us understand how visitors interact with the site."
-    },
-    "marketing": {
-      "title": "Marketing Cookies",
-      "description": "Used to track visitors across websites."
-    },
-    "save": "Save Preferences",
-    "saved": "Preferences saved!"
+    "description": "This website respects your privacy. Choose which optional cookies you allow.",
+    "essential": "Essential cookies",
+    "essentialText": "Required for the site to function. These are always active.",
+    "analytics": "Analytics cookies",
+    "analyticsText": "Anonymous statistics help us understand which pages are useful to visitors.",
+    "save": "Save preferences",
+    "saved": "Preferences saved. Thank you!",
+    "back": "Back to home"
   },
-  "officialManagement": {
-    "title": "About Warsaw Barbican",
-    "text": "The Warsaw Barbican (Barbakan Warszawski) is managed and maintained by the Warsaw Heritage Conservation Office, and is one of the most important medieval defensive fortifications in Central Europe.\n\nAs a key component of the UNESCO World Heritage Site - Historic Centre of Warsaw, the Barbican has witnessed centuries of the city's history, from medieval defense to wartime destruction and postwar restoration. Today, the outer area of the Barbican is open to the public free of charge, offering an excellent destination for exploring Warsaw's medieval history and an important window for visitors worldwide to experience Poland's historical charm."
-  },
-  "recommendations": {
-    "title": "Discover More",
-    "attractionsTitle": "Nearby Attractions",
-    "toursTitle": "Recommended Tours & Activities",
-    "attractions": [
-      {
-        "name": "Castle Square",
-        "url": "https://maps.app.goo.gl"
-      },
-      {
-        "name": "Royal Castle",
-        "url": "https://maps.app.goo.gl"
-      },
-      {
-        "name": "Old Town Square",
-        "url": "https://maps.app.goo.gl"
-      },
-      {
-        "name": "Sigismund's Column",
-        "url": "https://maps.app.goo.gl"
-      }
-    ],
-    "tours": [
-      {
-        "name": "Warsaw Old Town Walking Tour",
-        "url": "https://www.getyourguide.com"
-      },
-      {
-        "name": "Warsaw History Tour",
-        "url": "https://www.getyourguide.com"
-      },
-      {
-        "name": "Warsaw Food & Culture Tour",
-        "url": "https://www.getyourguide.com"
-      },
-      {
-        "name": "Warsaw WWII Historical Tour",
-        "url": "https://www.getyourguide.com"
-      }
-    ]
+  "cookieBanner": {
+    "text": "This site uses essential cookies to function and respects your privacy. Analytics cookies are only set after your consent.",
+    "acceptAll": "Accept all",
+    "essentialOnly": "Essential only"
   }
 }

@@ -1,60 +1,59 @@
-import { useTranslations } from 'next-intl';
+import { getTranslations } from "next-intl/server";
+import { siteConfig } from "@/config";
 
-export default function MapEmbed() {
-  const t = useTranslations('mapSection');
+export default async function MapEmbed() {
+  const t = await getTranslations("mapSection");
 
   return (
-    <section id="map" className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
-      <div className="max-w-5xl mx-auto">
-        <h2
-          className="font-display text-3xl sm:text-4xl font-semibold mb-2"
-          style={{ color: 'var(--text-primary)' }}
-        >
-          {t('title')}
-        </h2>
-        <p className="mb-8 text-sm" style={{ color: 'var(--text-muted)' }}>{t('subtitle')}</p>
-        <div className="w-12 h-0.5 mb-10" style={{ background: 'var(--accent)' }} />
-
-        {/* Map */}
-        <div
-          className="map-container relative rounded-xl overflow-hidden"
-          style={{ border: '1px solid var(--map-border)' }}
-        >
-          {/* 
-            NOTE: Google Maps attribution is hidden via CSS (.gm-style-cc, .gmnoprint).
-            This is for visual cleanliness only. Google's Terms of Service apply.
-          */}
-          <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2443.5!2d21.0!3d52.25!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471ecc8%3A0x1234!2sBarbakan%20Warszawski!5e0!3m2!1sen!2spl!4v1700000000000!5m2!1sen!2spl"
-            width="100%"
-            height="450"
-            style={{ border: 0 }}
-            allowFullScreen
-            loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
-            title="Google Maps - Warsaw Barbican"
-          />
+    <section className="section" id="map">
+      <div className="container">
+        <div className="section-head">
+          <span className="kicker">Map</span>
+          <h2>{t("title")}</h2>
+          <p>{t("subtitle")}</p>
         </div>
 
-        {/* Open in Google Maps */}
-        <div className="mt-6 flex justify-center">
+        <iframe
+          className="map-frame"
+          src={siteConfig.mapsEmbedSrc}
+          loading="lazy"
+          referrerPolicy="strict-origin-when-cross-origin"
+          allowFullScreen
+          title={`${t("title")} — Google Maps`}
+        />
+
+        <div className="map-meta">
+          <div className="meta-item">
+            <strong>{t("transportTitle")}:</strong>
+            <br />
+            {t("tramLine")}
+            <br />
+            {t("metroLine")}
+            <br />
+            {t("walking")}
+          </div>
+          <div className="meta-item">
+            <strong>{t("authorityText")}:</strong>{" "}
+            <a
+              href="https://barbakan.muzeumwarszawy.pl/wizyta/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              {t("authorityLink")}
+            </a>
+            <br />
+            <strong>Plus Code:</strong> {siteConfig.plusCode}
+          </div>
+        </div>
+
+        <div className="map-actions">
           <a
-            href="https://maps.app.goo.gl/yJjZQ1xta9pJCnzM9"
+            className="btn btn-primary"
+            href={siteConfig.mapsUrl}
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full text-sm font-medium text-white transition-colors"
-            style={{ background: 'var(--accent)' }}
           >
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-              <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" />
-              <circle cx="12" cy="10" r="3" />
-            </svg>
-            {t('openMaps')}
-            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-              <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6" />
-              <polyline points="15 3 21 3 21 9" />
-              <line x1="10" y1="14" x2="21" y2="3" />
-            </svg>
+            {t("openInMaps")} ↗
           </a>
         </div>
       </div>

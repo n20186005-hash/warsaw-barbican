@@ -1,65 +1,65 @@
-import { useTranslations, useMessages } from 'next-intl';
-import { useLocale } from 'next-intl';
+import { getLocale, getTranslations } from "next-intl/server";
+import { Link } from "@/i18n/navigation";
+import { siteConfig } from "@/config";
 
-export default function Footer() {
-  const t = useTranslations('footer');
-  const messages = useMessages() as any;
-  const heroTitle = messages?.hero?.title || 'Warsaw Barbican';
-  const locale = useLocale();
-  const prefix = `/${locale}`;
+export default async function Footer() {
+  const t = await getTranslations("footer");
+  const navT = await getTranslations("header");
+  const locale = await getLocale();
 
   return (
-    <footer
-      className="py-12 px-4 sm:px-6"
-      style={{ background: 'var(--bg-tertiary)', borderTop: '1px solid var(--border-color)' }}
-    >
-      <div className="max-w-5xl mx-auto">
-        <div className="flex flex-col sm:flex-row justify-between items-start gap-8 mb-8">
-          <div className="max-w-md">
-            <h3 className="font-display text-lg font-semibold mb-1" style={{ color: 'var(--text-primary)' }}>
-              {heroTitle}
-            </h3>
-            <p className="text-xs mb-4" style={{ color: 'var(--text-muted)' }}>
-              {t('officialResourcesTitle')}
-            </p>
-            <div className="flex flex-col gap-2">
-              <a href="https://www.gov.pl/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {t('officialLinks.gov')}
-              </a>
-              <a href="https://www.poland.travel/en/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {t('officialLinks.tourism')}
-              </a>
-              <a href="https://barbakan.muzeumwarszawy.pl/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {t('officialLinks.museum')}
-              </a>
-              <a href="https://nid.pl/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {t('officialLinks.heritage')}
-              </a>
-              <a href="https://mazovia.pl/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {t('officialLinks.mazovia')}
-              </a>
-            </div>
+    <footer className="site-footer">
+      <div className="container">
+        <div className="footer-grid">
+          <div>
+            <h4>Warsaw Barbican</h4>
+            <p>{t("tagline")}</p>
+            <p className="footer-note">{t("editNote")}</p>
           </div>
-          <div className="flex flex-wrap gap-4 text-sm mt-4 sm:mt-0">
-            <a href={`${prefix}/privacy-policy`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
-              {t('privacy')}
-            </a>
-            <a href={`${prefix}/terms-of-service`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
-              {t('terms')}
-            </a>
-            <a href={`${prefix}/cookie-settings`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
-              {t('cookies')}
-            </a>
+          <div>
+            <h4>{t("quickLinks")}</h4>
+            <ul>
+              <li>
+                <a href={`/${locale}/#hours`}>{navT("nav.hours")}</a>
+              </li>
+              <li>
+                <a href={`/${locale}/#walkingTour`}>{navT("nav.walkingTour")}</a>
+              </li>
+              <li>
+                <a href={`/${locale}/#faq`}>{navT("nav.faq")}</a>
+              </li>
+              <li>
+                <a href={siteConfig.mapsUrl} target="_blank" rel="noopener noreferrer">
+                  {t("mapLink")}
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div>
+            <h4>{t("legal")}</h4>
+            <ul>
+              <li>
+                <Link href="/privacy-policy">{t("privacy")}</Link>
+              </li>
+              <li>
+                <Link href="/terms-of-service">{t("terms")}</Link>
+              </li>
+              <li>
+                <Link href="/cookie-settings">{t("cookies")}</Link>
+              </li>
+            </ul>
           </div>
         </div>
 
-        <div
-          className="pt-6 text-center text-sm space-y-4"
-          style={{ borderTop: '1px solid var(--border-color)', color: 'var(--text-muted)' }}
-        >
-          <p>{t('rights')}</p>
-          <p className="text-xs max-w-3xl mx-auto leading-relaxed">{t('disclaimer')}</p>
+        <div className="footer-bottom">
+          <span>
+            © {new Date().getFullYear()} warsawbarbican.com — {t("rights")}
+          </span>
+          <span>
+            {t("lastUpdated")}: {siteConfig.lastUpdated}
+          </span>
         </div>
+        <p className="footer-note">{t("photoCredit")}</p>
       </div>
     </footer>
   );

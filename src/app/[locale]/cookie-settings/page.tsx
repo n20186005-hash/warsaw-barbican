@@ -1,38 +1,31 @@
-import { setRequestLocale } from 'next-intl/server';
-import type { Metadata } from 'next';
-import CookieSettingsClient from './CookieSettingsClient';
+import { setRequestLocale, getTranslations } from "next-intl/server";
+import { routing } from "@/i18n/routing";
+import CookieSettingsClient from "@/components/CookieSettingsClient";
 
-export async function generateMetadata({
-  params,
-}: {
-  params: Promise<{ locale: string }>;
-}): Promise<Metadata> {
-  const baseUrl = 'https://greatyarmouthbeach.com';
-  const itUrl = `${baseUrl}/cookie-settings`;
-  const enUrl = `${baseUrl}/en/cookie-settings`;
-  const frUrl = `${baseUrl}/fr/cookie-settings`;
-  const zhUrl = `${baseUrl}/zh-Hant/cookie-settings`;
-
-  return {
-    alternates: {
-      canonical: itUrl,
-      languages: {
-        'it': itUrl,
-        'en': enUrl,
-        'fr': frUrl,
-        'zh-Hant': zhUrl,
-        'x-default': itUrl,
-      },
-    },
-  };
+export function generateStaticParams() {
+  return routing.locales.map((locale) => ({ locale }));
 }
 
-export default async function CookiePage({
+export default async function CookieSettingsPage({
   params,
 }: {
   params: Promise<{ locale: string }>;
 }) {
   const { locale } = await params;
   setRequestLocale(locale);
-  return <CookieSettingsClient />;
+  const t = await getTranslations({ locale, namespace: "cookieSettings" });
+
+  return (
+    <CookieSettingsClient
+      title={t("title")}
+      description={t("description")}
+      essential={t("essential")}
+      essentialText={t("essentialText")}
+      analytics={t("analytics")}
+      analyticsText={t("analyticsText")}
+      save={t("save")}
+      saved={t("saved")}
+      back={t("back")}
+    />
+  );
 }
