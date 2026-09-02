@@ -38,13 +38,34 @@
     "title": "Barbakan w Skrócie",
     "intro": "Wszystko, co warto wiedzieć przed wizytą.",
     "rows": [
-      { "label": "Adres", "value": "Nowomiejska 15/17, 00-257 Warszawa" },
-      { "label": "Telefon", "value": "+48 22 277 44 02" },
-      { "label": "Lokalizacja", "value": "Stare Miasto, Warszawskie Stare Miasto — lista UNESCO" },
-      { "label": "Ocena Google", "value": "4,7/5 (11 103 recenzje)" },
-      { "label": "Wstęp", "value": "Przejście bezpłatne; wystawa od 12 zł" },
-      { "label": "Czas zwiedzania", "value": "30–45 minut" },
-      { "label": "Połącz z", "value": "Zamkiem Królewskim, Rynkiem Starego Miasta, ulicą Podwale" }
+      {
+        "label": "Adres",
+        "value": "Nowomiejska 15/17, 00-257 Warszawa"
+      },
+      {
+        "label": "Telefon",
+        "value": "+48 22 277 44 02"
+      },
+      {
+        "label": "Lokalizacja",
+        "value": "Stare Miasto, Warszawskie Stare Miasto — lista UNESCO"
+      },
+      {
+        "label": "Ocena Google",
+        "value": "4,7/5 (11 103 recenzje)"
+      },
+      {
+        "label": "Wstęp",
+        "value": "Przejście bezpłatne; wystawa od 12 zł"
+      },
+      {
+        "label": "Czas zwiedzania",
+        "value": "30–45 minut"
+      },
+      {
+        "label": "Połącz z",
+        "value": "Zamkiem Królewskim, Rynkiem Starego Miasta, ulicą Podwale"
+      }
     ],
     "directions": "Wyznacz trasę"
   },
@@ -52,12 +73,18 @@
     "title": "Godziny Otwarcia i Ceny Biletów",
     "passageTitle": "Przejście przez bramę i mury miejskie",
     "passageText": "Przejście bramą oraz zachowany odcinek murów Starego Miasta są otwarte dla wszystkich przez cały rok, 24 godziny na dobę, i całkowicie bezpłatne. Wejście na mury zależy od warunków atmosferycznych — po deszczu lub przy oblodzeniu fragmenty mogą być zamknięte dla bezpieczeństwa.",
-    "exhibitionTitle": "Wystawa \u201cBarbakan i Mury Starej Warszawy\u201d",
+    "exhibitionTitle": "Wystawa “Barbakan i Mury Starej Warszawy”",
     "exhibitionText": "Niewielka wystawa wewnątrz Barbakanu prowadzona jest przez Muzeum Warszawy i otwiera się tylko w sezonie letnim. W 2026 roku trwa od 20 maja do 29 sierpnia, w środy i soboty w godzinach 13:00–17:00. Przed wizytą zawsze sprawdź oficjalną stronę — terminy zmieniają się z roku na rok.",
     "ticketTitle": "Ceny biletów",
     "ticketRows": [
-      { "type": "Bilet normalny", "price": "12 zł" },
-      { "type": "Bilet ulgowy", "price": "8 zł" }
+      {
+        "type": "Bilet normalny",
+        "price": "12 zł"
+      },
+      {
+        "type": "Bilet ulgowy",
+        "price": "8 zł"
+      }
     ],
     "ticketNote": "Bilety na wystawę sprzedawane są wyłącznie w kasie głównej Muzeum Warszawy przy Rynku Starego Miasta 28.",
     "officialLink": "Oficjalne informacje o zwiedzaniu",
@@ -76,36 +103,120 @@
     ],
     "timelineTitle": "Oś czasu",
     "timeline": [
-      { "year": "1543–1545", "title": "Pożar i decyzja o budowie", "text": "Wielki pożar 1543 roku niszczy północne obwarowania; w 1545 roku rada miasta zatwierdza budowę barbakanu w odpowiedzi na ryzyko pożarów i zagrożenie najazdem mołdawskim." },
-      { "year": "1548", "title": "Budowa", "text": "Wenecki architekt Jan Baptysta Wenecjanin wznosi ceglany barbakan z czterema bramami, łączący mury Starego i Nowego Miasta." },
-      { "year": "XVIII w.", "title": "Magazyn i więzienie", "text": "Fortyfikacja traci rolę obronną i służy jako budynek magazynowy oraz więzienie." },
-      { "year": "XIX w.", "title": "Rozbiórka", "text": "W okresie zaborów mury zostają w dużej mierze rozebrane, a cegły ponownie wykorzystane." },
-      { "year": "1939–1944", "title": "II wojna światowa", "text": "Obszar zostaje zniszczony podczas obrony Warszawy i Powstania Warszawskiego 1944." },
-      { "year": "1944", "title": "Powstanie Warszawskie", "text": "Podczas Powstania Warszawskiego 1944 roku Stare Miasto zostaje metodycznie zniszczone; Barbakan przetrwał jedynie w postaci zniszczonych fragmentów murów." },
-      { "year": "1952–1954", "title": "Odbudowa", "text": "Jan Zachwatowicz i Wacław Podlewski odbudowują Barbakan z użyciem XVI-wiecznej cegły z Nysy i Łowicza." },
-      { "year": "1980", "title": "Lista UNESCO", "text": "Historyczne centrum Warszawy, w tym Barbakan, zostaje wpisane na Listę Światowego Dziedzictwa UNESCO." }
+      {
+        "year": "1543–1545",
+        "title": "Pożar i decyzja o budowie",
+        "text": "Wielki pożar 1543 roku niszczy północne obwarowania; w 1545 roku rada miasta zatwierdza budowę barbakanu w odpowiedzi na ryzyko pożarów i zagrożenie najazdem mołdawskim."
+      },
+      {
+        "year": "1548",
+        "title": "Budowa",
+        "text": "Wenecki architekt Jan Baptysta Wenecjanin wznosi ceglany barbakan z czterema bramami, łączący mury Starego i Nowego Miasta."
+      },
+      {
+        "year": "XVIII w.",
+        "title": "Magazyn i więzienie",
+        "text": "Fortyfikacja traci rolę obronną i służy jako budynek magazynowy oraz więzienie."
+      },
+      {
+        "year": "XIX w.",
+        "title": "Rozbiórka",
+        "text": "W okresie zaborów mury zostają w dużej mierze rozebrane, a cegły ponownie wykorzystane."
+      },
+      {
+        "year": "1939–1944",
+        "title": "II wojna światowa",
+        "text": "Obszar zostaje zniszczony podczas obrony Warszawy i Powstania Warszawskiego 1944."
+      },
+      {
+        "year": "1944",
+        "title": "Powstanie Warszawskie",
+        "text": "Podczas Powstania Warszawskiego 1944 roku Stare Miasto zostaje metodycznie zniszczone; Barbakan przetrwał jedynie w postaci zniszczonych fragmentów murów."
+      },
+      {
+        "year": "1952–1954",
+        "title": "Odbudowa",
+        "text": "Jan Zachwatowicz i Wacław Podlewski odbudowują Barbakan z użyciem XVI-wiecznej cegły z Nysy i Łowicza."
+      },
+      {
+        "year": "1980",
+        "title": "Lista UNESCO",
+        "text": "Historyczne centrum Warszawy, w tym Barbakan, zostaje wpisane na Listę Światowego Dziedzictwa UNESCO."
+      }
     ]
   },
   "transport": {
+    "kicker": "Lokalizacja i transport",
     "title": "Jak Tam Dojechać (Lokalizacja i Transport)",
     "subtitle": "Barbakan stoi na północnym krańcu Starego Miasta, przy zbiegu ulic Nowomiejskiej i Podwale.",
     "items": [
-      { "mode": "Tramwaj", "title": "Tramwaj do przystanku Stare Miasto", "text": "Linie 13, 23 i 26 zatrzymują się na przystanku \u201cStare Miasto\u201d, dwie minuty pieszo od Barbakanu. Rozkłady i ewentualne zmiany tras publikuje przewoźnik na wtp.waw.pl." },
-      { "mode": "Metro", "title": "Metro + krótki spacer", "text": "Jedź metrem linii 1 do stacji \u201cRatusz Arsenał\u201d (ok. 10 minut pieszo przez Plac Krasińskich) lub linii 2 do \u201cDworca Gdańskiego\u201d (ok. 15 minut)." },
-      { "mode": "Pieszo", "title": "Ze Starego Miasta", "text": "Z Rynku Starego Miasta to 3 minuty spaceru na północ ulicami Świętojańską i Freta. Z Zamku Królewskiego zarezerwuj 8 minut." },
-      { "mode": "Samochód", "title": "Parking", "text": "Samo Stare Miasto jest strefą pieszą. Najbliższe parkingi znajdują się przy Placu Krasińskich i wzdłuż Krakowskiego Przedmieścia; miejsca są ograniczone, obowiązują strefy płatne." }
+      {
+        "mode": "Lotnisko",
+        "title": "Z Lotniska Chopina (WAW)",
+        "text": "Pociągiem SKM (linia S2 lub S3) dojedziesz do Warszawy Śródmieście i przesiądziesz się w tramwaj 13, 23 lub 26 na przystanek Stare Miasto – łącznie około 40 minut. Autobus 175 dojeżdża z terminala na plac Zamkowy przy Zamku Królewskim, 8 minut pieszo od Barbakanu. Taksówka lub przejazd aplikacją zajmie 25–35 minut i kosztuje około 45–70 PLN."
+      },
+      {
+        "mode": "Pociąg",
+        "title": "Z Warszawy Centralnej",
+        "text": "Z dworca głównego pojedź metrem linii 1 jeden przystanek do Ratusz Arsenał i idź pieszo około 10 minut przez plac Krasińskich albo wsiądź w tramwaj w stronę Starego Miasta. Zarezerwuj 15–20 minut komunikacją miejską; taksówką 5–10 minut (ok. 15–25 PLN)."
+      },
+      {
+        "mode": "Autobus",
+        "title": "Połączenia autobusowe",
+        "text": "Autobus 175 łączy Lotnisko Chopina z placem Zamkowym przy Zamku Królewskim – 8 minut pieszo od Barbakanu. W nocy, gdy tramwaje nie kursują, Stare Miasto obsługują autobusy nocne z serii N. Aktualne trasy i objazdy sprawdzisz na wtp.waw.pl lub w aplikacji Jakdojade."
+      },
+      {
+        "mode": "Tramwaj",
+        "title": "Tramwaj do przystanku Stare Miasto",
+        "text": "Linie 13, 23 i 26 zatrzymują się na przystanku “Stare Miasto”, dwie minuty pieszo od Barbakanu. Rozkłady i ewentualne zmiany tras publikuje przewoźnik na wtp.waw.pl."
+      },
+      {
+        "mode": "Metro",
+        "title": "Metro + krótki spacer",
+        "text": "Jedź metrem linii 1 do stacji “Ratusz Arsenał” (ok. 10 minut pieszo przez Plac Krasińskich) lub linii 2 do “Dworca Gdańskiego” (ok. 15 minut)."
+      },
+      {
+        "mode": "Taksówka",
+        "title": "Taksówka, Uber i Bolt",
+        "text": "W Warszawie działają Bolt, Uber i Free Now. Z lotniska zarezerwuj 25–35 minut i około 45–70 PLN; z centrum 5–15 minut i około 15–25 PLN. Stare Miasto jest strefą pieszą, więc kierowca może wysadzić Cię tylko na jego obrzeżach – przy placu Krasińskich lub na ulicy Podwale."
+      },
+      {
+        "mode": "Pieszo",
+        "title": "Ze Starego Miasta",
+        "text": "Z Rynku Starego Miasta to 3 minuty spaceru na północ ulicami Świętojańską i Freta. Z Zamku Królewskiego zarezerwuj 8 minut."
+      },
+      {
+        "mode": "Samochód",
+        "title": "Parking",
+        "text": "Samo Stare Miasto jest strefą pieszą. Najbliższe parkingi znajdują się przy Placu Krasińskich i wzdłuż Krakowskiego Przedmieścia; miejsca są ograniczone, obowiązują strefy płatne."
+      }
     ],
-    "note": "Informacje o transporcie zweryfikowano na podstawie danych oficjalnego operatora warszawskiej komunikacji (WTP)."
+    "note": "Informacje o transporcie zweryfikowano na podstawie danych oficjalnego operatora warszawskiej komunikacji (WTP) oraz Lotniska Chopina; podane czasy i ceny są orientacyjne i mogą się zmienić."
   },
   "walkingTour": {
     "title": "Spacer po Starym Mieście: Barbakan → Zamek Królewski",
     "subtitle": "Trasa samodzielna łącząca najczęściej fotografowane zakątki starówki. Długość: ok. 2,5 km pieszo, 2–2,5 godziny z przystankami.",
     "steps": [
-      { "title": "Start przy Barbakanie", "text": "Zacznij przy Barbakanie (Nowomiejska 15/17). Najpierw obejdź go od strony fosy — widok z ulicy Podwale to klasyczny widokówkowy kąt, najlepszy w porannym świetle." },
-      { "title": "Wzdłuż murów ulicą Podwale", "text": "Idź na południe ulicą Podwale, gdzie przy murach zachował się jedyny fragment średniowiecznej fosy. Dobrze zachowane kamienice w rejonie Podwale 83 to ulubione miejsce lokalnych fotografów." },
-      { "title": "Rynek Starego Miasta", "text": "Wejdź na Rynek — serce odbudowanej starówki, otoczone kamienicami w stylu XVII-wiecznym, kawiarniami i pomnikiem Syrenki." },
-      { "title": "Archikatedra św. Jana i Zamek Królewski", "text": "Kontynuuj ulicą Świętojańską, mijając Archikatedrę św. Jana, aż do Placu Zamkowego. Zamek Królewski i Kolumna Zygmunta wyznaczają południowy kraniec trasy." },
-      { "title": "Powrót pętlą do Barbakanu", "text": "Wróć na północ ulicą Piwną lub Długą, mijając Pomnik Powstania Warszawskiego na Placu Krasińskich, i wróć do Barbakanu." }
+      {
+        "title": "Start przy Barbakanie",
+        "text": "Zacznij przy Barbakanie (Nowomiejska 15/17). Najpierw obejdź go od strony fosy — widok z ulicy Podwale to klasyczny widokówkowy kąt, najlepszy w porannym świetle."
+      },
+      {
+        "title": "Wzdłuż murów ulicą Podwale",
+        "text": "Idź na południe ulicą Podwale, gdzie przy murach zachował się jedyny fragment średniowiecznej fosy. Dobrze zachowane kamienice w rejonie Podwale 83 to ulubione miejsce lokalnych fotografów."
+      },
+      {
+        "title": "Rynek Starego Miasta",
+        "text": "Wejdź na Rynek — serce odbudowanej starówki, otoczone kamienicami w stylu XVII-wiecznym, kawiarniami i pomnikiem Syrenki."
+      },
+      {
+        "title": "Archikatedra św. Jana i Zamek Królewski",
+        "text": "Kontynuuj ulicą Świętojańską, mijając Archikatedrę św. Jana, aż do Placu Zamkowego. Zamek Królewski i Kolumna Zygmunta wyznaczają południowy kraniec trasy."
+      },
+      {
+        "title": "Powrót pętlą do Barbakanu",
+        "text": "Wróć na północ ulicą Piwną lub Długą, mijając Pomnik Powstania Warszawskiego na Placu Krasińskich, i wróć do Barbakanu."
+      }
     ],
     "tip": "Wskazówka",
     "tipText": "Jedziesz z dziećmi? Cała pętla jest płaska i przyjazna wózkom na ulicach; same mury wymagają pokonania schodów."
@@ -114,38 +225,104 @@
     "title": "Atrakcje w Pobliżu na Starym Mieście",
     "subtitle": "Wszystko, co warto zobaczyć w promieniu dziesięciu minut spaceru od Barbakanu.",
     "spots": [
-      { "name": "Rynek Starego Miasta", "note": "Odbudowany XVII-wieczny rynek z pomnikiem Syrenki", "distance": "3 min pieszo" },
-      { "name": "Zamek Królewski", "note": "Odbudowana rezydencja królewska i muzeum na Placu Zamkowym", "distance": "8 min pieszo" },
-      { "name": "Archikatedra św. Jana", "note": "Najstarszy kościół Warszawy, miejsce koronacji i pochówków władców", "distance": "6 min pieszo" },
-      { "name": "Pomnik Powstania Warszawskiego", "note": "Brązowy monument na Placu Krasińskich upamiętniający powstańców 1944", "distance": "3 min pieszo" },
-      { "name": "Muzeum Warszawy", "note": "Główny budynek przy Rynku Starego Miasta 28; tu także kupisz bilety na wystawę w Barbakanie", "distance": "4 min pieszo" },
-      { "name": "Plac Zamkowy i Kolumna Zygmunta", "note": "Historyczna brama wylotu Traktu Królewskiego i starówki", "distance": "8 min pieszo" }
+      {
+        "name": "Rynek Starego Miasta",
+        "note": "Odbudowany XVII-wieczny rynek z pomnikiem Syrenki",
+        "distance": "3 min pieszo"
+      },
+      {
+        "name": "Zamek Królewski",
+        "note": "Odbudowana rezydencja królewska i muzeum na Placu Zamkowym",
+        "distance": "8 min pieszo"
+      },
+      {
+        "name": "Archikatedra św. Jana",
+        "note": "Najstarszy kościół Warszawy, miejsce koronacji i pochówków władców",
+        "distance": "6 min pieszo"
+      },
+      {
+        "name": "Pomnik Powstania Warszawskiego",
+        "note": "Brązowy monument na Placu Krasińskich upamiętniający powstańców 1944",
+        "distance": "3 min pieszo"
+      },
+      {
+        "name": "Muzeum Warszawy",
+        "note": "Główny budynek przy Rynku Starego Miasta 28; tu także kupisz bilety na wystawę w Barbakanie",
+        "distance": "4 min pieszo"
+      },
+      {
+        "name": "Plac Zamkowy i Kolumna Zygmunta",
+        "note": "Historyczna brama wylotu Traktu Królewskiego i starówki",
+        "distance": "8 min pieszo"
+      }
     ]
   },
   "photoSpots": {
     "title": "Najlepsze Miejsca do Zdjęć",
     "subtitle": "Gdzie mury i fosa dają najlepsze kadry.",
     "spots": [
-      { "title": "Ulica Podwale, strona fosy", "text": "Klasyczny widokówkowy kadr całej budowli z fosą na pierwszym planie. Najlepsze poranne światło." },
-      { "title": "Strona północna od Nowomiejskiej", "text": "Złota godzina na ceglane wieże na tle zabudowy Freta." },
-      { "title": "Z góry murów", "text": "Przy dobrej pogodzie wejdź na mury, aby zobaczyć Plac Krasińskich i Nowe Miasto z góry." },
-      { "title": "Fotografia nocna", "text": "Barbakan jest podświetlany po zmroku — długie czasy naświetlania ze skrzyżowania Podwale wychodzą pięknie." }
+      {
+        "title": "Ulica Podwale, strona fosy",
+        "text": "Klasyczny widokówkowy kadr całej budowli z fosą na pierwszym planie. Najlepsze poranne światło."
+      },
+      {
+        "title": "Strona północna od Nowomiejskiej",
+        "text": "Złota godzina na ceglane wieże na tle zabudowy Freta."
+      },
+      {
+        "title": "Z góry murów",
+        "text": "Przy dobrej pogodzie wejdź na mury, aby zobaczyć Plac Krasińskich i Nowe Miasto z góry."
+      },
+      {
+        "title": "Fotografia nocna",
+        "text": "Barbakan jest podświetlany po zmroku — długie czasy naświetlania ze skrzyżowania Podwale wychodzą pięknie."
+      }
     ]
   },
   "facilities": {
     "title": "Udogodnienia w Pobliżu",
     "subtitle": "Praktyczne usługi w bezpośredniej okolicy starówki (tylko kategorie — bez rekomendacji handlowych).",
     "items": [
-      { "type": "Toalety publiczne", "hint": "Przy Rynku Starego Miasta i Placu Krasińskich" },
-      { "type": "Kawiarnie i restauracje", "hint": "Rynek Starego Miasta, Świętojańska, Podwale" },
-      { "type": "Hotele i noclegi", "hint": "Dzielnice Stare i Nowe Miasto" },
-      { "type": "Sklepy z pamiątkami", "hint": "Rynek Starego Miasta i ulica Freta" },
-      { "type": "Parkingi", "hint": "Plac Krasińskich i Krakowskie Przedmieście" },
-      { "type": "Bankomaty", "hint": "Okolice starówki, kilka banków w pobliżu" },
-      { "type": "Sklepy spożywcze i convenience", "hint": "Mniejsze sklepy przy Podwale, Freta i Długiej; większe supermarkety w centrum" },
-      { "type": "Stacje paliw i ładowarki EV", "hint": "Najbliższe stacje przy Wiśle i w rejonie Marszałkowskiej, poza strefą pieszą" },
-      { "type": "Apteki", "hint": "Stare Miasto i Nowy Świat; w razie potrzeby sprawdź dyżur nocny" },
-      { "type": "Wypożyczalnie rowerów i hulajnóg", "hint": "Dostępne systemy bezstacyjne; jazda po Starym Mieście jest ograniczona" }
+      {
+        "type": "Toalety publiczne",
+        "hint": "Przy Rynku Starego Miasta i Placu Krasińskich"
+      },
+      {
+        "type": "Kawiarnie i restauracje",
+        "hint": "Rynek Starego Miasta, Świętojańska, Podwale"
+      },
+      {
+        "type": "Hotele i noclegi",
+        "hint": "Dzielnice Stare i Nowe Miasto"
+      },
+      {
+        "type": "Sklepy z pamiątkami",
+        "hint": "Rynek Starego Miasta i ulica Freta"
+      },
+      {
+        "type": "Parkingi",
+        "hint": "Plac Krasińskich i Krakowskie Przedmieście"
+      },
+      {
+        "type": "Bankomaty",
+        "hint": "Okolice starówki, kilka banków w pobliżu"
+      },
+      {
+        "type": "Sklepy spożywcze i convenience",
+        "hint": "Mniejsze sklepy przy Podwale, Freta i Długiej; większe supermarkety w centrum"
+      },
+      {
+        "type": "Stacje paliw i ładowarki EV",
+        "hint": "Najbliższe stacje przy Wiśle i w rejonie Marszałkowskiej, poza strefą pieszą"
+      },
+      {
+        "type": "Apteki",
+        "hint": "Stare Miasto i Nowy Świat; w razie potrzeby sprawdź dyżur nocny"
+      },
+      {
+        "type": "Wypożyczalnie rowerów i hulajnóg",
+        "hint": "Dostępne systemy bezstacyjne; jazda po Starym Mieście jest ograniczona"
+      }
     ],
     "note": "Wymienione kategorie opisują dostępne usługi w okolicy. Godziny otwarcia zależą od sezonu i operatora."
   },
@@ -153,44 +330,131 @@
     "title": "Historie i Legendy",
     "subtitle": "Fakty i opowieści o jedynej zachowanej średniowiecznej bramie Warszawy.",
     "items": [
-      { "kind": "Fakt", "title": "Zbudowany w pośpiechu", "text": "Po pożarze 1543 roku i zagrożeniu najazdem mołdawskim rada miejska zatwierdziła budowę barbakanu w 1545 roku; wenecki budowniczy ukończył go w trzy lata — szybko nawet jak na standardy renesansu." },
-      { "kind": "Fakt", "title": "Wenecki architekt", "text": "Jan Baptysta Wenecjanin przybył do Polski jako znawca fortyfikacji artyleryjskich. Jego warszawski barbakan pozostaje jednym z nielicznych takich obiektów zachowanych na północ od Alp." },
-      { "kind": "Fakt", "title": "Rozebrany cegła po cegle", "text": "W XIX wieku barbakan sprzedano i rozebrano, a cegłę wykorzystano w mieście — stratę tę lokalni historycy opłakują do dziś." },
-      { "kind": "Fakt", "title": "Odbudowany starą cegłą", "text": "Odbudowa z lat 1952–1954 autorstwa Jana Zachwatowicza i Wacława Podlewskiego wykorzystała prawdziwą XVI-wieczną cegłę z Nysy i Łowicza, aby nowe mury wyglądały autentycznie." },
-      { "kind": "Historia", "title": "Brama między dwoma miastami", "text": "Stara i Nowa Warszawa przez wieki były osobnymi gminami. Mieszkańcy opowiadają, że to przy barbakanie kończyły się latarnie jednego miasta, a zaczynały drugiego — mała, ale prawdziwa granica codziennego życia." },
-      { "kind": "Fakt", "title": "Dziedzictwo światowe", "text": "W 1980 roku odbudowane historyczne centrum Warszawy — z Barbakanem — wpisano na Listę Światowego Dziedzictwa UNESCO jako unikalny przykład niemal całkowitej powojennej rekonstrukcji." },
-      { "kind": "Historia", "title": "Skąd pochodzi nazwa „Barbakan”", "text": "Nazwa „barbakan” wywodzi się ze średniowiecznej łaciny (barbacana) — odosobnionej budowli obronnej przed bramą. Językoznawcy wiodą słowo jeszcze dalej, ku arabskiemu; podróżowało ono po Europie razem z inżynierami wojskowymi, którzy takie budowle wznosili. Dlatego podobne bramy w Krakowie, Gdańsku, a nawet w Londynie noszą tę samą nazwę." },
-      { "kind": "Fakt", "title": "Fosa, która wróciła", "text": "Pierwotną fosę zasypano w XIX wieku. Gdy w latach 1952–1954 odbudowywano Barbakan, suchą fosę przed nim odtworzono na podstawie XVII-wiecznych rycin — dlatego widok od strony fosy wciąż przypomina miasto sprzed zaborów." },
-      { "kind": "Fakt", "title": "Przetrwał Powstanie jako ruina", "text": "Podczas Powstania Warszawskiego 1944 roku Stare Miasto uległo metodycznemu zniszczeniu. Barbakan przetrwał jedynie w formie uszkodzonych fragmentów i został odbudowany dopiero w latach 1952–1954 — dlatego dziś jest symbolem odbudowy samego miasta." }
+      {
+        "kind": "Fakt",
+        "title": "Zbudowany w pośpiechu",
+        "text": "Po pożarze 1543 roku i zagrożeniu najazdem mołdawskim rada miejska zatwierdziła budowę barbakanu w 1545 roku; wenecki budowniczy ukończył go w trzy lata — szybko nawet jak na standardy renesansu."
+      },
+      {
+        "kind": "Fakt",
+        "title": "Wenecki architekt",
+        "text": "Jan Baptysta Wenecjanin przybył do Polski jako znawca fortyfikacji artyleryjskich. Jego warszawski barbakan pozostaje jednym z nielicznych takich obiektów zachowanych na północ od Alp."
+      },
+      {
+        "kind": "Fakt",
+        "title": "Rozebrany cegła po cegle",
+        "text": "W XIX wieku barbakan sprzedano i rozebrano, a cegłę wykorzystano w mieście — stratę tę lokalni historycy opłakują do dziś."
+      },
+      {
+        "kind": "Fakt",
+        "title": "Odbudowany starą cegłą",
+        "text": "Odbudowa z lat 1952–1954 autorstwa Jana Zachwatowicza i Wacława Podlewskiego wykorzystała prawdziwą XVI-wieczną cegłę z Nysy i Łowicza, aby nowe mury wyglądały autentycznie."
+      },
+      {
+        "kind": "Historia",
+        "title": "Brama między dwoma miastami",
+        "text": "Stara i Nowa Warszawa przez wieki były osobnymi gminami. Mieszkańcy opowiadają, że to przy barbakanie kończyły się latarnie jednego miasta, a zaczynały drugiego — mała, ale prawdziwa granica codziennego życia."
+      },
+      {
+        "kind": "Fakt",
+        "title": "Dziedzictwo światowe",
+        "text": "W 1980 roku odbudowane historyczne centrum Warszawy — z Barbakanem — wpisano na Listę Światowego Dziedzictwa UNESCO jako unikalny przykład niemal całkowitej powojennej rekonstrukcji."
+      },
+      {
+        "kind": "Historia",
+        "title": "Skąd pochodzi nazwa „Barbakan”",
+        "text": "Nazwa „barbakan” wywodzi się ze średniowiecznej łaciny (barbacana) — odosobnionej budowli obronnej przed bramą. Językoznawcy wiodą słowo jeszcze dalej, ku arabskiemu; podróżowało ono po Europie razem z inżynierami wojskowymi, którzy takie budowle wznosili. Dlatego podobne bramy w Krakowie, Gdańsku, a nawet w Londynie noszą tę samą nazwę."
+      },
+      {
+        "kind": "Fakt",
+        "title": "Fosa, która wróciła",
+        "text": "Pierwotną fosę zasypano w XIX wieku. Gdy w latach 1952–1954 odbudowywano Barbakan, suchą fosę przed nim odtworzono na podstawie XVII-wiecznych rycin — dlatego widok od strony fosy wciąż przypomina miasto sprzed zaborów."
+      },
+      {
+        "kind": "Fakt",
+        "title": "Przetrwał Powstanie jako ruina",
+        "text": "Podczas Powstania Warszawskiego 1944 roku Stare Miasto uległo metodycznemu zniszczeniu. Barbakan przetrwał jedynie w formie uszkodzonych fragmentów i został odbudowany dopiero w latach 1952–1954 — dlatego dziś jest symbolem odbudowy samego miasta."
+      }
     ]
   },
   "gallery": {
     "title": "Galeria Zdjęć",
     "subtitle": "Barbakan Warszawski i mury Starego Miasta na zdjęciach.",
     "items": [
-      { "src": "/gallery/warsaw-barbican-1.jpg", "caption": "Brama Barbakanu od strony fosy na ulicy Podwale" },
-      { "src": "/gallery/warsaw-barbican-2.jpg", "caption": "Ceglane wieże północnej fortyfikacji" },
-      { "src": "/gallery/warsaw-barbican-3.jpg", "caption": "Przejście przez bezpłatną bramę" },
-      { "src": "/gallery/warsaw-barbican-4.jpg", "caption": "Mury i zachowana średniowieczna fosa" },
-      { "src": "/gallery/warsaw-barbican-5.jpg", "caption": "Mury Starego Miasta widziane z Placu Krasińskich" },
-      { "src": "/gallery/warsaw-barbican-6.jpg", "caption": "Detal XVI-wiecznego muru ceglanego" },
-      { "src": "/gallery/warsaw-barbican-7.jpg", "caption": "Barbakan od strony Nowomiejskiej o złotej godzinie" },
-      { "src": "/gallery/warsaw-barbican-8.jpg", "caption": "Widok z murów w stronę Nowego Miasta" },
-      { "src": "/gallery/warsaw-barbican-9.jpg", "caption": "Wieczorne światło na zachodnich murach" },
-      { "src": "/gallery/warsaw-barbican-10.jpg", "caption": "Przejście bramą łączące Stare i Nowe Miasto" },
-      { "src": "/gallery/warsaw-barbican-11.jpg", "caption": "Kamienice ulicy Podwale przy murach" },
-      { "src": "/gallery/warsaw-barbican-12.jpg", "caption": "Zimowy widok Barbakanu i fosy" },
-      { "src": "/gallery/warsaw-barbican-13.jpg", "caption": "Fortyfikacja o zmierzchu z Placu Krasińskich" },
-      { "src": "/gallery/warsaw-barbican-14.jpg", "caption": "Panorama murów starówki od południa" }
+      {
+        "src": "/gallery/warsaw-barbican-1.jpg",
+        "caption": "Brama Barbakanu od strony fosy na ulicy Podwale"
+      },
+      {
+        "src": "/gallery/warsaw-barbican-2.jpg",
+        "caption": "Ceglane wieże północnej fortyfikacji"
+      },
+      {
+        "src": "/gallery/warsaw-barbican-3.jpg",
+        "caption": "Przejście przez bezpłatną bramę"
+      },
+      {
+        "src": "/gallery/warsaw-barbican-4.jpg",
+        "caption": "Mury i zachowana średniowieczna fosa"
+      },
+      {
+        "src": "/gallery/warsaw-barbican-5.jpg",
+        "caption": "Mury Starego Miasta widziane z Placu Krasińskich"
+      },
+      {
+        "src": "/gallery/warsaw-barbican-6.jpg",
+        "caption": "Detal XVI-wiecznego muru ceglanego"
+      },
+      {
+        "src": "/gallery/warsaw-barbican-7.jpg",
+        "caption": "Barbakan od strony Nowomiejskiej o złotej godzinie"
+      },
+      {
+        "src": "/gallery/warsaw-barbican-8.jpg",
+        "caption": "Widok z murów w stronę Nowego Miasta"
+      },
+      {
+        "src": "/gallery/warsaw-barbican-9.jpg",
+        "caption": "Wieczorne światło na zachodnich murach"
+      },
+      {
+        "src": "/gallery/warsaw-barbican-10.jpg",
+        "caption": "Przejście bramą łączące Stare i Nowe Miasto"
+      },
+      {
+        "src": "/gallery/warsaw-barbican-11.jpg",
+        "caption": "Kamienice ulicy Podwale przy murach"
+      },
+      {
+        "src": "/gallery/warsaw-barbican-12.jpg",
+        "caption": "Zimowy widok Barbakanu i fosy"
+      },
+      {
+        "src": "/gallery/warsaw-barbican-13.jpg",
+        "caption": "Fortyfikacja o zmierzchu z Placu Krasińskich"
+      },
+      {
+        "src": "/gallery/warsaw-barbican-14.jpg",
+        "caption": "Panorama murów starówki od południa"
+      }
     ]
   },
   "reviews": {
     "title": "Co Mówią Odwiedzający",
     "statLine": "Jedna z najwyżej ocenianych atrakcji Warszawy — ponad 1 118 recenzji na TripAdvisor, #42 z 692 atrakcji miasta.",
     "quotes": [
-      { "text": "Bezpłatne przejście i jedno z najbardziej fotogenicznych miejsc na starówce — widok fosy z Podwale jest niezapomniany.", "source": "Recenzja na TripAdvisor" },
-      { "text": "Świetna atmosfera, czujesz się jakby czas się cofnął. Wejdź na mury i podziwiaj widok na rynek.", "source": "Recenzja na TripAdvisor" },
-      { "text": "Mały, ale piękny — połącz go z Rynkiem i Zamkiem Królewskim na idealny półdniowy spacer.", "source": "Recenzja na TripAdvisor" }
+      {
+        "text": "Bezpłatne przejście i jedno z najbardziej fotogenicznych miejsc na starówce — widok fosy z Podwale jest niezapomniany.",
+        "source": "Recenzja na TripAdvisor"
+      },
+      {
+        "text": "Świetna atmosfera, czujesz się jakby czas się cofnął. Wejdź na mury i podziwiaj widok na rynek.",
+        "source": "Recenzja na TripAdvisor"
+      },
+      {
+        "text": "Mały, ale piękny — połącz go z Rynkiem i Zamkiem Królewskim na idealny półdniowy spacer.",
+        "source": "Recenzja na TripAdvisor"
+      }
     ],
     "link": "Przeczytaj wszystkie recenzje na TripAdvisor"
   },
@@ -198,25 +462,70 @@
     "title": "Najczęściej Zadawane Pytania",
     "subtitle": "Praktyczne odpowiedzi przed wizytą.",
     "items": [
-      { "q": "Czy przejście przez Barbakan jest bezpłatne?", "a": "Tak. Przejście bramą oraz zachowane mury Starego Miasta są bezpłatne i otwarte całą dobę przez cały rok. Bilet wymagany jest wyłącznie na niewielką wystawę wewnątrz fortyfikacji prowadzoną przez Muzeum Warszawy (normalny 12 zł, ulgowy 8 zł), otwartą tylko w sezonie letnim." },
-      { "q": "Jakie są godziny otwarcia?", "a": "Samo przejście jest otwarte zawsze. Wystawa Muzeum Warszawy ma charakter sezonowy — w 2026 roku od 20 maja do 29 sierpnia, w środy i soboty 13:00–17:00. Wejście na mury zależy od pogody; po deszczu lub oblodzeniu fragmenty mogą być zamknięte." },
-      { "q": "Ile czasu potrzebuję na wizytę?", "a": "Zarezerwuj 30–45 minut na przejście, mury i punkty widokowe przy fosie. Dodając Rynek Starego Miasta, Zamek Królewski i opisaną trasę spaceru, przeznacz 2–2,5 godziny." },
-      { "q": "Czy można wejść na mury?", "a": "Tak, tam gdzie są otwarte — wejście jest bezpłatne, ale zależy od warunków atmosferycznych. Przejście na mur prowadzi po schodach, a ulice poniżej są brukowane." },
-      { "q": "Jak dojechać do Barbakanu komunikacją miejską?", "a": "Jedź tramwajami linii 13, 23 lub 26 do przystanku \u201cStare Miasto\u201d, dwie minuty pieszo. Metrem wysiądź na \u201cRatuszu Arsenał\u201d (linia 1) lub \u201cDworcu Gdańskim\u201d (linia 2) i idź 10–15 minut." },
-      { "q": "Co warto zobaczyć w pobliżu?", "a": "W promieniu dziesięciu minut spaceru: Rynek Starego Miasta, Archikatedrę św. Jana, Zamek Królewski, Plac Zamkowy z Kolumną Zygmunta, Pomnik Powstania Warszawskiego oraz główny budynek Muzeum Warszawy." },
-      { "q": "Gdzie są najlepsze miejsca do zdjęć?", "a": "Klasyczny kadr to ulica Podwale od strony fosy, najlepiej rano. Warto też: strona północna na Nowomiejskiej o złotej godzinie, szczyt murów oraz nocne ujęcia podświetlonej fortyfikacji." }
+      {
+        "q": "Czy przejście przez Barbakan jest bezpłatne?",
+        "a": "Tak. Przejście bramą oraz zachowane mury Starego Miasta są bezpłatne i otwarte całą dobę przez cały rok. Bilet wymagany jest wyłącznie na niewielką wystawę wewnątrz fortyfikacji prowadzoną przez Muzeum Warszawy (normalny 12 zł, ulgowy 8 zł), otwartą tylko w sezonie letnim."
+      },
+      {
+        "q": "Jakie są godziny otwarcia?",
+        "a": "Samo przejście jest otwarte zawsze. Wystawa Muzeum Warszawy ma charakter sezonowy — w 2026 roku od 20 maja do 29 sierpnia, w środy i soboty 13:00–17:00. Wejście na mury zależy od pogody; po deszczu lub oblodzeniu fragmenty mogą być zamknięte."
+      },
+      {
+        "q": "Ile czasu potrzebuję na wizytę?",
+        "a": "Zarezerwuj 30–45 minut na przejście, mury i punkty widokowe przy fosie. Dodając Rynek Starego Miasta, Zamek Królewski i opisaną trasę spaceru, przeznacz 2–2,5 godziny."
+      },
+      {
+        "q": "Czy można wejść na mury?",
+        "a": "Tak, tam gdzie są otwarte — wejście jest bezpłatne, ale zależy od warunków atmosferycznych. Przejście na mur prowadzi po schodach, a ulice poniżej są brukowane."
+      },
+      {
+        "q": "Jak dojechać do Barbakanu komunikacją miejską?",
+        "a": "Jedź tramwajami linii 13, 23 lub 26 do przystanku “Stare Miasto”, dwie minuty pieszo. Metrem wysiądź na “Ratuszu Arsenał” (linia 1) lub “Dworcu Gdańskim” (linia 2) i idź 10–15 minut."
+      },
+      {
+        "q": "Co warto zobaczyć w pobliżu?",
+        "a": "W promieniu dziesięciu minut spaceru: Rynek Starego Miasta, Archikatedrę św. Jana, Zamek Królewski, Plac Zamkowy z Kolumną Zygmunta, Pomnik Powstania Warszawskiego oraz główny budynek Muzeum Warszawy."
+      },
+      {
+        "q": "Gdzie są najlepsze miejsca do zdjęć?",
+        "a": "Klasyczny kadr to ulica Podwale od strony fosy, najlepiej rano. Warto też: strona północna na Nowomiejskiej o złotej godzinie, szczyt murów oraz nocne ujęcia podświetlonej fortyfikacji."
+      }
     ]
   },
   "sources": {
     "title": "Źródła i Materiały",
     "subtitle": "Informacje na tej stronie zweryfikowano na podstawie następujących oficjalnych źródeł.",
     "items": [
-      { "name": "Barbakan — Muzeum Warszawy (oficjalna strona oddziału)", "url": "https://barbakan.muzeumwarszawy.pl/", "note": "Godziny otwarcia, bilety i informacje o wystawie" },
-      { "name": "Barbakan — informacje o zwiedzaniu (Wizyta)", "url": "https://barbakan.muzeumwarszawy.pl/wizyta/", "note": "Praktyczne szczegóły zwiedzania i uwaga o pogodzie" },
-      { "name": "Warszawska Organizacja Turystyczna (Warsaw Tourist Information)", "url": "https://warsawtour.pl/", "note": "Oficjalny portal turystyczny miasta" },
-      { "name": "UNESCO — Historyczne Centrum Warszawy", "url": "https://whc.unesco.org/en/list/30/", "note": "Wpis na listę światowego dziedzictwa (1980)" },
-      { "name": "Warszawski Transport Publiczny (WTP)", "url": "https://www.wtp.waw.pl/", "note": "Trasy i rozkłady tramwajów i metra" },
-      { "name": "Tramwaje w Warszawie (Wikipedia PL)", "url": "https://pl.wikipedia.org/wiki/Tramwaje_w_Warszawie", "note": "Sieć tramwajowa Warszawy — dane referencyjne" }
+      {
+        "name": "Barbakan — Muzeum Warszawy (oficjalna strona oddziału)",
+        "url": "https://barbakan.muzeumwarszawy.pl/",
+        "note": "Godziny otwarcia, bilety i informacje o wystawie"
+      },
+      {
+        "name": "Barbakan — informacje o zwiedzaniu (Wizyta)",
+        "url": "https://barbakan.muzeumwarszawy.pl/wizyta/",
+        "note": "Praktyczne szczegóły zwiedzania i uwaga o pogodzie"
+      },
+      {
+        "name": "Warszawska Organizacja Turystyczna (Warsaw Tourist Information)",
+        "url": "https://warsawtour.pl/",
+        "note": "Oficjalny portal turystyczny miasta"
+      },
+      {
+        "name": "UNESCO — Historyczne Centrum Warszawy",
+        "url": "https://whc.unesco.org/en/list/30/",
+        "note": "Wpis na listę światowego dziedzictwa (1980)"
+      },
+      {
+        "name": "Warszawski Transport Publiczny (WTP)",
+        "url": "https://www.wtp.waw.pl/",
+        "note": "Trasy i rozkłady tramwajów i metra"
+      },
+      {
+        "name": "Tramwaje w Warszawie (Wikipedia PL)",
+        "url": "https://pl.wikipedia.org/wiki/Tramwaje_w_Warszawie",
+        "note": "Sieć tramwajowa Warszawy — dane referencyjne"
+      }
     ],
     "photoCredit": "Zdjęcia pochodzą z puli obrazów na wolnych licencjach i służą celom ilustracyjnym; mogą nie przedstawiać obiektu w momencie wykonania. Pełne nazwy plików znajdują się w folderze galerii."
   },
@@ -224,8 +533,8 @@
     "title": "Lokalizacja i Mapa",
     "subtitle": "Barbakan znajdziesz pod adresem Nowomiejska 15/17, na północnym krańcu Starego Miasta.",
     "transportTitle": "Jak dojechać",
-    "tramLine": "Tramwaj: linie 13, 23, 26 → przystanek \u201cStare Miasto\u201d (2 min pieszo)",
-    "metroLine": "Metro: linia 1 \u201cRatusz Arsenał\u201d (10 min) lub linia 2 \u201cDworzec Gdański\u201d (15 min)",
+    "tramLine": "Tramwaj: linie 13, 23, 26 → przystanek “Stare Miasto” (2 min pieszo)",
+    "metroLine": "Metro: linia 1 “Ratusz Arsenał” (10 min) lub linia 2 “Dworzec Gdański” (15 min)",
     "walking": "Pieszo: 3 min od Rynku Starego Miasta, 8 min od Zamku Królewskiego",
     "authorityText": "Oficjalne informacje o zwiedzaniu",
     "authorityLink": "barbakan.muzeumwarszawy.pl",
@@ -297,24 +606,60 @@
     "title": "Polityka Prywatności",
     "lastUpdated": "Ostatnia aktualizacja: 2 września 2026",
     "sections": [
-      { "heading": "Kim jesteśmy", "text": "Ta strona to niezależny, niekomercyjny przewodnik po Barbakanie Warszawskim. Nie sprzedajemy produktów ani nie prowadzimy płatnych reklam." },
-      { "heading": "Jakie dane zbieramy", "text": "Nie zbieramy bezpośrednio żadnych danych osobowych. Anonimowe, zagregowane statystyki mogą być przetwarzane w trybie przyjaznym prywatności po wyrażeniu zgody." },
-      { "heading": "Cookies", "text": "Ta strona używa banera zgody. Tylko po Twojej akceptacji mogą być ustawiane opcjonalne cookies analityczne. Wybór możesz zmienić w każdej chwili na stronie Ustawień cookie." },
-      { "heading": "Usługi zewnętrzne", "text": "Osadzona mapa pochodzi od Google Maps i podlega polityce prywatności Google. Jej otwarcie może ustawiać cookies kontrolowane przez Google." },
-      { "heading": "Twoje prawa", "text": "Możesz w każdej chwili usunąć lub zablokować cookies w ustawieniach przeglądarki. Korzystanie z tej strony nie wymaga zakładania konta." },
-      { "heading": "Kontakt", "text": "W sprawach prywatności skorzystaj z danych kontaktowych opublikowanych na stronie głównej." }
+      {
+        "heading": "Kim jesteśmy",
+        "text": "Ta strona to niezależny, niekomercyjny przewodnik po Barbakanie Warszawskim. Nie sprzedajemy produktów ani nie prowadzimy płatnych reklam."
+      },
+      {
+        "heading": "Jakie dane zbieramy",
+        "text": "Nie zbieramy bezpośrednio żadnych danych osobowych. Anonimowe, zagregowane statystyki mogą być przetwarzane w trybie przyjaznym prywatności po wyrażeniu zgody."
+      },
+      {
+        "heading": "Cookies",
+        "text": "Ta strona używa banera zgody. Tylko po Twojej akceptacji mogą być ustawiane opcjonalne cookies analityczne. Wybór możesz zmienić w każdej chwili na stronie Ustawień cookie."
+      },
+      {
+        "heading": "Usługi zewnętrzne",
+        "text": "Osadzona mapa pochodzi od Google Maps i podlega polityce prywatności Google. Jej otwarcie może ustawiać cookies kontrolowane przez Google."
+      },
+      {
+        "heading": "Twoje prawa",
+        "text": "Możesz w każdej chwili usunąć lub zablokować cookies w ustawieniach przeglądarki. Korzystanie z tej strony nie wymaga zakładania konta."
+      },
+      {
+        "heading": "Kontakt",
+        "text": "W sprawach prywatności skorzystaj z danych kontaktowych opublikowanych na stronie głównej."
+      }
     ]
   },
   "terms": {
     "title": "Regulamin",
     "lastUpdated": "Ostatnia aktualizacja: 2 września 2026",
     "sections": [
-      { "heading": "Cel", "text": "Ta strona dostarcza ogólne informacje o zwiedzaniu Barbakanu Warszawskiego dla turystów i podróżujących samodzielnie." },
-      { "heading": "Dokładność", "text": "Staramy się utrzymywać wszystkie informacje w aktualności, ale godziny otwarcia, ceny biletów i trasy transportu mogą się zmieniać. Zawsze weryfikuj dane wrażliwe na czas z oficjalnymi źródłami linkowanymi na tej stronie." },
-      { "heading": "Brak rekomendacji", "text": "Wzmianki o udogodnieniach i usługach w pobliżu opisują wyłącznie typy miejsc i nie stanowią rekomendacji ani rekomendacji handlowych." },
-      { "heading": "Własność intelektualna", "text": "Oryginalny tekst tej strony może być wykorzystywany do celów osobistych, niekomercyjnych, z podaniem źródła. Zdjęcia używane są na podstawie ich wolnych licencji." },
-      { "heading": "Odpowiedzialność", "text": "Nie ponosimy odpowiedzialności za decyzje podjęte na podstawie tych informacji. Zwiedzaj atrakcje na własną odpowiedzialność i szanuj lokalne zasady." },
-      { "heading": "Zmiany", "text": "Regulamin może być od czasu do czasu aktualizowany; powyższa data odzwierciedla najnowszą wersję." }
+      {
+        "heading": "Cel",
+        "text": "Ta strona dostarcza ogólne informacje o zwiedzaniu Barbakanu Warszawskiego dla turystów i podróżujących samodzielnie."
+      },
+      {
+        "heading": "Dokładność",
+        "text": "Staramy się utrzymywać wszystkie informacje w aktualności, ale godziny otwarcia, ceny biletów i trasy transportu mogą się zmieniać. Zawsze weryfikuj dane wrażliwe na czas z oficjalnymi źródłami linkowanymi na tej stronie."
+      },
+      {
+        "heading": "Brak rekomendacji",
+        "text": "Wzmianki o udogodnieniach i usługach w pobliżu opisują wyłącznie typy miejsc i nie stanowią rekomendacji ani rekomendacji handlowych."
+      },
+      {
+        "heading": "Własność intelektualna",
+        "text": "Oryginalny tekst tej strony może być wykorzystywany do celów osobistych, niekomercyjnych, z podaniem źródła. Zdjęcia używane są na podstawie ich wolnych licencji."
+      },
+      {
+        "heading": "Odpowiedzialność",
+        "text": "Nie ponosimy odpowiedzialności za decyzje podjęte na podstawie tych informacji. Zwiedzaj atrakcje na własną odpowiedzialność i szanuj lokalne zasady."
+      },
+      {
+        "heading": "Zmiany",
+        "text": "Regulamin może być od czasu do czasu aktualizowany; powyższa data odzwierciedla najnowszą wersję."
+      }
     ]
   },
   "cookieSettings": {

@@ -7,7 +7,7 @@ export default async function TransportSection() {
     <section className="section" id="transport">
       <div className="container">
         <div className="section-head">
-          <span className="kicker">Location & transport</span>
+          <span className="kicker">{t("kicker")}</span>
           <h2>{t("title")}</h2>
           <p>{t("subtitle")}</p>
         </div>

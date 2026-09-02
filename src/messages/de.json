@@ -38,13 +38,34 @@
     "title": "Barbakan auf einen Blick",
     "intro": "Alles Wissenswerte vor Ihrem Besuch.",
     "rows": [
-      { "label": "Adresse", "value": "Nowomiejska 15/17, 00-257 Warszawa, Polen" },
-      { "label": "Telefon", "value": "+48 22 277 44 02" },
-      { "label": "Lage", "value": "Warschauer Altstadt (Stare Miasto), UNESCO-Weltkulturerbe" },
-      { "label": "Google-Bewertung", "value": "4,7/5 (11.103 Bewertungen)" },
-      { "label": "Eintritt", "value": "Durchgang kostenlos; Ausstellung ab 12 zł" },
-      { "label": "Besuchsdauer", "value": "30–45 Minuten" },
-      { "label": "Kombinieren mit", "value": "Königsschloss, Altstadt-Marktplatz, Podwale-Straße" }
+      {
+        "label": "Adresse",
+        "value": "Nowomiejska 15/17, 00-257 Warszawa, Polen"
+      },
+      {
+        "label": "Telefon",
+        "value": "+48 22 277 44 02"
+      },
+      {
+        "label": "Lage",
+        "value": "Warschauer Altstadt (Stare Miasto), UNESCO-Weltkulturerbe"
+      },
+      {
+        "label": "Google-Bewertung",
+        "value": "4,7/5 (11.103 Bewertungen)"
+      },
+      {
+        "label": "Eintritt",
+        "value": "Durchgang kostenlos; Ausstellung ab 12 zł"
+      },
+      {
+        "label": "Besuchsdauer",
+        "value": "30–45 Minuten"
+      },
+      {
+        "label": "Kombinieren mit",
+        "value": "Königsschloss, Altstadt-Marktplatz, Podwale-Straße"
+      }
     ],
     "directions": "Route anzeigen"
   },
@@ -56,8 +77,14 @@
     "exhibitionText": "Die kleine Ausstellung im Barbakan wird vom Warschauer Museum (Muzeum Warszawy) betrieben und öffnet nur in der Sommersaison. Im Jahr 2026 läuft sie vom 20. Mai bis 29. August, geöffnet mittwochs und samstags von 13:00–17:00 Uhr. Prüfen Sie vor dem Besuch immer die offizielle Website — die Termine ändern sich von Jahr zu Jahr.",
     "ticketTitle": "Ticketpreise",
     "ticketRows": [
-      { "type": "Normalticket", "price": "12 zł" },
-      { "type": "Ermäßigtes Ticket", "price": "8 zł" }
+      {
+        "type": "Normalticket",
+        "price": "12 zł"
+      },
+      {
+        "type": "Ermäßigtes Ticket",
+        "price": "8 zł"
+      }
     ],
     "ticketNote": "Tickets für die Ausstellung werden nur an der Hauptkasse des Warschauer Museums am Altstadt-Marktplatz 28 (Rynek Starego Miasta 28) verkauft.",
     "officialLink": "Offizielle Besuchsinformationen",
@@ -76,36 +103,120 @@
     ],
     "timelineTitle": "Zeitleiste",
     "timeline": [
-      { "year": "1543–1545", "title": "Brand und Baubeschluss", "text": "Der große Brand von 1543 beschädigt die nördlichen Verteidigungsanlagen; 1545 billigt der Stadtrat den Barbakan-Bau als Reaktion auf die Brandgefahr und die Bedrohung durch einen moldauischen Einfall." },
-      { "year": "1548", "title": "Erbauung", "text": "Der venezianische Architekt Jan Baptysta Wenecjanin errichtet den Backsteinbarbakan mit vier Toren, der die Mauern von Alt- und Neustadt verbindet." },
-      { "year": "18. Jh.", "title": "Lagerhaus und Gefängnis", "text": "Die Festung verliert ihre Verteidigungsrolle und dient als Lager und Gefängnis." },
-      { "year": "19. Jh.", "title": "Abriss", "text": "Während der russischen Teilung werden die Mauern weitgehend abgetragen; die Ziegel werden wiederverwendet." },
-      { "year": "1939–1944", "title": "Zweiter Weltkrieg", "text": "Das Gebiet wird bei der Verteidigung Warschaus und dem Warschauer Aufstand 1944 zerstört." },
-      { "year": "1944", "title": "Warschauer Aufstand", "text": "Während des Warschauer Aufstands 1944 wird die Altstadt systematisch zerstört; der Barbakan überlebt nur als beschädigte Mauerreste." },
-      { "year": "1952–1954", "title": "Wiederaufbau", "text": "Zachwatowicz und Podlewski bauen den Barbakan mit Ziegeln aus dem 16. Jahrhundert aus Nysa und Łowicz wieder auf." },
-      { "year": "1980", "title": "UNESCO-Eintrag", "text": "Das historische Zentrum Warschaus, einschließlich des Barbakans, wird in die UNESCO-Welterbeliste aufgenommen." }
+      {
+        "year": "1543–1545",
+        "title": "Brand und Baubeschluss",
+        "text": "Der große Brand von 1543 beschädigt die nördlichen Verteidigungsanlagen; 1545 billigt der Stadtrat den Barbakan-Bau als Reaktion auf die Brandgefahr und die Bedrohung durch einen moldauischen Einfall."
+      },
+      {
+        "year": "1548",
+        "title": "Erbauung",
+        "text": "Der venezianische Architekt Jan Baptysta Wenecjanin errichtet den Backsteinbarbakan mit vier Toren, der die Mauern von Alt- und Neustadt verbindet."
+      },
+      {
+        "year": "18. Jh.",
+        "title": "Lagerhaus und Gefängnis",
+        "text": "Die Festung verliert ihre Verteidigungsrolle und dient als Lager und Gefängnis."
+      },
+      {
+        "year": "19. Jh.",
+        "title": "Abriss",
+        "text": "Während der russischen Teilung werden die Mauern weitgehend abgetragen; die Ziegel werden wiederverwendet."
+      },
+      {
+        "year": "1939–1944",
+        "title": "Zweiter Weltkrieg",
+        "text": "Das Gebiet wird bei der Verteidigung Warschaus und dem Warschauer Aufstand 1944 zerstört."
+      },
+      {
+        "year": "1944",
+        "title": "Warschauer Aufstand",
+        "text": "Während des Warschauer Aufstands 1944 wird die Altstadt systematisch zerstört; der Barbakan überlebt nur als beschädigte Mauerreste."
+      },
+      {
+        "year": "1952–1954",
+        "title": "Wiederaufbau",
+        "text": "Zachwatowicz und Podlewski bauen den Barbakan mit Ziegeln aus dem 16. Jahrhundert aus Nysa und Łowicz wieder auf."
+      },
+      {
+        "year": "1980",
+        "title": "UNESCO-Eintrag",
+        "text": "Das historische Zentrum Warschaus, einschließlich des Barbakans, wird in die UNESCO-Welterbeliste aufgenommen."
+      }
     ]
   },
   "transport": {
+    "kicker": "Lage & Verkehr",
     "title": "Anreise (Lage & Verkehr)",
     "subtitle": "Der Barbakan steht am nördlichen Ende der Altstadt, dort wo Nowomiejska- und Podwale-Straße zusammentreffen.",
     "items": [
-      { "mode": "Tram", "title": "Tram bis Haltestelle Stare Miasto", "text": "Die Linien 13, 23 und 26 halten an der Haltestelle „Stare Miasto“, zwei Gehminuten vom Barbakan entfernt. Fahrpläne und Umleitungen veröffentlicht der Betreiber auf wtp.waw.pl." },
-      { "mode": "U-Bahn", "title": "U-Bahn + kurzer Fußweg", "text": "Nehmen Sie die Linie 1 bis „Ratusz Arsenał“ (ca. 10 Minuten zu Fuß über den Plac Krasińskich) oder die Linie 2 bis „Dworzec Gdański“ (ca. 15 Minuten)." },
-      { "mode": "Zu Fuß", "title": "Aus der Altstadt", "text": "Vom Altstadt-Marktplatz (Rynek Starego Miasta) sind es 3 Minuten nach Norden über Świętojańska und Freta. Vom Königsschloss aus rechnen Sie mit 8 Minuten." },
-      { "mode": "Mit dem Auto", "title": "Parken", "text": "Die Altstadt selbst ist autofrei. Die nächsten Parkplätze befinden sich am Plac Krasińskich und entlang der Krakowskie Przedmieście; die Plätze sind begrenzt und gebührenpflichtig." }
+      {
+        "mode": "Flughafen",
+        "title": "Vom Chopin-Flughafen (WAW)",
+        "text": "Mit der SKM-Bahn (Linie S2 oder S3) nach Warszawa Śródmieście und dort in die Tram 13, 23 oder 26 bis Stare Miasto umsteigen – insgesamt etwa 40 Minuten. Bus 175 fährt vom Terminal bis zum Plac Zamkowy am Königsschloss, 8 Gehminuten vom Barbakan. Taxi oder Ride-Hailing dauert 25–35 Minuten und kostet etwa 45–70 PLN."
+      },
+      {
+        "mode": "Zug",
+        "title": "Vom Bahnhof Warszawa Centralna",
+        "text": "Vom Hauptbahnhof eine Station mit der Metro-Linie 1 bis Ratusz Arsenał und etwa 10 Minuten zu Fuß über den Plac Krasińskich, oder mit der Tram Richtung Stare Miasto. Mit öffentlichen Verkehrsmitteln rechnen Sie mit 15–20 Minuten; mit dem Taxi 5–10 Minuten (ca. 15–25 PLN)."
+      },
+      {
+        "mode": "Bus",
+        "title": "Busverbindungen",
+        "text": "Bus 175 verbindet den Chopin-Flughafen mit dem Plac Zamkowy am Königsschloss, 8 Gehminuten vom Barbakan. Nachts, wenn die Straßenbahnen nicht fahren, bedienen die Nachtbusse der N-Linien die Altstadt. Aktuelle Linien und Umleitungen finden Sie auf wtp.waw.pl oder in der Jakdojade-App."
+      },
+      {
+        "mode": "Tram",
+        "title": "Tram bis Haltestelle Stare Miasto",
+        "text": "Die Linien 13, 23 und 26 halten an der Haltestelle „Stare Miasto“, zwei Gehminuten vom Barbakan entfernt. Fahrpläne und Umleitungen veröffentlicht der Betreiber auf wtp.waw.pl."
+      },
+      {
+        "mode": "U-Bahn",
+        "title": "U-Bahn + kurzer Fußweg",
+        "text": "Nehmen Sie die Linie 1 bis „Ratusz Arsenał“ (ca. 10 Minuten zu Fuß über den Plac Krasińskich) oder die Linie 2 bis „Dworzec Gdański“ (ca. 15 Minuten)."
+      },
+      {
+        "mode": "Taxi",
+        "title": "Taxi, Uber und Bolt",
+        "text": "In Warschau sind Bolt, Uber und Free Now aktiv. Vom Flughafen rechnen Sie mit 25–35 Minuten und rund 45–70 PLN; vom Stadtzentrum 5–15 Minuten und etwa 15–25 PLN. Die Altstadt ist verkehrsberuhigt, daher können Fahrer Sie nur am Rand absetzen – am Plac Krasińskich oder in der Podwale-Straße."
+      },
+      {
+        "mode": "Zu Fuß",
+        "title": "Aus der Altstadt",
+        "text": "Vom Altstadt-Marktplatz (Rynek Starego Miasta) sind es 3 Minuten nach Norden über Świętojańska und Freta. Vom Königsschloss aus rechnen Sie mit 8 Minuten."
+      },
+      {
+        "mode": "Mit dem Auto",
+        "title": "Parken",
+        "text": "Die Altstadt selbst ist autofrei. Die nächsten Parkplätze befinden sich am Plac Krasińskich und entlang der Krakowskie Przedmieście; die Plätze sind begrenzt und gebührenpflichtig."
+      }
     ],
-    "note": "Die Verkehrsinformationen wurden anhand der Daten des offiziellen Warschauer Nahverkehrsbetreibers (WTP) geprüft."
+    "note": "Verkehrsinformationen wurden anhand der Daten des offiziellen Warschauer Nahverkehrsbetreibers (WTP) und des Chopin-Flughafens geprüft; angegebene Zeiten und Preise sind Richtwerte und können sich ändern."
   },
   "walkingTour": {
     "title": "Altstadt-Spaziergang: Barbakan → Königsschloss",
     "subtitle": "Ein Rundweg, der die meistfotografierten Ecken der Warschauer Altstadt verbindet. Länge: etwa 2,5 km zu Fuß, 2–2,5 Stunden mit Pausen.",
     "steps": [
-      { "title": "Start am Barbakan", "text": "Beginnen Sie am Barbakan (Nowomiejska 15/17). Gehen Sie zuerst auf die Grabenseite — der Blick von der Podwale-Straße ist der klassische Postkartenwinkel, am besten im Morgenlicht." },
-      { "title": "Entlang der Mauern auf der Podwale", "text": "Gehen Sie die Podwale-Straße nach Süden, wo neben den Mauern das einzige erhaltene Fragment des mittelalterlichen Grabens liegt. Die gut erhaltenen Mietshäuser rund um Podwale 83 sind ein Lieblingsmotiv einheimischer Fotografen." },
-      { "title": "Altstadt-Marktplatz (Rynek Starego Miasta)", "text": "Biegen Sie in den Marktplatz ein — das Herz der wiederaufgebauten Altstadt mit Häusern im Stil des 17. Jahrhunderts, Cafés und der Statue der Warschauer Sirene." },
-      { "title": "Johanneskathedrale & Königsschloss", "text": "Folgen Sie der Świętojańska-Straße an der Erzbasilika St. Johannes vorbei zum Schlossplatz. Das Königsschloss (Zamek Królewski) und die Sigismundssäule markieren das südliche Ende der Route." },
-      { "title": "Rundweg zurück zum Barbakan", "text": "Kehren Sie über die Piwna- oder Długa-Straße nach Norden zurück, vorbei am Denkmal des Warschauer Aufstands am Plac Krasińskich, und gelangen Sie wieder zum Barbakan." }
+      {
+        "title": "Start am Barbakan",
+        "text": "Beginnen Sie am Barbakan (Nowomiejska 15/17). Gehen Sie zuerst auf die Grabenseite — der Blick von der Podwale-Straße ist der klassische Postkartenwinkel, am besten im Morgenlicht."
+      },
+      {
+        "title": "Entlang der Mauern auf der Podwale",
+        "text": "Gehen Sie die Podwale-Straße nach Süden, wo neben den Mauern das einzige erhaltene Fragment des mittelalterlichen Grabens liegt. Die gut erhaltenen Mietshäuser rund um Podwale 83 sind ein Lieblingsmotiv einheimischer Fotografen."
+      },
+      {
+        "title": "Altstadt-Marktplatz (Rynek Starego Miasta)",
+        "text": "Biegen Sie in den Marktplatz ein — das Herz der wiederaufgebauten Altstadt mit Häusern im Stil des 17. Jahrhunderts, Cafés und der Statue der Warschauer Sirene."
+      },
+      {
+        "title": "Johanneskathedrale & Königsschloss",
+        "text": "Folgen Sie der Świętojańska-Straße an der Erzbasilika St. Johannes vorbei zum Schlossplatz. Das Königsschloss (Zamek Królewski) und die Sigismundssäule markieren das südliche Ende der Route."
+      },
+      {
+        "title": "Rundweg zurück zum Barbakan",
+        "text": "Kehren Sie über die Piwna- oder Długa-Straße nach Norden zurück, vorbei am Denkmal des Warschauer Aufstands am Plac Krasińskich, und gelangen Sie wieder zum Barbakan."
+      }
     ],
     "tip": "Routentipp",
     "tipText": "Mit Kindern unterwegs? Die gesamte Runde ist eben und kinderwagentauglich auf den Straßen; die Mauern selbst sind über Treppen erreichbar."
@@ -114,38 +225,104 @@
     "title": "Sehenswürdigkeiten in der Nähe (Altstadt)",
     "subtitle": "Alles Sehenswerte im Umkreis von zehn Gehminuten vom Barbakan.",
     "spots": [
-      { "name": "Altstadt-Marktplatz (Rynek Starego Miasta)", "note": "Wiederaufgebauter Platz aus dem 17. Jahrhundert mit der Sirenen-Statue", "distance": "3 Min. Fußweg" },
-      { "name": "Königsschloss (Zamek Królewski)", "note": "Wiederaufgebauter Königssitz und Museum am Schlossplatz", "distance": "8 Min. Fußweg" },
-      { "name": "Erzbasilika St. Johannes", "note": "Älteste Kirche Warschaus, Krönungs- und Grabstätte polnischer Monarchen", "distance": "6 Min. Fußweg" },
-      { "name": "Denkmal des Warschauer Aufstands", "note": "Bronzenes Monument am Plac Krasińskich für die Kämpfer von 1944", "distance": "3 Min. Fußweg" },
-      { "name": "Warschauer Museum (Muzeum Warszawy)", "note": "Hauptgebäude am Marktplatz 28; hier gibt es auch Tickets für die Barbakan-Ausstellung", "distance": "4 Min. Fußweg" },
-      { "name": "Schlossplatz & Sigismundssäule", "note": "Historisches Tor zum Königsweg und zur Altstadt", "distance": "8 Min. Fußweg" }
+      {
+        "name": "Altstadt-Marktplatz (Rynek Starego Miasta)",
+        "note": "Wiederaufgebauter Platz aus dem 17. Jahrhundert mit der Sirenen-Statue",
+        "distance": "3 Min. Fußweg"
+      },
+      {
+        "name": "Königsschloss (Zamek Królewski)",
+        "note": "Wiederaufgebauter Königssitz und Museum am Schlossplatz",
+        "distance": "8 Min. Fußweg"
+      },
+      {
+        "name": "Erzbasilika St. Johannes",
+        "note": "Älteste Kirche Warschaus, Krönungs- und Grabstätte polnischer Monarchen",
+        "distance": "6 Min. Fußweg"
+      },
+      {
+        "name": "Denkmal des Warschauer Aufstands",
+        "note": "Bronzenes Monument am Plac Krasińskich für die Kämpfer von 1944",
+        "distance": "3 Min. Fußweg"
+      },
+      {
+        "name": "Warschauer Museum (Muzeum Warszawy)",
+        "note": "Hauptgebäude am Marktplatz 28; hier gibt es auch Tickets für die Barbakan-Ausstellung",
+        "distance": "4 Min. Fußweg"
+      },
+      {
+        "name": "Schlossplatz & Sigismundssäule",
+        "note": "Historisches Tor zum Königsweg und zur Altstadt",
+        "distance": "8 Min. Fußweg"
+      }
     ]
   },
   "photoSpots": {
     "title": "Beste Fotospots",
     "subtitle": "Wo Mauern und Graben die besten Bilder einrahmen.",
     "spots": [
-      { "title": "Podwale-Straße, Grabenseite", "text": "Der klassische Postkartenwinkel auf das ganze Bauwerk mit dem Graben im Vordergrund. Bestes Morgenlicht." },
-      { "title": "Nordseite an der Nowomiejska", "text": "Goldene Stunde für die Backsteintürme vor der Silhouette der Freta-Straße." },
-      { "title": "Oben auf den Mauern", "text": "Bei gutem Wetter lohnt der Aufstieg auf die Mauern für den erhöhten Blick über den Plac Krasińskich und die Neustadt." },
-      { "title": "Nachtfotografie", "text": "Nach Einbruch der Dunkelheit wird der Barbakan angestrahlt — lange Belichtungen von der Podwale-Kreuzung wirken wunderbar." }
+      {
+        "title": "Podwale-Straße, Grabenseite",
+        "text": "Der klassische Postkartenwinkel auf das ganze Bauwerk mit dem Graben im Vordergrund. Bestes Morgenlicht."
+      },
+      {
+        "title": "Nordseite an der Nowomiejska",
+        "text": "Goldene Stunde für die Backsteintürme vor der Silhouette der Freta-Straße."
+      },
+      {
+        "title": "Oben auf den Mauern",
+        "text": "Bei gutem Wetter lohnt der Aufstieg auf die Mauern für den erhöhten Blick über den Plac Krasińskich und die Neustadt."
+      },
+      {
+        "title": "Nachtfotografie",
+        "text": "Nach Einbruch der Dunkelheit wird der Barbakan angestrahlt — lange Belichtungen von der Podwale-Kreuzung wirken wunderbar."
+      }
     ]
   },
   "facilities": {
     "title": "Einrichtungen in der Nähe",
     "subtitle": "Praktische Angebote im unmittelbaren Altstadtbereich (nur Kategorien, keine kommerziellen Empfehlungen).",
     "items": [
-      { "type": "Öffentliche Toiletten", "hint": "Am Altstadt-Marktplatz und am Plac Krasińskich" },
-      { "type": "Cafés & Restaurants", "hint": "Altstadt-Marktplatz, Świętojańska, Podwale" },
-      { "type": "Hotels & Unterkünfte", "hint": "Altstadt- und Neustadtviertel" },
-      { "type": "Souvenirläden", "hint": "Altstadt-Marktplatz und Freta-Straße" },
-      { "type": "Parkplätze", "hint": "Plac Krasińskich und Krakowskie Przedmieście" },
-      { "type": "Geldautomaten", "hint": "Altstadtbereich, mehrere Banken in der Nähe" },
-      { "type": "Lebensmittel & Supermärkte", "hint": "Kleine Läden an Podwale, Freta und Długa; größere Supermärkte im Stadtzentrum" },
-      { "type": "Tankstellen & E-Ladestationen", "hint": "Nächste Stationen am Weichselufer und um die Marszałkowska, außerhalb der Fußgängerzone" },
-      { "type": "Apotheken", "hint": "Altstadt und Nowy Świat; bei Bedarf Notdienst beachten" },
-      { "type": "Fahrrad- & E-Scooter-Verleih", "hint": "Stationäre Frei-Flotten verfügbar; Radfahren in der Altstadt ist eingeschränkt" }
+      {
+        "type": "Öffentliche Toiletten",
+        "hint": "Am Altstadt-Marktplatz und am Plac Krasińskich"
+      },
+      {
+        "type": "Cafés & Restaurants",
+        "hint": "Altstadt-Marktplatz, Świętojańska, Podwale"
+      },
+      {
+        "type": "Hotels & Unterkünfte",
+        "hint": "Altstadt- und Neustadtviertel"
+      },
+      {
+        "type": "Souvenirläden",
+        "hint": "Altstadt-Marktplatz und Freta-Straße"
+      },
+      {
+        "type": "Parkplätze",
+        "hint": "Plac Krasińskich und Krakowskie Przedmieście"
+      },
+      {
+        "type": "Geldautomaten",
+        "hint": "Altstadtbereich, mehrere Banken in der Nähe"
+      },
+      {
+        "type": "Lebensmittel & Supermärkte",
+        "hint": "Kleine Läden an Podwale, Freta und Długa; größere Supermärkte im Stadtzentrum"
+      },
+      {
+        "type": "Tankstellen & E-Ladestationen",
+        "hint": "Nächste Stationen am Weichselufer und um die Marszałkowska, außerhalb der Fußgängerzone"
+      },
+      {
+        "type": "Apotheken",
+        "hint": "Altstadt und Nowy Świat; bei Bedarf Notdienst beachten"
+      },
+      {
+        "type": "Fahrrad- & E-Scooter-Verleih",
+        "hint": "Stationäre Frei-Flotten verfügbar; Radfahren in der Altstadt ist eingeschränkt"
+      }
     ],
     "note": "Die genannten Kategorien beschreiben, was in der Umgebung verfügbar ist. Öffnungszeiten variieren je nach Saison und Betreiber."
   },
@@ -153,44 +330,131 @@
     "title": "Geschichten & Legenden",
     "subtitle": "Fakten und Erzählungen hinter Warschaus einzigem erhaltenen mittelalterlichen Tor.",
     "items": [
-      { "kind": "Fakt", "title": "In Eile erbaut", "text": "Nach dem Brand von 1543 und der Gefahr eines moldauischen Überfalls genehmigte der Stadtrat den Barbakan 1545; der venezianische Baumeister vollendete ihn innerhalb von drei Jahren — schnell selbst für Renaissance-Verhältnisse." },
-      { "kind": "Fakt", "title": "Der venezianische Architekt", "text": "Jan Baptysta Wenecjanin kam als Experte für Artilleriebefestigungen nach Polen. Sein Warschauer Barbakan ist eines der wenigen erhaltenen Bauwerke dieser Art nördlich der Alpen." },
-      { "kind": "Fakt", "title": "Stein für Stein abgetragen", "text": "Im 19. Jahrhundert wurde der Barbakan verkauft und abgerissen, die Ziegel in der ganzen Stadt wiederverwendet — ein Verlust, den lokale Historiker bis heute beklagen." },
-      { "kind": "Fakt", "title": "Mit alten Ziegeln wiederaufgebaut", "text": "Die Rekonstruktion von 1952–1954 durch Jan Zachwatowicz und Wacław Podlewski verwendete echte Ziegel aus dem 16. Jahrhundert aus Nysa und Łowicz, damit die neuen Mauern authentisch alt wirkten." },
-      { "kind": "Geschichte", "title": "Ein Tor zwischen zwei Städten", "text": "Alt- und Neustadt waren jahrhundertelang getrennte Gemeinden. Einheimische erzählen, dass am Barbakan die Straßenlaternen der einen Stadt endeten und die der anderen begannen — eine kleine, aber reale Grenze des Alltags." },
-      { "kind": "Fakt", "title": "Weltkulturerbe", "text": "1980 wurde das wiederaufgebaute historische Zentrum Warschaus — einschließlich des Barbakans — in die UNESCO-Welterbeliste aufgenommen, als einzigartiges Beispiel einer nahezu vollständigen Nachkriegsrekonstruktion." },
-      { "kind": "Geschichte", "title": "Woher der Name „Barbakan“ stammt", "text": "„Barbakan“ leitet sich vom mittelalterlichen Latein barbacana ab — einem vorgelagerten Außenwerk vor einem Tor. Sprachwissenschaftler führen das Wort noch weiter auf das Arabische zurück; es verbreitete sich in Europa mit den Militäringenieuren, die solche Bauwerke errichteten. Deshalb tragen ähnliche Tore in Krakau, Danzig und sogar London denselben Namen." },
-      { "kind": "Fakt", "title": "Der zurückgekehrte Graben", "text": "Der ursprüngliche Graben wurde im 19. Jahrhundert verfüllt. Beim Wiederaufbau des Barbakans 1952–1954 wurde der Trockengraben davor nach Stichen aus dem 17. Jahrhundert rekonstruiert — weshalb der Blick von der Grabenseite noch immer an die Stadt vor den Teilungen erinnert." },
-      { "kind": "Fakt", "title": "Überlebte den Aufstand als Ruine", "text": "Während des Warschauer Aufstands 1944 wurde die Altstadt systematisch zerstört. Der Barbakan blieb nur als beschädigte Mauerreste übrig und wurde erst 1952–1954 wiederaufgebaut — weshalb er heute als Symbol für den Wiederaufbau der Stadt selbst steht." }
+      {
+        "kind": "Fakt",
+        "title": "In Eile erbaut",
+        "text": "Nach dem Brand von 1543 und der Gefahr eines moldauischen Überfalls genehmigte der Stadtrat den Barbakan 1545; der venezianische Baumeister vollendete ihn innerhalb von drei Jahren — schnell selbst für Renaissance-Verhältnisse."
+      },
+      {
+        "kind": "Fakt",
+        "title": "Der venezianische Architekt",
+        "text": "Jan Baptysta Wenecjanin kam als Experte für Artilleriebefestigungen nach Polen. Sein Warschauer Barbakan ist eines der wenigen erhaltenen Bauwerke dieser Art nördlich der Alpen."
+      },
+      {
+        "kind": "Fakt",
+        "title": "Stein für Stein abgetragen",
+        "text": "Im 19. Jahrhundert wurde der Barbakan verkauft und abgerissen, die Ziegel in der ganzen Stadt wiederverwendet — ein Verlust, den lokale Historiker bis heute beklagen."
+      },
+      {
+        "kind": "Fakt",
+        "title": "Mit alten Ziegeln wiederaufgebaut",
+        "text": "Die Rekonstruktion von 1952–1954 durch Jan Zachwatowicz und Wacław Podlewski verwendete echte Ziegel aus dem 16. Jahrhundert aus Nysa und Łowicz, damit die neuen Mauern authentisch alt wirkten."
+      },
+      {
+        "kind": "Geschichte",
+        "title": "Ein Tor zwischen zwei Städten",
+        "text": "Alt- und Neustadt waren jahrhundertelang getrennte Gemeinden. Einheimische erzählen, dass am Barbakan die Straßenlaternen der einen Stadt endeten und die der anderen begannen — eine kleine, aber reale Grenze des Alltags."
+      },
+      {
+        "kind": "Fakt",
+        "title": "Weltkulturerbe",
+        "text": "1980 wurde das wiederaufgebaute historische Zentrum Warschaus — einschließlich des Barbakans — in die UNESCO-Welterbeliste aufgenommen, als einzigartiges Beispiel einer nahezu vollständigen Nachkriegsrekonstruktion."
+      },
+      {
+        "kind": "Geschichte",
+        "title": "Woher der Name „Barbakan“ stammt",
+        "text": "„Barbakan“ leitet sich vom mittelalterlichen Latein barbacana ab — einem vorgelagerten Außenwerk vor einem Tor. Sprachwissenschaftler führen das Wort noch weiter auf das Arabische zurück; es verbreitete sich in Europa mit den Militäringenieuren, die solche Bauwerke errichteten. Deshalb tragen ähnliche Tore in Krakau, Danzig und sogar London denselben Namen."
+      },
+      {
+        "kind": "Fakt",
+        "title": "Der zurückgekehrte Graben",
+        "text": "Der ursprüngliche Graben wurde im 19. Jahrhundert verfüllt. Beim Wiederaufbau des Barbakans 1952–1954 wurde der Trockengraben davor nach Stichen aus dem 17. Jahrhundert rekonstruiert — weshalb der Blick von der Grabenseite noch immer an die Stadt vor den Teilungen erinnert."
+      },
+      {
+        "kind": "Fakt",
+        "title": "Überlebte den Aufstand als Ruine",
+        "text": "Während des Warschauer Aufstands 1944 wurde die Altstadt systematisch zerstört. Der Barbakan blieb nur als beschädigte Mauerreste übrig und wurde erst 1952–1954 wiederaufgebaut — weshalb er heute als Symbol für den Wiederaufbau der Stadt selbst steht."
+      }
     ]
   },
   "gallery": {
     "title": "Fotogalerie",
     "subtitle": "Der Warschauer Barbakan und die Altstadtmauern in Bildern.",
     "items": [
-      { "src": "/gallery/warsaw-barbican-1.jpg", "caption": "Das Barbakan-Tor von der Grabenseite an der Podwale-Straße" },
-      { "src": "/gallery/warsaw-barbican-2.jpg", "caption": "Backsteintürme der nördlichen Befestigung" },
-      { "src": "/gallery/warsaw-barbican-3.jpg", "caption": "Durchgang durch das kostenlose Tor" },
-      { "src": "/gallery/warsaw-barbican-4.jpg", "caption": "Die Mauern und der erhaltene mittelalterliche Graben" },
-      { "src": "/gallery/warsaw-barbican-5.jpg", "caption": "Altstadtmauern vom Plac Krasińskich aus gesehen" },
-      { "src": "/gallery/warsaw-barbican-6.jpg", "caption": "Detail des Backsteinmauerwerks aus dem 16. Jahrhundert" },
-      { "src": "/gallery/warsaw-barbican-7.jpg", "caption": "Der Barbakan von der Nowomiejska-Straße zur goldenen Stunde" },
-      { "src": "/gallery/warsaw-barbican-8.jpg", "caption": "Blick von den Mauern zur Neustadt" },
-      { "src": "/gallery/warsaw-barbican-9.jpg", "caption": "Abendlicht auf den westlichen Mauern" },
-      { "src": "/gallery/warsaw-barbican-10.jpg", "caption": "Das Tor, das Alt- und Neustadt verbindet" },
-      { "src": "/gallery/warsaw-barbican-11.jpg", "caption": "Mietshäuser der Podwale-Straße neben den Mauern" },
-      { "src": "/gallery/warsaw-barbican-12.jpg", "caption": "Winteransicht des Barbakans und des Grabens" },
-      { "src": "/gallery/warsaw-barbican-13.jpg", "caption": "Die Festung in der Dämmerung vom Plac Krasińskich" },
-      { "src": "/gallery/warsaw-barbican-14.jpg", "caption": "Panorama der Altstadtmauern von Süden" }
+      {
+        "src": "/gallery/warsaw-barbican-1.jpg",
+        "caption": "Das Barbakan-Tor von der Grabenseite an der Podwale-Straße"
+      },
+      {
+        "src": "/gallery/warsaw-barbican-2.jpg",
+        "caption": "Backsteintürme der nördlichen Befestigung"
+      },
+      {
+        "src": "/gallery/warsaw-barbican-3.jpg",
+        "caption": "Durchgang durch das kostenlose Tor"
+      },
+      {
+        "src": "/gallery/warsaw-barbican-4.jpg",
+        "caption": "Die Mauern und der erhaltene mittelalterliche Graben"
+      },
+      {
+        "src": "/gallery/warsaw-barbican-5.jpg",
+        "caption": "Altstadtmauern vom Plac Krasińskich aus gesehen"
+      },
+      {
+        "src": "/gallery/warsaw-barbican-6.jpg",
+        "caption": "Detail des Backsteinmauerwerks aus dem 16. Jahrhundert"
+      },
+      {
+        "src": "/gallery/warsaw-barbican-7.jpg",
+        "caption": "Der Barbakan von der Nowomiejska-Straße zur goldenen Stunde"
+      },
+      {
+        "src": "/gallery/warsaw-barbican-8.jpg",
+        "caption": "Blick von den Mauern zur Neustadt"
+      },
+      {
+        "src": "/gallery/warsaw-barbican-9.jpg",
+        "caption": "Abendlicht auf den westlichen Mauern"
+      },
+      {
+        "src": "/gallery/warsaw-barbican-10.jpg",
+        "caption": "Das Tor, das Alt- und Neustadt verbindet"
+      },
+      {
+        "src": "/gallery/warsaw-barbican-11.jpg",
+        "caption": "Mietshäuser der Podwale-Straße neben den Mauern"
+      },
+      {
+        "src": "/gallery/warsaw-barbican-12.jpg",
+        "caption": "Winteransicht des Barbakans und des Grabens"
+      },
+      {
+        "src": "/gallery/warsaw-barbican-13.jpg",
+        "caption": "Die Festung in der Dämmerung vom Plac Krasińskich"
+      },
+      {
+        "src": "/gallery/warsaw-barbican-14.jpg",
+        "caption": "Panorama der Altstadtmauern von Süden"
+      }
     ]
   },
   "reviews": {
     "title": "Das sagen Besucher",
     "statLine": "Eine der beliebtesten Attraktionen Warschaus — über 1.118 Bewertungen auf TripAdvisor, Nr. 42 von 692 in der Stadt.",
     "quotes": [
-      { "text": "Kostenlos zu durchqueren und einer der fotogensten Orte der Altstadt — der Blick auf den Graben von der Podwale ist unvergesslich.", "source": "TripAdvisor-Bewertung" },
-      { "text": "Tolle Atmosphäre, man fühlt sich in die Vergangenheit versetzt. Gehen Sie auf die Wälle und genießen Sie den Blick auf den Platz.", "source": "TripAdvisor-Bewertung" },
-      { "text": "Klein, aber schön — kombinieren Sie ihn mit dem Marktplatz und dem Königsschloss für einen perfekten Halbtagesspaziergang.", "source": "TripAdvisor-Bewertung" }
+      {
+        "text": "Kostenlos zu durchqueren und einer der fotogensten Orte der Altstadt — der Blick auf den Graben von der Podwale ist unvergesslich.",
+        "source": "TripAdvisor-Bewertung"
+      },
+      {
+        "text": "Tolle Atmosphäre, man fühlt sich in die Vergangenheit versetzt. Gehen Sie auf die Wälle und genießen Sie den Blick auf den Platz.",
+        "source": "TripAdvisor-Bewertung"
+      },
+      {
+        "text": "Klein, aber schön — kombinieren Sie ihn mit dem Marktplatz und dem Königsschloss für einen perfekten Halbtagesspaziergang.",
+        "source": "TripAdvisor-Bewertung"
+      }
     ],
     "link": "Alle Bewertungen auf TripAdvisor lesen"
   },
@@ -198,25 +462,70 @@
     "title": "Häufige Fragen",
     "subtitle": "Praktische Antworten vor Ihrem Besuch.",
     "items": [
-      { "q": "Ist der Durchgang durch den Warschauer Barbakan kostenlos?", "a": "Ja. Der Durchgang durch das Tor und die erhaltenen Altstadtmauern sind kostenlos und rund um die Uhr das ganze Jahr geöffnet. Ein Ticket wird nur für die kleine Ausstellung im Inneren der Festung benötigt, die vom Warschauer Museum betrieben wird (Normal 12 zł, ermäßigt 8 zł) und nur in der Sommersaison öffnet." },
-      { "q": "Wie sind die Öffnungszeiten?", "a": "Der Durchgang selbst ist immer geöffnet. Die Ausstellung des Warschauer Museums ist saisonal — 2026 vom 20. Mai bis 29. August, mittwochs und samstags 13:00–17:00 Uhr. Der Zugang zu den Mauern hängt vom Wetter ab; nach Regen oder Eis können Abschnitte gesperrt sein." },
-      { "q": "Wie viel Zeit sollte ich einplanen?", "a": "Planen Sie 30–45 Minuten für Durchgang, Mauern und die Aussichtspunkte am Graben. Mit Altstadt-Marktplatz, Königsschloss und der beschriebenen Route sollten Sie 2–2,5 Stunden einplanen." },
-      { "q": "Kann man auf die Mauern steigen?", "a": "Ja, wo sie geöffnet sind — der Zugang ist kostenlos, hängt aber vom Wetter ab. Der Aufstieg erfolgt über Treppen; die Straßen unten sind gepflastert." },
-      { "q": "Wie komme ich mit öffentlichen Verkehrsmitteln zum Barbakan?", "a": "Nehmen Sie die Straßenbahnlinien 13, 23 oder 26 bis zur Haltestelle „Stare Miasto“, zwei Gehminuten entfernt. Mit der U-Bahn fahren Sie bis „Ratusz Arsenał“ (Linie 1) oder „Dworzec Gdański“ (Linie 2) und gehen 10–15 Minuten." },
-      { "q": "Was gibt es in der Nähe zu sehen?", "a": "Im Umkreis von zehn Gehminuten: Altstadt-Marktplatz, Erzbasilika St. Johannes, Königsschloss, Schlossplatz mit Sigismundssäule, Denkmal des Warschauer Aufstands und das Hauptgebäude des Warschauer Museums." },
-      { "q": "Wo sind die besten Fotomotive?", "a": "Der klassische Winkel ist die Podwale-Straße auf der Grabenseite, am besten morgens. Lohnenswert sind außerdem: die Nordseite an der Nowomiejska zur goldenen Stunde, das obere Ende der Mauern und Nachtaufnahmen der angestrahlten Festung." }
+      {
+        "q": "Ist der Durchgang durch den Warschauer Barbakan kostenlos?",
+        "a": "Ja. Der Durchgang durch das Tor und die erhaltenen Altstadtmauern sind kostenlos und rund um die Uhr das ganze Jahr geöffnet. Ein Ticket wird nur für die kleine Ausstellung im Inneren der Festung benötigt, die vom Warschauer Museum betrieben wird (Normal 12 zł, ermäßigt 8 zł) und nur in der Sommersaison öffnet."
+      },
+      {
+        "q": "Wie sind die Öffnungszeiten?",
+        "a": "Der Durchgang selbst ist immer geöffnet. Die Ausstellung des Warschauer Museums ist saisonal — 2026 vom 20. Mai bis 29. August, mittwochs und samstags 13:00–17:00 Uhr. Der Zugang zu den Mauern hängt vom Wetter ab; nach Regen oder Eis können Abschnitte gesperrt sein."
+      },
+      {
+        "q": "Wie viel Zeit sollte ich einplanen?",
+        "a": "Planen Sie 30–45 Minuten für Durchgang, Mauern und die Aussichtspunkte am Graben. Mit Altstadt-Marktplatz, Königsschloss und der beschriebenen Route sollten Sie 2–2,5 Stunden einplanen."
+      },
+      {
+        "q": "Kann man auf die Mauern steigen?",
+        "a": "Ja, wo sie geöffnet sind — der Zugang ist kostenlos, hängt aber vom Wetter ab. Der Aufstieg erfolgt über Treppen; die Straßen unten sind gepflastert."
+      },
+      {
+        "q": "Wie komme ich mit öffentlichen Verkehrsmitteln zum Barbakan?",
+        "a": "Nehmen Sie die Straßenbahnlinien 13, 23 oder 26 bis zur Haltestelle „Stare Miasto“, zwei Gehminuten entfernt. Mit der U-Bahn fahren Sie bis „Ratusz Arsenał“ (Linie 1) oder „Dworzec Gdański“ (Linie 2) und gehen 10–15 Minuten."
+      },
+      {
+        "q": "Was gibt es in der Nähe zu sehen?",
+        "a": "Im Umkreis von zehn Gehminuten: Altstadt-Marktplatz, Erzbasilika St. Johannes, Königsschloss, Schlossplatz mit Sigismundssäule, Denkmal des Warschauer Aufstands und das Hauptgebäude des Warschauer Museums."
+      },
+      {
+        "q": "Wo sind die besten Fotomotive?",
+        "a": "Der klassische Winkel ist die Podwale-Straße auf der Grabenseite, am besten morgens. Lohnenswert sind außerdem: die Nordseite an der Nowomiejska zur goldenen Stunde, das obere Ende der Mauern und Nachtaufnahmen der angestrahlten Festung."
+      }
     ]
   },
   "sources": {
     "title": "Quellen & Weiterführendes",
     "subtitle": "Die Informationen auf dieser Seite wurden anhand der folgenden offiziellen Quellen geprüft.",
     "items": [
-      { "name": "Barbakan — Warschauer Museum (offizielle Filialseite)", "url": "https://barbakan.muzeumwarszawy.pl/", "note": "Öffnungszeiten, Tickets und Ausstellungsinfos" },
-      { "name": "Barbakan — Besuchsinformationen (Wizyta)", "url": "https://barbakan.muzeumwarszawy.pl/wizyta/", "note": "Praktische Besuchsdetails und Wetterhinweis" },
-      { "name": "Warschauer Tourismusamt (Warsaw Tourist Information)", "url": "https://warsawtour.pl/", "note": "Offizielles Tourismusportal der Stadt" },
-      { "name": "UNESCO — Historisches Zentrum von Warschau", "url": "https://whc.unesco.org/en/list/30/", "note": "Welterbe-Eintrag (1980)" },
-      { "name": "Warschauer Nahverkehr (WTP)", "url": "https://www.wtp.waw.pl/", "note": "Tram- und U-Bahn-Linien & Fahrpläne" },
-      { "name": "Straßenbahnen in Warschau (Wikipedia PL)", "url": "https://pl.wikipedia.org/wiki/Tramwaje_w_Warszawie", "note": "Referenz zum Warschauer Straßenbahnnetz" }
+      {
+        "name": "Barbakan — Warschauer Museum (offizielle Filialseite)",
+        "url": "https://barbakan.muzeumwarszawy.pl/",
+        "note": "Öffnungszeiten, Tickets und Ausstellungsinfos"
+      },
+      {
+        "name": "Barbakan — Besuchsinformationen (Wizyta)",
+        "url": "https://barbakan.muzeumwarszawy.pl/wizyta/",
+        "note": "Praktische Besuchsdetails und Wetterhinweis"
+      },
+      {
+        "name": "Warschauer Tourismusamt (Warsaw Tourist Information)",
+        "url": "https://warsawtour.pl/",
+        "note": "Offizielles Tourismusportal der Stadt"
+      },
+      {
+        "name": "UNESCO — Historisches Zentrum von Warschau",
+        "url": "https://whc.unesco.org/en/list/30/",
+        "note": "Welterbe-Eintrag (1980)"
+      },
+      {
+        "name": "Warschauer Nahverkehr (WTP)",
+        "url": "https://www.wtp.waw.pl/",
+        "note": "Tram- und U-Bahn-Linien & Fahrpläne"
+      },
+      {
+        "name": "Straßenbahnen in Warschau (Wikipedia PL)",
+        "url": "https://pl.wikipedia.org/wiki/Tramwaje_w_Warszawie",
+        "note": "Referenz zum Warschauer Straßenbahnnetz"
+      }
     ],
     "photoCredit": "Die Fotos stammen aus freien Lizenzpools und dienen der Illustration; sie geben das Bauwerk möglicherweise nicht zum Aufnahmezeitpunkt wieder. Die Dateinamen finden Sie im Galerieordner."
   },
@@ -297,24 +606,60 @@
     "title": "Datenschutzerklärung",
     "lastUpdated": "Zuletzt aktualisiert: 2. September 2026",
     "sections": [
-      { "heading": "Wer wir sind", "text": "Diese Website ist ein unabhängiger, nicht-kommerzieller Besucherführer zum Warschauer Barbakan. Wir verkaufen keine Produkte und schalten keine bezahlte Werbung." },
-      { "heading": "Welche Daten wir erheben", "text": "Wir erheben keine personenbezogenen Daten direkt. Anonyme, aggregierte Statistiken können nach Ihrer Einwilligung datenschutzfreundlich verarbeitet werden." },
-      { "heading": "Cookies", "text": "Diese Website verwendet ein Einwilligungsbanner. Nur nach Ihrer Zustimmung können optionale Analyse-Cookies gesetzt werden. Sie können Ihre Wahl jederzeit auf der Seite Cookie-Einstellungen ändern." },
-      { "heading": "Dienste Dritter", "text": "Die eingebettete Karte wird von Google Maps bereitgestellt und unterliegt der Datenschutzrichtlinie von Google. Das Öffnen kann Cookies setzen, die von Google kontrolliert werden." },
-      { "heading": "Ihre Rechte", "text": "Sie können Cookies jederzeit in Ihren Browsereinstellungen löschen oder blockieren. Für die Nutzung dieser Website ist kein Konto erforderlich." },
-      { "heading": "Kontakt", "text": "Bei Fragen zum Datenschutz nutzen Sie bitte die auf der Hauptseite dieser Website veröffentlichten Kontaktdaten." }
+      {
+        "heading": "Wer wir sind",
+        "text": "Diese Website ist ein unabhängiger, nicht-kommerzieller Besucherführer zum Warschauer Barbakan. Wir verkaufen keine Produkte und schalten keine bezahlte Werbung."
+      },
+      {
+        "heading": "Welche Daten wir erheben",
+        "text": "Wir erheben keine personenbezogenen Daten direkt. Anonyme, aggregierte Statistiken können nach Ihrer Einwilligung datenschutzfreundlich verarbeitet werden."
+      },
+      {
+        "heading": "Cookies",
+        "text": "Diese Website verwendet ein Einwilligungsbanner. Nur nach Ihrer Zustimmung können optionale Analyse-Cookies gesetzt werden. Sie können Ihre Wahl jederzeit auf der Seite Cookie-Einstellungen ändern."
+      },
+      {
+        "heading": "Dienste Dritter",
+        "text": "Die eingebettete Karte wird von Google Maps bereitgestellt und unterliegt der Datenschutzrichtlinie von Google. Das Öffnen kann Cookies setzen, die von Google kontrolliert werden."
+      },
+      {
+        "heading": "Ihre Rechte",
+        "text": "Sie können Cookies jederzeit in Ihren Browsereinstellungen löschen oder blockieren. Für die Nutzung dieser Website ist kein Konto erforderlich."
+      },
+      {
+        "heading": "Kontakt",
+        "text": "Bei Fragen zum Datenschutz nutzen Sie bitte die auf der Hauptseite dieser Website veröffentlichten Kontaktdaten."
+      }
     ]
   },
   "terms": {
     "title": "Nutzungsbedingungen",
     "lastUpdated": "Zuletzt aktualisiert: 2. September 2026",
     "sections": [
-      { "heading": "Zweck", "text": "Diese Website bietet allgemeine Informationen zum Besuch des Warschauer Barbakans für Touristen und Individualreisende." },
-      { "heading": "Genauigkeit", "text": "Wir bemühen uns, alle Informationen korrekt zu halten, aber Öffnungszeiten, Ticketpreise und Verkehrsverbindungen können sich ändern. Überprüfen Sie zeitkritische Angaben immer anhand der offiziellen Quellen auf dieser Seite." },
-      { "heading": "Keine Empfehlungen", "text": "Erwähnungen von Einrichtungen und Dienstleistungen in der Nähe beschreiben nur Arten von Angeboten und stellen keine Empfehlungen oder kommerziellen Endorsements dar." },
-      { "heading": "Geistiges Eigentum", "text": "Originaltexte dieser Website dürfen für persönliche, nicht-kommerzielle Zwecke mit Quellenangabe verwendet werden. Fotografien werden unter ihren jeweiligen freien Lizenzen verwendet." },
-      { "heading": "Haftung", "text": "Wir haften nicht für Entscheidungen, die auf der Grundlage dieser Informationen getroffen werden. Besuchen Sie Sehenswürdigkeiten auf eigene Verantwortung und respektieren Sie die lokalen Regeln." },
-      { "heading": "Änderungen", "text": "Diese Bedingungen können von Zeit zu Zeit aktualisiert werden; das oben genannte Datum spiegelt die letzte Fassung wider." }
+      {
+        "heading": "Zweck",
+        "text": "Diese Website bietet allgemeine Informationen zum Besuch des Warschauer Barbakans für Touristen und Individualreisende."
+      },
+      {
+        "heading": "Genauigkeit",
+        "text": "Wir bemühen uns, alle Informationen korrekt zu halten, aber Öffnungszeiten, Ticketpreise und Verkehrsverbindungen können sich ändern. Überprüfen Sie zeitkritische Angaben immer anhand der offiziellen Quellen auf dieser Seite."
+      },
+      {
+        "heading": "Keine Empfehlungen",
+        "text": "Erwähnungen von Einrichtungen und Dienstleistungen in der Nähe beschreiben nur Arten von Angeboten und stellen keine Empfehlungen oder kommerziellen Endorsements dar."
+      },
+      {
+        "heading": "Geistiges Eigentum",
+        "text": "Originaltexte dieser Website dürfen für persönliche, nicht-kommerzielle Zwecke mit Quellenangabe verwendet werden. Fotografien werden unter ihren jeweiligen freien Lizenzen verwendet."
+      },
+      {
+        "heading": "Haftung",
+        "text": "Wir haften nicht für Entscheidungen, die auf der Grundlage dieser Informationen getroffen werden. Besuchen Sie Sehenswürdigkeiten auf eigene Verantwortung und respektieren Sie die lokalen Regeln."
+      },
+      {
+        "heading": "Änderungen",
+        "text": "Diese Bedingungen können von Zeit zu Zeit aktualisiert werden; das oben genannte Datum spiegelt die letzte Fassung wider."
+      }
     ]
   },
   "cookieSettings": {

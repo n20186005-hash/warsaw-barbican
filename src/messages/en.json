@@ -38,13 +38,34 @@
     "title": "Warsaw Barbican at a Glance",
     "intro": "Everything you need to know before you go.",
     "rows": [
-      { "label": "Address", "value": "Nowomiejska 15/17, 00-257 Warszawa, Poland" },
-      { "label": "Phone", "value": "+48 22 277 44 02" },
-      { "label": "Location", "value": "Warsaw Old Town (Stare Miasto), UNESCO World Heritage Site" },
-      { "label": "Google rating", "value": "4.7/5 (11,103 reviews)" },
-      { "label": "Admission", "value": "Free to walk through; exhibition from 12 zł" },
-      { "label": "Visit duration", "value": "30–45 minutes" },
-      { "label": "Combine with", "value": "Royal Castle, Old Town Market Square, Podwale Street" }
+      {
+        "label": "Address",
+        "value": "Nowomiejska 15/17, 00-257 Warszawa, Poland"
+      },
+      {
+        "label": "Phone",
+        "value": "+48 22 277 44 02"
+      },
+      {
+        "label": "Location",
+        "value": "Warsaw Old Town (Stare Miasto), UNESCO World Heritage Site"
+      },
+      {
+        "label": "Google rating",
+        "value": "4.7/5 (11,103 reviews)"
+      },
+      {
+        "label": "Admission",
+        "value": "Free to walk through; exhibition from 12 zł"
+      },
+      {
+        "label": "Visit duration",
+        "value": "30–45 minutes"
+      },
+      {
+        "label": "Combine with",
+        "value": "Royal Castle, Old Town Market Square, Podwale Street"
+      }
     ],
     "directions": "Get Directions"
   },
@@ -52,12 +73,18 @@
     "title": "Opening Hours & Ticket Prices",
     "passageTitle": "Gate passage & city walls",
     "passageText": "The gate passage and the surviving stretch of the Old Town walls are open to everyone all year round, 24 hours a day, and are completely free. Climbing onto the walls depends on current weather conditions — after rain or in winter ice, sections may be closed for safety.",
-    "exhibitionTitle": "Exhibition \u201cThe Barbican and the Walls of Old Warsaw\u201d",
+    "exhibitionTitle": "Exhibition “The Barbican and the Walls of Old Warsaw”",
     "exhibitionText": "The small exhibition inside the Barbican is run by the Museum of Warsaw (Muzeum Warszawy) and opens only in the summer season. In 2026 it runs from 20 May to 29 August, open on Wednesdays and Saturdays, 13:00–17:00. Always double-check the official website before your visit, as dates can change from year to year.",
     "ticketTitle": "Ticket prices",
     "ticketRows": [
-      { "type": "Normal ticket", "price": "12 zł" },
-      { "type": "Reduced ticket", "price": "8 zł" }
+      {
+        "type": "Normal ticket",
+        "price": "12 zł"
+      },
+      {
+        "type": "Reduced ticket",
+        "price": "8 zł"
+      }
     ],
     "ticketNote": "Tickets for the exhibition are sold only at the main ticket office of the Museum of Warsaw at Rynek Starego Miasta 28.",
     "officialLink": "Official visiting info",
@@ -76,36 +103,120 @@
     ],
     "timelineTitle": "Timeline",
     "timeline": [
-      { "year": "1543–1545", "title": "Fire and approval", "text": "The great fire of 1543 damages the northern defences; in 1545 the town council approves the barbican project to counter the fire risk and the threat of a Moldavian invasion." },
-      { "year": "1548", "title": "Construction", "text": "Venetian architect Jan Baptysta Wenecjanin builds the brick barbican with four gates, joining the Old and New Town walls." },
-      { "year": "18th c.", "title": "Warehouse and prison", "text": "The fortification loses its defensive role and is used as a storage building and jail." },
-      { "year": "19th c.", "title": "Demolition", "text": "During the Russian partition the walls are largely pulled down; the bricks are reused in new construction." },
-      { "year": "1939–1944", "title": "Second World War", "text": "The area is devastated during the Siege of Warsaw and the 1944 Warsaw Uprising." },
-      { "year": "1944", "title": "Warsaw Uprising", "text": "During the 1944 Warsaw Uprising the Old Town is methodically destroyed; the Barbican survives only as damaged wall stubs." },
-      { "year": "1952–1954", "title": "Reconstruction", "text": "Jan Zachwatowicz and Wacław Podlewski rebuild the Barbican using 16th-century brick from Nysa and Łowicz." },
-      { "year": "1980", "title": "UNESCO inscription", "text": "The Historic Centre of Warsaw, including the Barbican, is added to the UNESCO World Heritage List." }
+      {
+        "year": "1543–1545",
+        "title": "Fire and approval",
+        "text": "The great fire of 1543 damages the northern defences; in 1545 the town council approves the barbican project to counter the fire risk and the threat of a Moldavian invasion."
+      },
+      {
+        "year": "1548",
+        "title": "Construction",
+        "text": "Venetian architect Jan Baptysta Wenecjanin builds the brick barbican with four gates, joining the Old and New Town walls."
+      },
+      {
+        "year": "18th c.",
+        "title": "Warehouse and prison",
+        "text": "The fortification loses its defensive role and is used as a storage building and jail."
+      },
+      {
+        "year": "19th c.",
+        "title": "Demolition",
+        "text": "During the Russian partition the walls are largely pulled down; the bricks are reused in new construction."
+      },
+      {
+        "year": "1939–1944",
+        "title": "Second World War",
+        "text": "The area is devastated during the Siege of Warsaw and the 1944 Warsaw Uprising."
+      },
+      {
+        "year": "1944",
+        "title": "Warsaw Uprising",
+        "text": "During the 1944 Warsaw Uprising the Old Town is methodically destroyed; the Barbican survives only as damaged wall stubs."
+      },
+      {
+        "year": "1952–1954",
+        "title": "Reconstruction",
+        "text": "Jan Zachwatowicz and Wacław Podlewski rebuild the Barbican using 16th-century brick from Nysa and Łowicz."
+      },
+      {
+        "year": "1980",
+        "title": "UNESCO inscription",
+        "text": "The Historic Centre of Warsaw, including the Barbican, is added to the UNESCO World Heritage List."
+      }
     ]
   },
   "transport": {
+    "kicker": "Location & transport",
     "title": "How to Get There (Location & Transport)",
     "subtitle": "The Barbican stands at the northern end of the Old Town, where Nowomiejska and Podwale streets meet.",
     "items": [
-      { "mode": "Tram", "title": "Tram to Stare Miasto stop", "text": "Lines 13, 23 and 26 stop at \u201cStare Miasto\u201d, a two-minute walk from the Barbican. Timetables and any temporary reroutes are published by the operator on wtp.waw.pl." },
-      { "mode": "Metro", "title": "Metro + short walk", "text": "Take Metro Line 1 to \u201cRatusz Arsenał\u201d (about 10 minutes on foot through Plac Krasińskich) or Line 2 to \u201cDworzec Gdański\u201d (about 15 minutes). Both routes pass the Royal Route on the way in." },
-      { "mode": "On foot", "title": "From the Old Town", "text": "From the Old Town Market Square (Rynek Starego Miasta) it is a 3-minute walk north along Świętojańska and Freta streets. From the Royal Castle, allow 8 minutes." },
-      { "mode": "By car", "title": "Parking", "text": "The Old Town itself is car-free. The nearest parking areas are at Plac Krasińskich and along Krakowskie Przedmieście; expect limited spaces and paid zones." }
+      {
+        "mode": "Airport",
+        "title": "From Chopin Airport (WAW)",
+        "text": "Take the SKM train (line S2 or S3) to Warszawa Śródmieście and change to tram 13, 23 or 26 for Stare Miasto — about 40 minutes in total. Bus 175 runs from the terminal to Plac Zamkowy by the Royal Castle, an 8-minute walk from the Barbican. A taxi or ride-hailing car takes 25–35 minutes and costs roughly 45–70 PLN."
+      },
+      {
+        "mode": "Train",
+        "title": "From Warszawa Centralna",
+        "text": "From the main railway station take Metro line 1 one stop to Ratusz Arsenał and walk about 10 minutes through Plac Krasińskich, or catch a tram towards Stare Miasto. Allow 15–20 minutes by public transport; a taxi takes 5–10 minutes (about 15–25 PLN)."
+      },
+      {
+        "mode": "Bus",
+        "title": "Bus connections",
+        "text": "Bus 175 links Chopin Airport with Plac Zamkowy next to the Royal Castle, an 8-minute walk from the Barbican. Overnight, when the trams stop running, night buses with an “N” prefix serve the Old Town. Check live routes and diversions on wtp.waw.pl or in the Jakdojade app."
+      },
+      {
+        "mode": "Tram",
+        "title": "Tram to Stare Miasto stop",
+        "text": "Lines 13, 23 and 26 stop at “Stare Miasto”, a two-minute walk from the Barbican. Timetables and any temporary reroutes are published by the operator on wtp.waw.pl."
+      },
+      {
+        "mode": "Metro",
+        "title": "Metro + short walk",
+        "text": "Take Metro Line 1 to “Ratusz Arsenał” (about 10 minutes on foot through Plac Krasińskich) or Line 2 to “Dworzec Gdański” (about 15 minutes). Both routes pass the Royal Route on the way in."
+      },
+      {
+        "mode": "Taxi",
+        "title": "Taxi, Uber and Bolt",
+        "text": "Bolt, Uber and Free Now all operate in Warsaw. From the airport allow 25–35 minutes and roughly 45–70 PLN; from the city centre 5–15 minutes and about 15–25 PLN. The Old Town is pedestrianised, so drivers can only drop you at its edge — Plac Krasińskich or Podwale street."
+      },
+      {
+        "mode": "On foot",
+        "title": "From the Old Town",
+        "text": "From the Old Town Market Square (Rynek Starego Miasta) it is a 3-minute walk north along Świętojańska and Freta streets. From the Royal Castle, allow 8 minutes."
+      },
+      {
+        "mode": "By car",
+        "title": "Parking",
+        "text": "The Old Town itself is car-free. The nearest parking areas are at Plac Krasińskich and along Krakowskie Przedmieście; expect limited spaces and paid zones."
+      }
     ],
-    "note": "Public transport details verified against Warsaw's official operator (WTP) data."
+    "note": "Public transport details verified against Warsaw's official operator (WTP) and Chopin Airport information; journey times and fares are indicative and may change."
   },
   "walkingTour": {
     "title": "Old Town Walking Tour: Barbican to Royal Castle",
     "subtitle": "A self-guided loop that strings together the most photographed corners of Warsaw's Old Town. Distance: about 2.5 km on foot, 2–2.5 hours with stops.",
     "steps": [
-      { "title": "Start at the Barbican", "text": "Begin at the Barbican (Nowomiejska 15/17). Cross the moat side first — the view back from Podwale Street is the classic postcard angle, best in the morning light." },
-      { "title": "Follow the walls along Podwale", "text": "Walk south along Podwale Street, where the only surviving fragment of the medieval moat sits beside the walls. The well-preserved tenements around Podwale 83 are a favourite of local photographers." },
-      { "title": "Old Town Market Square (Rynek Starego Miasta)", "text": "Turn into the Market Square, heart of the reconstructed Old Town, ringed by 17th-century-style townhouses, cafés and the statue of the Warsaw Mermaid (Syrenka)." },
-      { "title": "St. John's Archcathedral & Royal Castle", "text": "Continue through Świętojańska Street past St. John's Archcathedral to Castle Square. The Royal Castle (Zamek Królewski) and Sigismund's Column mark the southern end of the route." },
-      { "title": "Loop back to the Barbican", "text": "Return north via Ulica Piwna or Długa Street, passing the Warsaw Uprising Monument at Plac Krasińskich before arriving back at the Barbican." }
+      {
+        "title": "Start at the Barbican",
+        "text": "Begin at the Barbican (Nowomiejska 15/17). Cross the moat side first — the view back from Podwale Street is the classic postcard angle, best in the morning light."
+      },
+      {
+        "title": "Follow the walls along Podwale",
+        "text": "Walk south along Podwale Street, where the only surviving fragment of the medieval moat sits beside the walls. The well-preserved tenements around Podwale 83 are a favourite of local photographers."
+      },
+      {
+        "title": "Old Town Market Square (Rynek Starego Miasta)",
+        "text": "Turn into the Market Square, heart of the reconstructed Old Town, ringed by 17th-century-style townhouses, cafés and the statue of the Warsaw Mermaid (Syrenka)."
+      },
+      {
+        "title": "St. John's Archcathedral & Royal Castle",
+        "text": "Continue through Świętojańska Street past St. John's Archcathedral to Castle Square. The Royal Castle (Zamek Królewski) and Sigismund's Column mark the southern end of the route."
+      },
+      {
+        "title": "Loop back to the Barbican",
+        "text": "Return north via Ulica Piwna or Długa Street, passing the Warsaw Uprising Monument at Plac Krasińskich before arriving back at the Barbican."
+      }
     ],
     "tip": "Route tip",
     "tipText": "Travelling with kids? The whole loop is flat and stroller-friendly on the streets; the walls themselves involve stairs."
@@ -114,38 +225,104 @@
     "title": "Nearby Attractions in Old Town Warsaw",
     "subtitle": "Everything worth seeing within a ten-minute walk of the Barbican.",
     "spots": [
-      { "name": "Old Town Market Square (Rynek Starego Miasta)", "note": "Reconstructed 17th-century square with the Warsaw Mermaid statue", "distance": "3 min walk" },
-      { "name": "Royal Castle (Zamek Królewski)", "note": "Rebuilt royal residence and museum at Castle Square", "distance": "8 min walk" },
-      { "name": "St. John's Archcathedral", "note": "Warsaw's oldest church, coronation and burial site of Polish monarchs", "distance": "6 min walk" },
-      { "name": "Warsaw Uprising Monument", "note": "Bronze monument on Plac Krasińskich honouring the 1944 fighters", "distance": "3 min walk" },
-      { "name": "Museum of Warsaw (Muzeum Warszawy)", "note": "Main building at Rynek Starego Miasta 28; also sells Barbican exhibition tickets", "distance": "4 min walk" },
-      { "name": "Castle Square & Sigismund's Column", "note": "Historic gateway to the Royal Route and the Old Town", "distance": "8 min walk" }
+      {
+        "name": "Old Town Market Square (Rynek Starego Miasta)",
+        "note": "Reconstructed 17th-century square with the Warsaw Mermaid statue",
+        "distance": "3 min walk"
+      },
+      {
+        "name": "Royal Castle (Zamek Królewski)",
+        "note": "Rebuilt royal residence and museum at Castle Square",
+        "distance": "8 min walk"
+      },
+      {
+        "name": "St. John's Archcathedral",
+        "note": "Warsaw's oldest church, coronation and burial site of Polish monarchs",
+        "distance": "6 min walk"
+      },
+      {
+        "name": "Warsaw Uprising Monument",
+        "note": "Bronze monument on Plac Krasińskich honouring the 1944 fighters",
+        "distance": "3 min walk"
+      },
+      {
+        "name": "Museum of Warsaw (Muzeum Warszawy)",
+        "note": "Main building at Rynek Starego Miasta 28; also sells Barbican exhibition tickets",
+        "distance": "4 min walk"
+      },
+      {
+        "name": "Castle Square & Sigismund's Column",
+        "note": "Historic gateway to the Royal Route and the Old Town",
+        "distance": "8 min walk"
+      }
     ]
   },
   "photoSpots": {
     "title": "Best Photo Spots",
     "subtitle": "Where the walls and the moat frame the best shots.",
     "spots": [
-      { "title": "Podwale Street, moat side", "text": "The classic postcard angle of the whole structure with the moat in front. Morning light is best." },
-      { "title": "Northern side on Nowomiejska", "text": "Golden-hour shots of the brick towers against the Freta Street skyline." },
-      { "title": "On top of the walls", "text": "Weather permitting, walk the walls for a raised view over Plac Krasińskich and the New Town." },
-      { "title": "Night photography", "text": "The Barbican is floodlit after dark — long exposures from the Podwale junction work beautifully." }
+      {
+        "title": "Podwale Street, moat side",
+        "text": "The classic postcard angle of the whole structure with the moat in front. Morning light is best."
+      },
+      {
+        "title": "Northern side on Nowomiejska",
+        "text": "Golden-hour shots of the brick towers against the Freta Street skyline."
+      },
+      {
+        "title": "On top of the walls",
+        "text": "Weather permitting, walk the walls for a raised view over Plac Krasińskich and the New Town."
+      },
+      {
+        "title": "Night photography",
+        "text": "The Barbican is floodlit after dark — long exposures from the Podwale junction work beautifully."
+      }
     ]
   },
   "facilities": {
     "title": "Facilities Nearby",
     "subtitle": "Practical services in the immediate Old Town area (types only — no commercial endorsements).",
     "items": [
-      { "type": "Public toilets", "hint": "Near the Old Town Market Square and Plac Krasińskich" },
-      { "type": "Cafés & restaurants", "hint": "Old Town Market Square, Świętojańska, Podwale" },
-      { "type": "Hotels & accommodation", "hint": "Old Town and New Town districts" },
-      { "type": "Souvenir shops", "hint": "Old Town Market Square and Freta Street" },
-      { "type": "Parking", "hint": "Plac Krasińskich and Krakowskie Przedmieście" },
-      { "type": "ATMs", "hint": "Old Town area, several banks nearby" },
-      { "type": "Grocery & convenience stores", "hint": "Small shops on Podwale, Freta and Długa; larger supermarkets in the city centre" },
-      { "type": "Fuel stations & EV charging", "hint": "Nearest stations along the Vistula riverside and around Marszałkowska, outside the car-free zone" },
-      { "type": "Pharmacies", "hint": "Old Town and Nowy Świat; check the night-duty roster if needed" },
-      { "type": "Bike & e-scooter rental", "hint": "Dockless rentals are available; cycling is restricted inside the Old Town" }
+      {
+        "type": "Public toilets",
+        "hint": "Near the Old Town Market Square and Plac Krasińskich"
+      },
+      {
+        "type": "Cafés & restaurants",
+        "hint": "Old Town Market Square, Świętojańska, Podwale"
+      },
+      {
+        "type": "Hotels & accommodation",
+        "hint": "Old Town and New Town districts"
+      },
+      {
+        "type": "Souvenir shops",
+        "hint": "Old Town Market Square and Freta Street"
+      },
+      {
+        "type": "Parking",
+        "hint": "Plac Krasińskich and Krakowskie Przedmieście"
+      },
+      {
+        "type": "ATMs",
+        "hint": "Old Town area, several banks nearby"
+      },
+      {
+        "type": "Grocery & convenience stores",
+        "hint": "Small shops on Podwale, Freta and Długa; larger supermarkets in the city centre"
+      },
+      {
+        "type": "Fuel stations & EV charging",
+        "hint": "Nearest stations along the Vistula riverside and around Marszałkowska, outside the car-free zone"
+      },
+      {
+        "type": "Pharmacies",
+        "hint": "Old Town and Nowy Świat; check the night-duty roster if needed"
+      },
+      {
+        "type": "Bike & e-scooter rental",
+        "hint": "Dockless rentals are available; cycling is restricted inside the Old Town"
+      }
     ],
     "note": "The listed categories describe what is available nearby. Opening times vary by season and operator."
   },
@@ -153,44 +330,131 @@
     "title": "Stories & Legends",
     "subtitle": "Facts and tales behind Warsaw's only surviving medieval gate.",
     "items": [
-      { "kind": "Fact", "title": "Built in haste", "text": "After the 1543 fire and the threat of a Moldavian raid, the town council approved the barbican in 1545; the Venetian master builder completed it within three years — fast even by Renaissance standards." },
-      { "kind": "Fact", "title": "The Venetian architect", "text": "Jan Baptysta Wenecjanin came to Poland as an expert in artillery fortifications. His Warsaw barbican remains one of only a handful of such structures preserved north of the Alps." },
-      { "kind": "Fact", "title": "Dismantled stone by stone", "text": "In the 19th century the barbican was sold off and demolished, its brick reused across the city — a loss mourned by local historians ever since." },
-      { "kind": "Fact", "title": "Rebuilt with old bricks", "text": "The 1952–1954 reconstruction by Jan Zachwatowicz and Wacław Podlewski reused genuine 16th-century brick from Nysa and Łowicz so the new walls would look authentically old." },
-      { "kind": "Story", "title": "A gate between two towns", "text": "Old and New Warsaw were separate municipalities for centuries. Locals say the barbican was where one town's street lamps ended and the other's began — a small but real border in daily life." },
-      { "kind": "Fact", "title": "World heritage", "text": "In 1980 the reconstructed Historic Centre of Warsaw — Barbican included — was inscribed on the UNESCO World Heritage List as a unique example of near-total post-war reconstruction." },
-      { "kind": "Story", "title": "Where the name “Barbican” comes from", "text": "“Barbican” derives from the medieval Latin barbacana — a detached outwork in front of a gate. Linguists trace the word further back to Arabic, and it travelled across Europe with the military engineers who built these structures. That is why similar gates in Kraków, Gdańsk and even London share the name." },
-      { "kind": "Fact", "title": "The moat that returned", "text": "The original moat was filled in during the 19th century. When the Barbican was rebuilt in 1952–1954, the dry ditch in front of it was recreated from 17th-century engravings — which is why the moat-side view still looks like the pre-partition city." },
-      { "kind": "Fact", "title": "Survived the Uprising as rubble", "text": "During the 1944 Warsaw Uprising the Old Town was methodically destroyed. The Barbican was left as damaged stubs and was only rebuilt in 1952–1954 — which is why today it stands as a symbol of the city's own reconstruction." }
+      {
+        "kind": "Fact",
+        "title": "Built in haste",
+        "text": "After the 1543 fire and the threat of a Moldavian raid, the town council approved the barbican in 1545; the Venetian master builder completed it within three years — fast even by Renaissance standards."
+      },
+      {
+        "kind": "Fact",
+        "title": "The Venetian architect",
+        "text": "Jan Baptysta Wenecjanin came to Poland as an expert in artillery fortifications. His Warsaw barbican remains one of only a handful of such structures preserved north of the Alps."
+      },
+      {
+        "kind": "Fact",
+        "title": "Dismantled stone by stone",
+        "text": "In the 19th century the barbican was sold off and demolished, its brick reused across the city — a loss mourned by local historians ever since."
+      },
+      {
+        "kind": "Fact",
+        "title": "Rebuilt with old bricks",
+        "text": "The 1952–1954 reconstruction by Jan Zachwatowicz and Wacław Podlewski reused genuine 16th-century brick from Nysa and Łowicz so the new walls would look authentically old."
+      },
+      {
+        "kind": "Story",
+        "title": "A gate between two towns",
+        "text": "Old and New Warsaw were separate municipalities for centuries. Locals say the barbican was where one town's street lamps ended and the other's began — a small but real border in daily life."
+      },
+      {
+        "kind": "Fact",
+        "title": "World heritage",
+        "text": "In 1980 the reconstructed Historic Centre of Warsaw — Barbican included — was inscribed on the UNESCO World Heritage List as a unique example of near-total post-war reconstruction."
+      },
+      {
+        "kind": "Story",
+        "title": "Where the name “Barbican” comes from",
+        "text": "“Barbican” derives from the medieval Latin barbacana — a detached outwork in front of a gate. Linguists trace the word further back to Arabic, and it travelled across Europe with the military engineers who built these structures. That is why similar gates in Kraków, Gdańsk and even London share the name."
+      },
+      {
+        "kind": "Fact",
+        "title": "The moat that returned",
+        "text": "The original moat was filled in during the 19th century. When the Barbican was rebuilt in 1952–1954, the dry ditch in front of it was recreated from 17th-century engravings — which is why the moat-side view still looks like the pre-partition city."
+      },
+      {
+        "kind": "Fact",
+        "title": "Survived the Uprising as rubble",
+        "text": "During the 1944 Warsaw Uprising the Old Town was methodically destroyed. The Barbican was left as damaged stubs and was only rebuilt in 1952–1954 — which is why today it stands as a symbol of the city's own reconstruction."
+      }
     ]
   },
   "gallery": {
     "title": "Photo Gallery",
     "subtitle": "The Warsaw Barbican and the Old Town walls in pictures.",
     "items": [
-      { "src": "/gallery/warsaw-barbican-1.jpg", "caption": "The Barbican gate from the moat side on Podwale Street" },
-      { "src": "/gallery/warsaw-barbican-2.jpg", "caption": "Red-brick towers of the northern fortification" },
-      { "src": "/gallery/warsaw-barbican-3.jpg", "caption": "Walking through the free gate passage" },
-      { "src": "/gallery/warsaw-barbican-4.jpg", "caption": "The walls and the surviving medieval moat" },
-      { "src": "/gallery/warsaw-barbican-5.jpg", "caption": "Old Town walls seen from Plac Krasińskich" },
-      { "src": "/gallery/warsaw-barbican-6.jpg", "caption": "Detail of the 16th-century brickwork" },
-      { "src": "/gallery/warsaw-barbican-7.jpg", "caption": "The Barbican from Nowomiejska Street at golden hour" },
-      { "src": "/gallery/warsaw-barbican-8.jpg", "caption": "View from the walls towards the New Town" },
-      { "src": "/gallery/warsaw-barbican-9.jpg", "caption": "Evening light on the western walls" },
-      { "src": "/gallery/warsaw-barbican-10.jpg", "caption": "The gate passage connecting Old and New Town" },
-      { "src": "/gallery/warsaw-barbican-11.jpg", "caption": "Podwale Street tenements beside the walls" },
-      { "src": "/gallery/warsaw-barbican-12.jpg", "caption": "Winter view of the Barbican and the moat" },
-      { "src": "/gallery/warsaw-barbican-13.jpg", "caption": "The fortification at dusk from Plac Krasińskich" },
-      { "src": "/gallery/warsaw-barbican-14.jpg", "caption": "Panorama of the Old Town walls from the south" }
+      {
+        "src": "/gallery/warsaw-barbican-1.jpg",
+        "caption": "The Barbican gate from the moat side on Podwale Street"
+      },
+      {
+        "src": "/gallery/warsaw-barbican-2.jpg",
+        "caption": "Red-brick towers of the northern fortification"
+      },
+      {
+        "src": "/gallery/warsaw-barbican-3.jpg",
+        "caption": "Walking through the free gate passage"
+      },
+      {
+        "src": "/gallery/warsaw-barbican-4.jpg",
+        "caption": "The walls and the surviving medieval moat"
+      },
+      {
+        "src": "/gallery/warsaw-barbican-5.jpg",
+        "caption": "Old Town walls seen from Plac Krasińskich"
+      },
+      {
+        "src": "/gallery/warsaw-barbican-6.jpg",
+        "caption": "Detail of the 16th-century brickwork"
+      },
+      {
+        "src": "/gallery/warsaw-barbican-7.jpg",
+        "caption": "The Barbican from Nowomiejska Street at golden hour"
+      },
+      {
+        "src": "/gallery/warsaw-barbican-8.jpg",
+        "caption": "View from the walls towards the New Town"
+      },
+      {
+        "src": "/gallery/warsaw-barbican-9.jpg",
+        "caption": "Evening light on the western walls"
+      },
+      {
+        "src": "/gallery/warsaw-barbican-10.jpg",
+        "caption": "The gate passage connecting Old and New Town"
+      },
+      {
+        "src": "/gallery/warsaw-barbican-11.jpg",
+        "caption": "Podwale Street tenements beside the walls"
+      },
+      {
+        "src": "/gallery/warsaw-barbican-12.jpg",
+        "caption": "Winter view of the Barbican and the moat"
+      },
+      {
+        "src": "/gallery/warsaw-barbican-13.jpg",
+        "caption": "The fortification at dusk from Plac Krasińskich"
+      },
+      {
+        "src": "/gallery/warsaw-barbican-14.jpg",
+        "caption": "Panorama of the Old Town walls from the south"
+      }
     ]
   },
   "reviews": {
     "title": "What Visitors Say",
     "statLine": "Rated among the top attractions of Warsaw — 1,118+ reviews on TripAdvisor, #42 of 692 things to do in the city.",
     "quotes": [
-      { "text": "Free to walk through and one of the most photogenic spots in the Old Town — the moat view from Podwale is unforgettable.", "source": "TripAdvisor review" },
-      { "text": "Great atmosphere, you almost feel thrown back in time. Walk the ramparts and enjoy the view of the square.", "source": "TripAdvisor review" },
-      { "text": "Small but beautiful — combine it with the Market Square and the Royal Castle for a perfect half-day walk.", "source": "TripAdvisor review" }
+      {
+        "text": "Free to walk through and one of the most photogenic spots in the Old Town — the moat view from Podwale is unforgettable.",
+        "source": "TripAdvisor review"
+      },
+      {
+        "text": "Great atmosphere, you almost feel thrown back in time. Walk the ramparts and enjoy the view of the square.",
+        "source": "TripAdvisor review"
+      },
+      {
+        "text": "Small but beautiful — combine it with the Market Square and the Royal Castle for a perfect half-day walk.",
+        "source": "TripAdvisor review"
+      }
     ],
     "link": "Read all reviews on TripAdvisor"
   },
@@ -198,25 +462,70 @@
     "title": "Frequently Asked Questions",
     "subtitle": "Practical answers before you visit.",
     "items": [
-      { "q": "Is the Warsaw Barbican free to walk through?", "a": "Yes. The gate passage and the surviving Old Town walls are free and open 24/7 all year round. A ticket is only required for the small exhibition inside the fortification, run by the Museum of Warsaw (normal 12 zł, reduced 8 zł), which opens in the summer season only." },
-      { "q": "What are the opening hours?", "a": "The passage itself is open at all times. The Museum of Warsaw exhibition is seasonal — in 2026 from 20 May to 29 August, Wednesdays and Saturdays 13:00–17:00. Access to the walls depends on the weather; after rain or ice, sections can be closed." },
-      { "q": "How long do I need for a visit?", "a": "Plan 30–45 minutes to walk the passage, the walls and the moat viewpoints. If you add the Old Town Market Square, the Royal Castle and the walking route described above, set aside 2–2.5 hours." },
-      { "q": "Can you climb onto the walls?", "a": "Yes, where open — access is free but depends on weather conditions. The walkway is reached by stairs, and the streets below are cobbled." },
-      { "q": "How do I get to the Barbican by public transport?", "a": "Take tram lines 13, 23 or 26 to the \u201cStare Miasto\u201d stop, a two-minute walk away. By metro, get off at \u201cRatusz Arsenał\u201d (Line 1) or \u201cDworzec Gdański\u201d (Line 2) and walk 10–15 minutes." },
-      { "q": "What is there to see nearby?", "a": "Within a ten-minute walk: the Old Town Market Square, St. John's Archcathedral, the Royal Castle, Castle Square with Sigismund's Column, the Warsaw Uprising Monument and the main building of the Museum of Warsaw." },
-      { "q": "Where are the best photo spots?", "a": "The classic angle is from Podwale Street on the moat side, best in the morning. Also rewarding: the northern side on Nowomiejska at golden hour, the top of the walls, and night shots of the floodlit fortification." }
+      {
+        "q": "Is the Warsaw Barbican free to walk through?",
+        "a": "Yes. The gate passage and the surviving Old Town walls are free and open 24/7 all year round. A ticket is only required for the small exhibition inside the fortification, run by the Museum of Warsaw (normal 12 zł, reduced 8 zł), which opens in the summer season only."
+      },
+      {
+        "q": "What are the opening hours?",
+        "a": "The passage itself is open at all times. The Museum of Warsaw exhibition is seasonal — in 2026 from 20 May to 29 August, Wednesdays and Saturdays 13:00–17:00. Access to the walls depends on the weather; after rain or ice, sections can be closed."
+      },
+      {
+        "q": "How long do I need for a visit?",
+        "a": "Plan 30–45 minutes to walk the passage, the walls and the moat viewpoints. If you add the Old Town Market Square, the Royal Castle and the walking route described above, set aside 2–2.5 hours."
+      },
+      {
+        "q": "Can you climb onto the walls?",
+        "a": "Yes, where open — access is free but depends on weather conditions. The walkway is reached by stairs, and the streets below are cobbled."
+      },
+      {
+        "q": "How do I get to the Barbican by public transport?",
+        "a": "Take tram lines 13, 23 or 26 to the “Stare Miasto” stop, a two-minute walk away. By metro, get off at “Ratusz Arsenał” (Line 1) or “Dworzec Gdański” (Line 2) and walk 10–15 minutes."
+      },
+      {
+        "q": "What is there to see nearby?",
+        "a": "Within a ten-minute walk: the Old Town Market Square, St. John's Archcathedral, the Royal Castle, Castle Square with Sigismund's Column, the Warsaw Uprising Monument and the main building of the Museum of Warsaw."
+      },
+      {
+        "q": "Where are the best photo spots?",
+        "a": "The classic angle is from Podwale Street on the moat side, best in the morning. Also rewarding: the northern side on Nowomiejska at golden hour, the top of the walls, and night shots of the floodlit fortification."
+      }
     ]
   },
   "sources": {
     "title": "Sources & Further Reading",
     "subtitle": "Information on this page was verified against the following official sources.",
     "items": [
-      { "name": "Barbakan — Muzeum Warszawy (official branch site)", "url": "https://barbakan.muzeumwarszawy.pl/", "note": "Opening hours, tickets and exhibition info" },
-      { "name": "Barbakan — visiting info (Wizyta)", "url": "https://barbakan.muzeumwarszawy.pl/wizyta/", "note": "Practical visiting details and weather note" },
-      { "name": "Warsaw Tourism Office (Warsaw Tourist Information)", "url": "https://warsawtour.pl/", "note": "Official city tourism portal" },
-      { "name": "UNESCO — Historic Centre of Warsaw", "url": "https://whc.unesco.org/en/list/30/", "note": "World Heritage inscription (1980)" },
-      { "name": "Warsaw Public Transport (WTP)", "url": "https://www.wtp.waw.pl/", "note": "Tram and metro routes & timetables" },
-      { "name": "Tramwaje w Warszawie (Wikipedia PL)", "url": "https://pl.wikipedia.org/wiki/Tramwaje_w_Warszawie", "note": "Warsaw tram network reference" }
+      {
+        "name": "Barbakan — Muzeum Warszawy (official branch site)",
+        "url": "https://barbakan.muzeumwarszawy.pl/",
+        "note": "Opening hours, tickets and exhibition info"
+      },
+      {
+        "name": "Barbakan — visiting info (Wizyta)",
+        "url": "https://barbakan.muzeumwarszawy.pl/wizyta/",
+        "note": "Practical visiting details and weather note"
+      },
+      {
+        "name": "Warsaw Tourism Office (Warsaw Tourist Information)",
+        "url": "https://warsawtour.pl/",
+        "note": "Official city tourism portal"
+      },
+      {
+        "name": "UNESCO — Historic Centre of Warsaw",
+        "url": "https://whc.unesco.org/en/list/30/",
+        "note": "World Heritage inscription (1980)"
+      },
+      {
+        "name": "Warsaw Public Transport (WTP)",
+        "url": "https://www.wtp.waw.pl/",
+        "note": "Tram and metro routes & timetables"
+      },
+      {
+        "name": "Tramwaje w Warszawie (Wikipedia PL)",
+        "url": "https://pl.wikipedia.org/wiki/Tramwaje_w_Warszawie",
+        "note": "Warsaw tram network reference"
+      }
     ],
     "photoCredit": "Photos are used for illustrative purposes from free-licence image pools and may not depict the exact monument at the moment of capture. See the gallery folder for file names."
   },
@@ -224,8 +533,8 @@
     "title": "Location & Map",
     "subtitle": "Find the Barbican at Nowomiejska 15/17, at the northern tip of the Old Town.",
     "transportTitle": "Getting here",
-    "tramLine": "Tram: lines 13, 23, 26 → \u201cStare Miasto\u201d stop (2 min walk)",
-    "metroLine": "Metro: Line 1 \u201cRatusz Arsenał\u201d (10 min) or Line 2 \u201cDworzec Gdański\u201d (15 min)",
+    "tramLine": "Tram: lines 13, 23, 26 → “Stare Miasto” stop (2 min walk)",
+    "metroLine": "Metro: Line 1 “Ratusz Arsenał” (10 min) or Line 2 “Dworzec Gdański” (15 min)",
     "walking": "On foot: 3 min from the Old Town Market Square, 8 min from the Royal Castle",
     "authorityText": "Official visiting information",
     "authorityLink": "barbakan.muzeumwarszawy.pl",
@@ -297,24 +606,60 @@
     "title": "Privacy Policy",
     "lastUpdated": "Last updated: September 2, 2026",
     "sections": [
-      { "heading": "Who we are", "text": "This website is an independent, non-commercial visitor guide to the Warsaw Barbican. We do not sell products and we do not run paid advertising." },
-      { "heading": "Data we collect", "text": "We collect no personal data directly. Anonymous, aggregated statistics may be processed through privacy-friendly analytics when you have given consent." },
-      { "heading": "Cookies", "text": "This site uses a consent banner. Only after you approve may optional analytics cookies be set. You can change your choice at any time in the Cookie Settings page." },
-      { "heading": "Third-party services", "text": "The embedded map is provided by Google Maps and is subject to Google's own privacy policy. Opening it may set cookies controlled by Google." },
-      { "heading": "Your rights", "text": "You may delete or block cookies in your browser settings at any time. No account is required to use this website." },
-      { "heading": "Contact", "text": "For privacy questions, please use the contact details published on the main page of this site." }
+      {
+        "heading": "Who we are",
+        "text": "This website is an independent, non-commercial visitor guide to the Warsaw Barbican. We do not sell products and we do not run paid advertising."
+      },
+      {
+        "heading": "Data we collect",
+        "text": "We collect no personal data directly. Anonymous, aggregated statistics may be processed through privacy-friendly analytics when you have given consent."
+      },
+      {
+        "heading": "Cookies",
+        "text": "This site uses a consent banner. Only after you approve may optional analytics cookies be set. You can change your choice at any time in the Cookie Settings page."
+      },
+      {
+        "heading": "Third-party services",
+        "text": "The embedded map is provided by Google Maps and is subject to Google's own privacy policy. Opening it may set cookies controlled by Google."
+      },
+      {
+        "heading": "Your rights",
+        "text": "You may delete or block cookies in your browser settings at any time. No account is required to use this website."
+      },
+      {
+        "heading": "Contact",
+        "text": "For privacy questions, please use the contact details published on the main page of this site."
+      }
     ]
   },
   "terms": {
     "title": "Terms of Service",
     "lastUpdated": "Last updated: September 2, 2026",
     "sections": [
-      { "heading": "Purpose", "text": "This site provides general information about visiting the Warsaw Barbican for tourists and independent travellers." },
-      { "heading": "Accuracy", "text": "We aim to keep all information accurate, but opening hours, ticket prices and transport routes may change. Always verify time-sensitive details with the official sources linked on this page." },
-      { "heading": "No endorsement", "text": "Mentions of facilities and nearby services describe types of amenities only and do not constitute recommendations or commercial endorsements." },
-      { "heading": "Intellectual property", "text": "Original text on this site may be used for personal, non-commercial purposes with attribution. Photographs are used under their respective free licences." },
-      { "heading": "Liability", "text": "We are not liable for decisions made based on this information. Visit attractions at your own discretion and respect local rules." },
-      { "heading": "Changes", "text": "We may update these terms from time to time; the date above reflects the latest revision." }
+      {
+        "heading": "Purpose",
+        "text": "This site provides general information about visiting the Warsaw Barbican for tourists and independent travellers."
+      },
+      {
+        "heading": "Accuracy",
+        "text": "We aim to keep all information accurate, but opening hours, ticket prices and transport routes may change. Always verify time-sensitive details with the official sources linked on this page."
+      },
+      {
+        "heading": "No endorsement",
+        "text": "Mentions of facilities and nearby services describe types of amenities only and do not constitute recommendations or commercial endorsements."
+      },
+      {
+        "heading": "Intellectual property",
+        "text": "Original text on this site may be used for personal, non-commercial purposes with attribution. Photographs are used under their respective free licences."
+      },
+      {
+        "heading": "Liability",
+        "text": "We are not liable for decisions made based on this information. Visit attractions at your own discretion and respect local rules."
+      },
+      {
+        "heading": "Changes",
+        "text": "We may update these terms from time to time; the date above reflects the latest revision."
+      }
     ]
   },
   "cookieSettings": {
