@@ -4,5 +4,6 @@ import { routing } from "./i18n/routing";
 export default createMiddleware(routing);
 
 export const config = {
-  matcher: ["/", "/(pl|en|zh|ru|de)/:path*"],
+  // 匹配所有路径，排除 API 路由、Next.js 内部路由和含点号的静态文件
+  matcher: ["/((?!api|trpc|_next|_vercel|.*\\..*).*)"],
 };

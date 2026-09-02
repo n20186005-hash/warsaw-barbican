@@ -1,10 +1,5 @@
 import { setRequestLocale, getTranslations } from "next-intl/server";
-import { routing } from "@/i18n/routing";
 import CookieSettingsClient from "@/components/CookieSettingsClient";
-
-export function generateStaticParams() {
-  return routing.locales.map((locale) => ({ locale }));
-}
 
 export default async function CookieSettingsPage({
   params,

@@ -1,14 +1,6 @@
-import { setRequestLocale } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
 
-export default async function NotFoundPage({
-  params,
-}: {
-  params: Promise<{ locale: string }>;
-}) {
-  const { locale } = await params;
-  setRequestLocale(locale);
-
+export default function NotFoundPage() {
   return (
     <div className="policy-page">
       <div className="container" style={{ textAlign: "center" }}>
