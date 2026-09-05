@@ -249,16 +249,7 @@ export default async function WeatherSection() {
           </div>
         </div>
 
-        <p className="weather-note">
-          {t("updatedNote")} ·{" "}
-          <a
-            href="https://open-meteo.com/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            open-meteo.com ↗
-          </a>
-        </p>
+        <p className="weather-note">{t("updatedNote")}</p>
       </div>
     </section>
   );
